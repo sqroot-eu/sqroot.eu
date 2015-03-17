@@ -18,7 +18,7 @@ wordpress_id: 263
 wordpress_url: http://sqroot.eu/?p=263
 date: '2010-09-17 23:56:55 +0300'
 date_gmt: '2010-09-17 21:56:55 +0300'
-categories:
+category:
 - Personal
 - Opinions
 tags: []

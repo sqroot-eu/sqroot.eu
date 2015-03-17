@@ -15,7 +15,7 @@ wordpress_id: 368
 wordpress_url: http://sqroot.eu/?p=368
 date: '2010-10-25 23:58:37 +0300'
 date_gmt: '2010-10-25 21:58:37 +0300'
-categories:
+category:
 - Opinions
 tags:
 - free

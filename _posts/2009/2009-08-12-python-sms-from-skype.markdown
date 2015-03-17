@@ -1,6 +1,6 @@
 ---
 title: 'Python: SMS from Skype'
-category: Software Development
+category: Projects
 tags:
 - linux
 - python

@@ -12,10 +12,14 @@ timezone: Europe/Tallinn
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: "/:year/:month/:title"
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Default settings
 defaults:

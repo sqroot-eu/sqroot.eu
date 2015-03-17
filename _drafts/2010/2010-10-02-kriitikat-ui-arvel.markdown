@@ -15,7 +15,7 @@ wordpress_id: 338
 wordpress_url: http://sqroot.eu/?p=338
 date: '2010-10-02 16:17:00 +0300'
 date_gmt: '2010-10-02 14:17:00 +0300'
-categories:
+category:
 - Opinions
 tags:
 - eesti

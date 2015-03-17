@@ -15,7 +15,7 @@ wordpress_id: 309
 wordpress_url: http://sqroot.eu/?p=309
 date: '2010-09-20 16:40:16 +0300'
 date_gmt: '2010-09-20 14:40:16 +0300'
-categories:
+category:
 - IT College
 tags:
 - browser

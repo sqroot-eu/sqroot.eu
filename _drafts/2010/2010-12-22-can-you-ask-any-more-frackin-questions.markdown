@@ -15,7 +15,7 @@ wordpress_id: 484
 wordpress_url: http://sqroot.eu/?p=484
 date: '2010-12-22 20:36:26 +0200'
 date_gmt: '2010-12-22 18:36:26 +0200'
-categories:
+category:
 - Personal
 - IT College
 tags:

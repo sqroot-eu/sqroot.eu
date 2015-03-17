@@ -18,7 +18,7 @@ wordpress_id: 445
 wordpress_url: http://sqroot.eu/?p=445
 date: '2010-11-19 13:55:09 +0200'
 date_gmt: '2010-11-19 11:55:09 +0200'
-categories:
+category:
 - IT College
 - Coding
 tags:

@@ -15,7 +15,7 @@ wordpress_id: 437
 wordpress_url: http://sqroot.eu/?p=437
 date: '2010-10-12 18:00:09 +0300'
 date_gmt: '2010-10-12 16:00:09 +0300'
-categories:
+category:
 - Friday Night Project
 tags:
 - idee

@@ -17,7 +17,7 @@ wordpress_id: 429
 wordpress_url: http://sqroot.eu/?p=429
 date: '2010-11-09 22:59:50 +0200'
 date_gmt: '2010-11-09 20:59:50 +0200'
-categories:
+category:
 - Python
 tags:
 - python

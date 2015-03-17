@@ -15,7 +15,7 @@ wordpress_id: 440
 wordpress_url: http://sqroot.eu/?p=440
 date: '2010-10-28 21:02:41 +0300'
 date_gmt: '2010-10-28 19:02:41 +0300'
-categories:
+category:
 - Friday Night Project
 tags:
 - linux

@@ -15,7 +15,7 @@ wordpress_id: 412
 wordpress_url: http://sqroot.eu/?p=412
 date: '2010-11-07 20:38:16 +0200'
 date_gmt: '2010-11-07 18:38:16 +0200'
-categories:
+category:
 - Coding
 tags:
 - java

@@ -17,7 +17,7 @@ wordpress_id: 473
 wordpress_url: http://sqroot.eu/?p=473
 date: '2010-12-20 00:53:15 +0200'
 date_gmt: '2010-12-19 22:53:15 +0200'
-categories:
+category:
 - Personal
 tags:
 - fantasy

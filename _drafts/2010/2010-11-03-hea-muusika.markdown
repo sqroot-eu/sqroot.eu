@@ -15,7 +15,7 @@ wordpress_id: 386
 wordpress_url: http://sqroot.eu/?p=386
 date: '2010-11-03 18:33:56 +0200'
 date_gmt: '2010-11-03 16:33:56 +0200'
-categories:
+category:
 - Opinions
 tags:
 - muusika

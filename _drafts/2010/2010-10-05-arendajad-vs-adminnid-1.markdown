@@ -15,7 +15,7 @@ wordpress_id: 347
 wordpress_url: http://sqroot.eu/?p=347
 date: '2010-10-05 21:31:46 +0300'
 date_gmt: '2010-10-05 19:31:46 +0300'
-categories:
+category:
 - IT College
 tags:
 - ITK

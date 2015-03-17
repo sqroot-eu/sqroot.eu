@@ -15,7 +15,7 @@ wordpress_id: 394
 wordpress_url: http://sqroot.eu/?p=394
 date: '2010-11-06 13:19:10 +0200'
 date_gmt: '2010-11-06 11:19:10 +0200'
-categories:
+category:
 - IT College
 tags:
 - facebook

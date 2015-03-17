@@ -15,7 +15,7 @@ wordpress_id: 468
 wordpress_url: http://sqroot.eu/?p=468
 date: '2010-12-15 01:22:46 +0200'
 date_gmt: '2010-12-14 23:22:46 +0200'
-categories:
+category:
 - Opinions
 tags:
 - privacy

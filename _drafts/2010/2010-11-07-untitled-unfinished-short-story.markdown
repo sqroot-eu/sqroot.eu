@@ -15,7 +15,7 @@ wordpress_id: 402
 wordpress_url: http://sqroot.eu/?p=402
 date: '2010-11-07 12:57:41 +0200'
 date_gmt: '2010-11-07 10:57:41 +0200'
-categories:
+category:
 - Uncategorized
 tags:
 - fantasy

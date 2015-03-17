@@ -15,7 +15,7 @@ wordpress_id: 442
 wordpress_url: http://sqroot.eu/?p=442
 date: '2010-11-12 22:27:46 +0200'
 date_gmt: '2010-11-12 20:27:46 +0200'
-categories:
+category:
 - Friday Night Project
 tags:
 - facebook

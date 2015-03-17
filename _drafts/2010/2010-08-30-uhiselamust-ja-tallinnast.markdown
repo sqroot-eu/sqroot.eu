@@ -17,7 +17,7 @@ wordpress_id: 227
 wordpress_url: http://sqroot.eu/?p=227
 date: '2010-08-30 14:28:05 +0300'
 date_gmt: '2010-08-30 14:28:05 +0300'
-categories:
+category:
 - Personal
 tags: []
 comments: []

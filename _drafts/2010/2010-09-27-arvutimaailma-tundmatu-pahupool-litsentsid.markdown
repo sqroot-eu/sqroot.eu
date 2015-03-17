@@ -15,7 +15,7 @@ wordpress_id: 331
 wordpress_url: http://sqroot.eu/?p=331
 date: '2010-09-27 13:22:02 +0300'
 date_gmt: '2010-09-27 11:22:02 +0300'
-categories:
+category:
 - Opinions
 tags:
 - eula

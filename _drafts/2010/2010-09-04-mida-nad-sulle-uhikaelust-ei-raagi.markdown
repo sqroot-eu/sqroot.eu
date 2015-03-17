@@ -15,7 +15,7 @@ wordpress_id: 232
 wordpress_url: http://sqroot.eu/?p=232
 date: '2010-09-04 18:42:47 +0300'
 date_gmt: '2010-09-04 18:42:47 +0300'
-categories:
+category:
 - Personal
 tags:
 - kool

@@ -15,7 +15,7 @@ wordpress_id: 275
 wordpress_url: http://sqroot.eu/?p=275
 date: '2010-09-19 21:56:21 +0300'
 date_gmt: '2010-09-19 19:56:21 +0300'
-categories:
+category:
 - Opinions
 tags:
 - autorikaitse

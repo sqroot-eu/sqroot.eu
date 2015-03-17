@@ -15,7 +15,7 @@ wordpress_id: 185
 wordpress_url: http://sqroot.eu/?p=185
 date: '2010-08-11 19:25:17 +0300'
 date_gmt: '2010-08-11 19:25:17 +0300'
-categories:
+category:
 - Personal
 tags:
 - linux

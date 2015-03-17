@@ -15,7 +15,7 @@ wordpress_id: 426
 wordpress_url: http://sqroot.eu/?p=426
 date: '2010-11-09 19:11:15 +0200'
 date_gmt: '2010-11-09 17:11:15 +0200'
-categories:
+category:
 - Opinions
 tags: []
 comments: []
