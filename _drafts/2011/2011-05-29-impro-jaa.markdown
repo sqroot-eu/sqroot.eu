@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Impro - Jaa!
+author:
+  display_name: David
+  login: admin
+  email: david@sqroot.eu
+  url: http://sqroot.eu
+author_login: admin
+author_email: david@sqroot.eu
+author_url: http://sqroot.eu
+wordpress_id: 796
+wordpress_url: http://sqroot.eu/?p=796
+date: '2011-05-29 21:39:06 +0300'
+date_gmt: '2011-05-29 19:39:06 +0300'
+categories:
+- Personal
+tags:
+- Improvisational theatre
+- impro
+- teater
+comments:
+- id: 2707
+  author: Improvisational Theater in the Estonian Army &mdash; SQRoot
+  author_email: ''
+  author_url: http://sqroot.eu/2014/01/improvisational-theater-in-the-estonian-army/
+  date: '2014-01-02 03:29:15 +0200'
+  date_gmt: '2014-01-02 01:29:15 +0200'
+  content: "[&#8230;] discovered improvisational theater a few years ago when I signed
+    up to an introductory workshop (by Improgrupp Jaa!, then one of the two existing
+    troupes in Estonia). That experience completely [&#8230;]"
+---
+<p>Avastasin Tallinna Tudengipäevadel, et siin <em>[Tallinn]</em> on tõepoolest noori, kes teevad amatöör-improt...ja hästi. Olen käinud kahel <a href="http://jaa.ee">Improgrupp Jaa!</a> etendusel ja töötoas ning Neljapäeval osalen esimeses proovis... kind of.</p>
+<p>Impro on minu jaoks midagi põnevat ja viisiks inimestele spontaanselt rõõmu tuua. Samas piirdub mu ajalugu praktilise teatri vallas koolinäidenditega. Ma tõesti loodan, et minus on impro-materjali. We'll see...</p>
+<p>Ahaa... kallid lugejad, külastage ühte tulevast etendust, garanteerin, et naerukrampidest ei pääse. Kindlasti etem ja kultuursem viis aega veeta kui seebikad?</p>

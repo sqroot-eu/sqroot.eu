@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Summer of '10
+author:
+  display_name: David
+  login: admin
+  email: david@sqroot.eu
+  url: http://sqroot.eu
+author_login: admin
+author_email: david@sqroot.eu
+author_url: http://sqroot.eu
+wordpress_id: 602
+wordpress_url: http://sqroot.eu/?p=602
+date: '2011-03-06 21:17:06 +0200'
+date_gmt: '2011-03-06 19:17:06 +0200'
+categories:
+- Uncategorized
+tags:
+- photography
+- samsung monte
+comments: []
+---
+<p><a href="http://sqroot.eu/wp-content/uploads/2011/03/DSC00704.jpg"><img alt="" class="aligncenter size-medium wp-image-603" src="http://sqroot.eu/wp-content/uploads/2011/03/DSC00704-300x225.jpg" style="border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;margin-left: 10px;margin-right: 10px;margin-top: 10px;margin-bottom: 10px;width: 300px;height: 225px" /></a>&nbsp;Believe it or not, this is the landfill site in Kunda. I&#039;m far from an average photographer, but I think this one turned out all right. Taken with Samsung Monte just before the sunset.</p>

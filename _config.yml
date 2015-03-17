@@ -1,0 +1,29 @@
+# Site settings
+title: SQroot
+header-img: content/site/home-bg.jpg
+email: ando@sqroot.eu
+description: "A personal blog about IT & life"
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: SQrooted
+github_username:  anroots
+facebook_username:
+timezone: Europe/Tallinn
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: "/:year/:month/:title"
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: "Ando"
+      comments: false
+      layout: "post"

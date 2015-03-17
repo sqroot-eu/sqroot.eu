@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Tweet
+author:
+  display_name: David
+  login: admin
+  email: david@sqroot.eu
+  url: http://sqroot.eu
+author_login: admin
+author_email: david@sqroot.eu
+author_url: http://sqroot.eu
+wordpress_id: 846
+wordpress_url: http://sqroot.eu/?p=846
+date: '2011-07-10 18:35:16 +0300'
+date_gmt: '2011-07-10 16:35:16 +0300'
+categories:
+- Personal
+tags:
+- impro
+- improv
+- theatre
+comments: []
+---
+<p>Olin t&auml;na &uuml;le kuue tunni impro- ja teatrilainel... Mis on naljakas, sest kui keegi oleks mulle aasta tagasi &ouml;elnud, et mees, sa teed teatrit...noh, ma oleksin veidi skeptiline olnud.</p>
+<p>Hommikul oli koolitus lavalisest liikumisest - osa <a href="https://www.facebook.com/groups/antonijuures">Antoni Juures</a> programmist. P&ouml;&ouml;rasime t&auml;helepanu liikumiskiirustele ning motivatsioonile. Hiljem tegime <a href="http://www.youtube.com/watch?v=XX1uK5DzvHs">niisama-improt</a>, l&otilde;unapaus ning kolmetunnine proov veel otsa. Etendus on <a href="http://jaa.ee">tuleval reedel</a>.</p>
+<p>Selle logi m&otilde;te? Kaheosaline: a) Tulge<a href="http://jaa.ee"> Improgrupp Jaa</a>!-d vaatama, sest meie inimesed on lihtsalt nii lahedad. b) vaata a)</p>
