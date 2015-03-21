@@ -15,7 +15,7 @@ wordpress_id: 866
 wordpress_url: http://sqroot.eu/?p=866
 date: '2011-08-05 15:06:18 +0300'
 date_gmt: '2011-08-05 13:06:18 +0300'
-categories:
+category:
 - PHP
 tags:
 - php
@@ -25,8 +25,12 @@ tags:
 - snippet
 comments: []
 ---
-<p>Here&#039;s a PHP function that returns 2 random, but (mostly) constant HEX color codes.</p>
-<p>The function takes a single parameter - a string - and returns an array with 2 colors.</p>
+
+Here&#039;s a PHP function that returns 2 random, but (mostly) constant HEX color codes.
+
+
+The function takes a single parameter - a string - and returns an array with 2 colors.
+
 <pre>   /**
      * A function that returns a random background and font color.
      * The output is constant as long as the input string remains unchanged.

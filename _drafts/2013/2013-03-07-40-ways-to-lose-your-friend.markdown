@@ -16,7 +16,7 @@ wordpress_id: 2979
 wordpress_url: http://sqroot.eu/?p=2979
 date: '2013-03-07 12:38:20 +0200'
 date_gmt: '2013-03-07 10:38:20 +0200'
-categories:
+category:
 - Writings
 tags:
 - humor
@@ -32,8 +32,12 @@ comments:
   date_gmt: '2013-03-10 10:12:38 +0200'
   content: You made me *haha* more than once. Great list!
 ---
-<p>Friends are important. One good friend is worth more than many, many acquaintances. Don't fuck it up.</p>
-<p><em>To be considered as humor, not as an actual to-do list. Loosely inspired by my life.</em></p>
+
+Friends are important. One good friend is worth more than many, many acquaintances. Don't fuck it up.
+
+
+<em>To be considered as humor, not as an actual to-do list. Loosely inspired by my life.</em>
+
 <h3>40 Ways To Lose Your Friend</h3>
 <ul>
 <li>Selfishly try to use him to to fill your business-quotas.</li>
@@ -77,4 +81,6 @@ comments:
 <li>Accidentally kill her cat / fish / dog when pet-sitting.</li>
 <li>Write a blog post titled "X ways to lose your friend".</li>
 </ul>
-<p>To my friends: thank you for putting up with me.</p>
+
+To my friends: thank you for putting up with me.
+

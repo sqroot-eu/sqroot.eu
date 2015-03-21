@@ -15,7 +15,7 @@ wordpress_id: 626
 wordpress_url: http://sqroot.eu/?p=626
 date: '2011-03-16 10:16:23 +0200'
 date_gmt: '2011-03-16 08:16:23 +0200'
-categories:
+category:
 - Opinions
 tags:
 - ads
@@ -23,12 +23,24 @@ tags:
 - scam
 comments: []
 ---
-<p>T&auml;na leidis &uuml;ks popup aken tee minu ekraanile. Kuna olin just lugenud selle kuu &Uuml;li&otilde;pilaslehest teemaga haakuvat artikklit Facebookist ja reklaamist, otsustasin pakkumise kohta rohkem v&auml;lja selgitada.</p>
-<p>Asja uba oli selles, et olin midagi v&otilde;itnud ning pakkumise saamiseks on vaja teada minu e-posti aadressi.</p>
-<p>Vaatame esmalt URL-i. Paneme t&auml;hele, et &uuml;lemdomeeni .info &uuml;ritatakse esitada .com all.</p>
-<p>http://www.couponwinner.<strong>com</strong>-net.<strong>info</strong>/lp1/?sid=mv</p>
-<p>Mis juhtub, kui see ilma ilma <strong>/lp1/?sid=mv</strong> avada? N&auml;ha on kogu kataloogipuu. N&uuml;&uuml;d on uudishimuliku k&uuml;lastaja elu k&uuml;ll l&otilde;bus.</p>
-<p>Kui esmamulje lehe tegijatest oli mul kohe alguses madal, siis sellist amateuristlikku suhtumist n&auml;hes langes see nullil&auml;hedale. J&auml;rgmiseks uurigem, kellele see com-net.info &otilde;igupoolest kuulub. Selleks kasutame t&ouml;&ouml;riista <a href="http://whois.domaintools.com/com-net.info">WHOIS</a>. Selgub, et sealt ei saa midagi kasulikku. Veelgi: sama IP all on ka teisi kahtlasev&otilde;itu saite.</p>
+
+T&auml;na leidis &uuml;ks popup aken tee minu ekraanile. Kuna olin just lugenud selle kuu &Uuml;li&otilde;pilaslehest teemaga haakuvat artikklit Facebookist ja reklaamist, otsustasin pakkumise kohta rohkem v&auml;lja selgitada.
+
+
+Asja uba oli selles, et olin midagi v&otilde;itnud ning pakkumise saamiseks on vaja teada minu e-posti aadressi.
+
+
+Vaatame esmalt URL-i. Paneme t&auml;hele, et &uuml;lemdomeeni .info &uuml;ritatakse esitada .com all.
+
+
+http://www.couponwinner.<strong>com</strong>-net.<strong>info</strong>/lp1/?sid=mv
+
+
+Mis juhtub, kui see ilma ilma <strong>/lp1/?sid=mv</strong> avada? N&auml;ha on kogu kataloogipuu. N&uuml;&uuml;d on uudishimuliku k&uuml;lastaja elu k&uuml;ll l&otilde;bus.
+
+
+Kui esmamulje lehe tegijatest oli mul kohe alguses madal, siis sellist amateuristlikku suhtumist n&auml;hes langes see nullil&auml;hedale. J&auml;rgmiseks uurigem, kellele see com-net.info &otilde;igupoolest kuulub. Selleks kasutame t&ouml;&ouml;riista <a href="http://whois.domaintools.com/com-net.info">WHOIS</a>. Selgub, et sealt ei saa midagi kasulikku. Veelgi: sama IP all on ka teisi kahtlasev&otilde;itu saite.
+
 <h4>Norime:</h4>
 <ul>
 <li>Leht&nbsp;v&auml;idab, et ma olen 17. k&uuml;lastaja ka siis, kui sait uuesti laadida - paistab, et neil on t&otilde;esti V&Auml;GA H&Otilde;RE liiklus. Sama jutt esitatakse mulle ka siis, kui neid l&auml;bi anan&uuml;&uuml;mse proxy v&auml;lismaalt k&uuml;lastan.</li>
@@ -44,20 +56,32 @@ comments: []
 <li>Kolme inimest, kelle nimed ja linnad v&otilde;itjatena esitatakse, <a href="http://pipl.com/search/?FirstName=Helena+&amp;LastName=Ivanov&amp;City=padise&amp;State=&amp;Country=EE&amp;CategoryID=2&amp;Interface=2">ei eksisteeri</a>. Kas seda, v&otilde;i on tegemist &uuml;limalt tagasihoidlike persoonidega, kes internetis ei liigu (aga kuidas nad siis kampaanialehele sattusid?)</li>
 <li>Teised reklaamlehed (http://www.couponwinner.com-net.info/ on avalik kaustastruktuur) andsid osaliselt ingliskeelseid ja vigase PHP koodiga lehti. Kui inimesi t&uuml;ssata, v&otilde;iks seda v&auml;hemalt stiilselt teha.</li>
 </ul>
-<p>&nbsp;</p>
+
+&nbsp;
+
 <h4>Minu j&auml;reldused:</h4>
 <ol>
 <li>
-<p>Lehe koostaja (koodikirjutaja) tuleks a) saata v&otilde;&otilde;rutuskuurile (don&#039;t be evil) ja b) programeerimiskooli.</p>
+
+Lehe koostaja (koodikirjutaja) tuleks a) saata v&otilde;&otilde;rutuskuurile (don&#039;t be evil) ja b) programeerimiskooli.
+
 </li>
 <li>
-<p>Kedagi tuleks trahvida v&otilde;i avalikult hukka m&otilde;ista</p>
+
+Kedagi tuleks trahvida v&otilde;i avalikult hukka m&otilde;ista
+
 </li>
 <li>
-<p>Avalikuse teadlikust tuleks selliste haledate, kuid effektiivsete pettuste vastu t&otilde;sta, seda just praeguses t&ouml;&ouml;ealises p&otilde;lvkonnas.</p>
+
+Avalikuse teadlikust tuleks selliste haledate, kuid effektiivsete pettuste vastu t&otilde;sta, seda just praeguses t&ouml;&ouml;ealises p&otilde;lvkonnas.
+
 </li>
 <li>
-<p>Keegi, kes s&otilde;nadega minust paremini l&auml;bi saab, v&otilde;iks samateemalise artikli massimeedias avaldada.</p>
+
+Keegi, kes s&otilde;nadega minust paremini l&auml;bi saab, v&otilde;iks samateemalise artikli massimeedias avaldada.
+
 </li>
 </ol>
-<p>Suurim turvarisk on on rumal ja v&otilde;imas kasutaja. Don&#039;t be a fool.</p>
+
+Suurim turvarisk on on rumal ja v&otilde;imas kasutaja. Don&#039;t be a fool.
+

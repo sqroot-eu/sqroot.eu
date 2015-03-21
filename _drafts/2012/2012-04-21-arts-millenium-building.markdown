@@ -15,7 +15,7 @@ wordpress_id: 1588
 wordpress_url: http://sqroot.eu/locations/arts-millenium-building/
 date: '2012-04-21 09:02:49 +0300'
 date_gmt: '2012-04-21 09:02:49 +0300'
-categories: []
+category: []
 tags: []
 comments: []
 ---

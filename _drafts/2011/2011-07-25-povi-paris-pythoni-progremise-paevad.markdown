@@ -12,11 +12,19 @@ author_login: admin
 author_email: david@sqroot.eu
 author_url: http://sqroot.eu
 excerpt: |
-  <p>Povi &otilde;petab Pythonit progema! Kooli&otilde;pilastele-&otilde;petajatel?e ja Povisse praktikale tulevatele &uuml;li&otilde;pilastele tasuta!</p>
-  <p>&nbsp;</p>
+  
+Povi &otilde;petab Pythonit progema! Kooli&otilde;pilastele-&otilde;petajatel?e ja Povisse praktikale tulevatele &uuml;li&otilde;pilastele tasuta!
+
+  
+&nbsp;
+
   <h3>Day #1: My solutions</h3>
-  <p>&nbsp;</p>
-  <p><a href="http://lauri.vosandi.eu/wiki/?page=exercise-apache">Apache log analyzer</a></p>
+  
+&nbsp;
+
+  
+<a href="http://lauri.vosandi.eu/wiki/?page=exercise-apache">Apache log analyzer</a>
+
   <pre>#!/usr/bin/python
   # -*- coding: utf-8 -*-
   __author__ = &#039;Ando&#039;
@@ -65,16 +73,24 @@ wordpress_id: 850
 wordpress_url: http://sqroot.eu/?p=850
 date: '2011-07-25 11:42:31 +0300'
 date_gmt: '2011-07-25 09:42:31 +0300'
-categories:
+category:
 - Uncategorized
 tags: []
 comments: []
 ---
-<p>Povi &otilde;petab Pythonit progema! Kooli&otilde;pilastele-&otilde;petajatel?e ja Povisse praktikale tulevatele &uuml;li&otilde;pilastele tasuta!</p>
-<p>&nbsp;</p>
+
+Povi &otilde;petab Pythonit progema! Kooli&otilde;pilastele-&otilde;petajatel?e ja Povisse praktikale tulevatele &uuml;li&otilde;pilastele tasuta!
+
+
+&nbsp;
+
 <h3>Day #1: My solutions</h3>
-<p>&nbsp;</p>
-<p><a href="http://lauri.vosandi.eu/wiki/?page=exercise-apache">Apache log analyzer</a></p>
+
+&nbsp;
+
+
+<a href="http://lauri.vosandi.eu/wiki/?page=exercise-apache">Apache log analyzer</a>
+
 <pre>#!/usr/bin/python
 # -*- coding: utf-8 -*-
 __author__ = &#039;Ando&#039;
@@ -119,8 +135,12 @@ for name in os:
     print name.upper() + &#039;, %i times, %f%%&#039; % (os[name], percentages[name])
 
 print &quot;nEND&quot;</pre>
-<p><a id="more"></a><a id="more-850"></a></p>
-<p><a href="http://lauri.vosandi.eu/wiki/?page=exercise-openssh">Openssh r&uuml;nnak</a></p>
+
+<a id="more"></a><a id="more-850"></a>
+
+
+<a href="http://lauri.vosandi.eu/wiki/?page=exercise-openssh">Openssh r&uuml;nnak</a>
+
 <pre>#!/usr/bin/python
 # -*- coding: utf-8 -*-
 __author__ = &#039;Ando&#039;
@@ -147,7 +167,9 @@ for item in sorted(counter, key=counter.get):
 
 print &quot;nEND&quot;
 </pre>
-<p><a href="http://lauri.vosandi.eu/wiki/?page=exercise-samba">Simple SAMBA conf</a></p>
+
+<a href="http://lauri.vosandi.eu/wiki/?page=exercise-samba">Simple SAMBA conf</a>
+
 <pre>#!/usr/bin/python
 # -*- coding: utf-8 -*-
 __author__ = &#039;Ando&#039;
@@ -206,7 +228,9 @@ else:
         print &quot;Found shared folder&quot;, folder
 
 print &quot;END&quot;</pre>
-<p><a href="http://lauri.vosandi.eu/wiki/?page=exercise-parted">GParted</a></p>
+
+<a href="http://lauri.vosandi.eu/wiki/?page=exercise-parted">GParted</a>
+
 <pre>#!/usr/bin/python
 # -*- coding: utf-8 -*-
 __author__ = &#039;Ando&#039;

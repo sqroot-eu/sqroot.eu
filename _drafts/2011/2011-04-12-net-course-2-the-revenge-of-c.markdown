@@ -15,7 +15,7 @@ wordpress_id: 702
 wordpress_url: http://sqroot.eu/?p=702
 date: '2011-04-12 19:52:43 +0300'
 date_gmt: '2011-04-12 17:52:43 +0300'
-categories:
+category:
 - IT College
 - Coding
 tags:
@@ -24,7 +24,9 @@ tags:
 - visual studio
 comments: []
 ---
-<p>&nbsp;</p>
+
+&nbsp;
+
 <pre>using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -49,9 +51,15 @@ namespace ConsoleApplication1
 }
 
 </pre>
-<p><a href="http://sqroot.eu/wp-content/uploads/2011/04/Rateonline.png"><img alt="" class="aligncenter size-medium wp-image-701" src="http://sqroot.eu/wp-content/uploads/2011/04/Rateonline-300x181.png" style="width: 300px;height: 181px;border-width: 1px;border-style: solid;margin: 10px" /></a></p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2011/04/Activate.png"><img alt="" class="aligncenter size-medium wp-image-705" src="http://sqroot.eu/wp-content/uploads/2011/04/Activate-300x236.png" style="width: 300px;height: 236px;border-width: 1px;border-style: solid;margin: 10px" /></a></p>
-<p>Teemad:</p>
+
+<a href="http://sqroot.eu/wp-content/uploads/2011/04/Rateonline.png"><img alt="" class="aligncenter size-medium wp-image-701" src="http://sqroot.eu/wp-content/uploads/2011/04/Rateonline-300x181.png" style="width: 300px;height: 181px;border-width: 1px;border-style: solid;margin: 10px" /></a>
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2011/04/Activate.png"><img alt="" class="aligncenter size-medium wp-image-705" src="http://sqroot.eu/wp-content/uploads/2011/04/Activate-300x236.png" style="width: 300px;height: 236px;border-width: 1px;border-style: solid;margin: 10px" /></a>
+
+
+Teemad:
+
 <ul>
 <li>Objektid, klassid, nende k&auml;itumine m&auml;lus</li>
 <li>Meetodid, andmet&uuml;&uuml;bid</li>

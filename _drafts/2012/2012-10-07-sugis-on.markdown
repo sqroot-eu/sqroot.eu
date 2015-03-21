@@ -19,7 +19,7 @@ wordpress_id: 2719
 wordpress_url: http://sqroot.eu/?p=2719
 date: '2012-10-07 03:04:37 +0300'
 date_gmt: '2012-10-07 00:04:37 +0300'
-categories:
+category:
 - Personal
 - Featured
 tags:
@@ -28,72 +28,207 @@ tags:
 - sügis
 comments: []
 ---
-<p>Läksin täna päeval korraks ühikast välja lihtsalt selleks, et sügiseses linnalooduses kõndida. Trollipeatuse tagune, muruplatsid ning pargirajad olid kollaseid sügislehti paksult täis. Järgnev on Facebook vestluse ümberkirjutus (<em>mõlema osapoole loal</em>) omadustest, mille järgi sügist ära tunda ja nautida. Kaaslaseks <a title="Here Comes The Rain Playlist @ 8tracks.com" href="http://8tracks.com/1026miles/here-comes-the-rain" target="_blank">vihmase ilma muusikat</a>.</p>
+
+Läksin täna päeval korraks ühikast välja lihtsalt selleks, et sügiseses linnalooduses kõndida. Trollipeatuse tagune, muruplatsid ning pargirajad olid kollaseid sügislehti paksult täis. Järgnev on Facebook vestluse ümberkirjutus (<em>mõlema osapoole loal</em>) omadustest, mille järgi sügist ära tunda ja nautida. Kaaslaseks <a title="Here Comes The Rain Playlist @ 8tracks.com" href="http://8tracks.com/1026miles/here-comes-the-rain" target="_blank">vihmase ilma muusikat</a>.
+
 <div style="clear: both;"></div>
-<p>&nbsp;</p>
-<p style="font-size: 18px;">Sügis on...</p>
-<p><strong>/D:</strong> Lehesadu!</p>
-<p><strong>M:</strong> Sügistuul ja soojus!</p>
-<p><strong>/D:</strong> Lendavad linnud ja päike!</p>
-<p><strong>M:</strong> Värvid! Need tuhanded värvid!</p>
-<p><strong>/D:</strong> Need vihmapiisad, mis hoolikalt paigutatud sallist hoolimata mõnikord tee krae vahele leiavad.</p>
-<p><strong>M:</strong> Ja see tuul, mis lennutab kaabusid. Olgu need nii hoolikalt juustele vajutatud, kui tahes...</p>
-<p><strong>/D:</strong> Ja need suured veelombid, millest mööda pääsemiseks peab äärekivil kõndima ning kuhu saab sihilikult sisse astuda, et tüdrukuid märjaks pritsida!</p>
-<p><strong>M:</strong> Pikad pilgud, mis saadavad sinu suvist keksimist, muutuvad lühemaks. Ja keks ise vaid üheks võimaluseks lompe ületada</p>
-<p><strong>/D:</strong> Kokkuvolditav vihmavari, mis raevukale tuulele vastu ei suuda panna ning käest ära üritab lennata - ja see vihane lahing, mis tänaval kõndides varju ja tuule vahel aset leiab.</p>
-<p><strong>M:</strong> Pikk vihmavari, mis tuulega väiksemad isikud endaga lendama kaasa võtab ja mida pole peale vihma lõppu kuhugi pista</p>
-<p><strong>/D:</strong> Need väikesed isikud, kelle ülarõivad pisikese purjena käituvad ja kes end pahatihti maast leiavad... ning suuremad õed, kes tillukesed taas püsti aitavad.</p>
-<p><strong>M:</strong> Ja need sallid, need vallatud punased ja rohelised sallid, mis seljataga lehvivad ja millel tundub olevat sama hea meel tagakõndijaid näha, kui ühel vallatul koerakutsikal</p>
-<p><strong>/D:</strong> Südaöine spontaanne äikesevihm, mis on vaatamata ootustele veel võrdlemisi soe ja see viis, kuidas ettevaatamatu vihmavarjuta väljaastuja viie sekundiga läbimärjaks saab... ning kallistus, mis antakse tuppa jõudes kiljuvale tüdrukule, kes sügisvihma tulemused oma pehmet vaipa rikkumast leiab.<a id="more"></a><a id="more-2719"></a></p>
-<p><strong>M:</strong> Kõik need ootamatu vihmasabina tõttu langenud lehed, mis otse lagipähe maanduvad ja tekitavad pidevalt tunde, nagu keegi teeks pai</p>
-<p><strong>/D:</strong> See uskumatult hea tunne, mis tekkib pikali suures kuhjas kuivades kollastes vahtralehtedes vahtra-ingleid tehes.</p>
-<p><strong>M:</strong> ja lehesõda mängides...ning oma väikevend lehekuhja ära kaotades</p>
-<p><strong>/D:</strong> Ehmatus, mis tekkib siis, kui kassil õnnestub lehekuhjast välja hüpata ja sind ehmatada.</p>
-<p><strong>M:</strong> ja "rõõm" mis tekib koera käpakarvadest lehetuuste pärast jalutamist välja korjates</p>
-<p><strong>/D:</strong> Punastest pihkamarjadest tulvil puu akna taga.</p>
-<p><strong>M:</strong> Igihaljas kuusk, millel tundub olevat hea meel suve mineku üle...vähemalt saab nüüd selle sooja kasuka alla natukene jahutavat tuult</p>
-<p><strong>/D:</strong> Morn ilme näkkide nägudel kui selgub, et täna on esimene hommik, mil üliminiseelikus välja minek on juba talumatult külm.</p>
-<p><strong>M:</strong> ja külmast plagisevad hambad nendel, kes seda õigel ajal ei taibanud</p>
-<p><strong>/D:</strong> Kallistus, mis trolli tulekuni sooja hoiab.</p>
-<p><strong>M:</strong> Kindad, mis teevad käehoidmise natukene veidraks</p>
-<p><strong>/D:</strong> Üksik poriplekk laitmatult puhastel mustadel viigipükstel.</p>
-<p><strong>M:</strong> Sajad sarnased äsjaviksitud tanksaabastel</p>
-<p><strong>/D:</strong> Tumepruun ja kuum tass šokolaadi peale pikka jalutuskäiku tuule ja vihma käes.</p>
-<p><strong>M:</strong> Meeldiv seltskond, kellega koos seda kohvikus nautides on hea väljas möllavat maru vaadata</p>
-<p><strong>/D:</strong> See turvatunne, mis tekib soojast toast klaasi taga möllavat raju vaadates.</p>
-<p><strong>M:</strong> See mure, mis tekib lähedaste pärast teades, et nad läksid just oma ukhe kleidiga teatrisse</p>
-<p><strong>/D:</strong> Must valgete käppadega kass, kes ööseks välja vihmatormi kätte kadunuks jäi... ja kergendustunne ning hellad paitused hommikul, kui kadunud roju aknast tuppa ronib.</p>
-<p><strong>M:</strong> Suured sügisesed kallistused täis värve, lehtede sabinat ja lõbusaid vihmapiisku</p>
-<p><strong>/D:</strong> Vaikides vahetatud pikk prantsuse suudlus külmas paduvihmas, kus mõlemad osalejad läbimärjaks saavad ja hiljem tulises vannis toibuvad.</p>
-<p><strong>M:</strong> Jahe sügistuul, mis kahte häbelikku üksteisele lähemale tõukab</p>
-<p><strong>/D:</strong> Ema küpsetatud soe õunakook verandale paistvates viimastes päikesekiirtes.</p>
-<p><strong>M:</strong> Kaneelisaiade hõrk aroom, mille sügistuul köögist sinuni kannab</p>
-<p><strong>/D:</strong> Suur kausitäis punapõskseid õunu, mis värskelt korjatuna köögilauale pandakse.</p>
-<p><strong>M:</strong> Vanaema uus kõrvitsakollektsioon, mis rõõmsalt kööginurgas seisab</p>
-<p><strong>/D:</strong> Viis riiulitäit jahtuvaid kompotte uue aastanumbriga külmas keldrinurgas.</p>
-<p><strong>M:</strong> Oma aias valminud punase sügisõuna magushapu aroom, kui oled sellest suure suutäie võtnud...ja see poolmagus, kodune, maitse...</p>
-<p><strong>/D:</strong> Igatsus, mis pool kolm päeval kontoris istudes peale tuleb, kui tegelikult tahaks väljas paistva päikese käes hoopis maa-aias teki peal lösutada ja piparmünditeed juua.</p>
-<p><strong>M:</strong> Igatsus, mis loengus istudes peale tuleb, kui tegelikult tahaks minna, jalutada, jagada kellegagi neid viimaseid päiksekiiri, mis näole paistavad ja südant soojendavad</p>
-<p><strong>/D:</strong> Jõekaldal istuv kirjandustudeng, kes üritab homseks esitada oodi sügisele.</p>
-<p><strong>M:</strong> Kaks tuttavat, kes tuleksid sellega paaripeale ka ilma käskimata toime...kasvõi kell pool 2 hommikul...kuid keda see tudeng ei tunne</p>
-<p><strong>/D:</strong> Tutvused, mis sõlmitakse vähekäidud matkarajal, kui väljas sajab paduvihma ja kahepeale on vaid üks pisike telk.</p>
-<p><strong>M:</strong> Sooja saamiseks üksteisele lähemale vingerdamine</p>
-<p><strong>/D:</strong> See vastuoluline tunne, mis tekib siis kui soojast kaisust peab korraks välja tulema selleks, et kinni panna teisepool tuba lahti ununenud aken, kust vihma sisse sajab.</p>
-<p><strong>M:</strong> See tuhm valgus, mis paksust pilvest läbi on suutnud tungida ja mis teeb ärkamise nii raskeks</p>
-<p><strong>/D:</strong> Üksik rünkpilv, mis sentimeeter sentimeetri haaval õues tugeva tuule käis lendlevatele pesudele lähemale hiilib.</p>
-<p><strong>M:</strong> Need kiired jalad, mis lendleva pesu esimeste tugevate vihmapiiskade käes nöörilt päästavad</p>
-<p><strong>/D:</strong> Tugevalt tehtud punupats, mille tuul siiski lahti on harutanud.</p>
-<p><strong>M:</strong> Lustakalt lendlevad juuksesalgud, mis teevad väljanägemise eriti metsikuks</p>
-<p><strong>/D:</strong> Kõrgelt lendav laine, mis tekkib siis, kui vallatu tüdruk oma jalgrattaga poriloigust läbi sõidab.</p>
-<p><strong>M:</strong> Märjad kingad ja kõrvuni naeratus, mis pärast seda veel pikaks ajaks tüdrukut saatma jäävad</p>
-<p><strong>/D:</strong> Värskelt teritatud 2H pliiatsite puine lõhn, mis koolipingil esimest joonestamistundi ootavad.</p>
-<p><strong>M:</strong> Tudengite kärsitu asjade pakkimise sagin, kui loengu lõpuni on jäänud vaid 5 minutit</p>
-<p><strong>/D:</strong> Viimane ametlik võrkpallimäng rebastepeo õhtupoolikul ja sellele järgnev pallide pakkimine.</p>
-<p><strong>M:</strong> Viimane võimalus veega mängida ja niiskete riietega mitte kohe haigeks jääda...</p>
-<p><strong>/D:</strong> Naiselikke hääli tegev mees, keda kartmatu naine aeglaselt kuid järjepidevalt juba jahtunud rannavette veab.</p>
-<p><strong>M:</strong> Viimased hulljulged, kes selles jahtunud rannavees öösiti paljalt ujumas käivad</p>
-<p><strong>/D:</strong> Täiskuuvalgus ja härmatis järvekaldal... ning kail istuv külmast värisev kuid puikpäine noorpaar, kes kive vette loobvad.</p>
-<p><strong>M:</strong> And last but not least...paar luuletajahingega tuttavaid, kes arutavad sügise ilude ja võlude üle läbi suhtlusvõrgustike, kui õues möllab sügistuul ja paistab kuu ning säravad tähed...</p>
-<p><strong>/D:</strong> ...ning ülejäänud maailm magab seda ilu maha.</p>
-<p><strong>M:</strong> indeed they do.</p>
-<p>[caption id="attachment_2722" align="aligncenter" width="300"]<a href="http://sqroot.eu/wp-content/uploads/2012/10/Autumn-Leaves-Small.jpg"><img class="size-medium wp-image-2722" title="Sügislehed" src="http://sqroot.eu/wp-content/uploads/2012/10/Autumn-Leaves-Small-300x225.jpg" alt="Sügislehed" width="300" height="225" /></a> Mahalangenud vahtralehed[/caption]</p>
+
+&nbsp;
+
+<p style="font-size: 18px;">Sügis on...
+
+
+<strong>/D:</strong> Lehesadu!
+
+
+<strong>M:</strong> Sügistuul ja soojus!
+
+
+<strong>/D:</strong> Lendavad linnud ja päike!
+
+
+<strong>M:</strong> Värvid! Need tuhanded värvid!
+
+
+<strong>/D:</strong> Need vihmapiisad, mis hoolikalt paigutatud sallist hoolimata mõnikord tee krae vahele leiavad.
+
+
+<strong>M:</strong> Ja see tuul, mis lennutab kaabusid. Olgu need nii hoolikalt juustele vajutatud, kui tahes...
+
+
+<strong>/D:</strong> Ja need suured veelombid, millest mööda pääsemiseks peab äärekivil kõndima ning kuhu saab sihilikult sisse astuda, et tüdrukuid märjaks pritsida!
+
+
+<strong>M:</strong> Pikad pilgud, mis saadavad sinu suvist keksimist, muutuvad lühemaks. Ja keks ise vaid üheks võimaluseks lompe ületada
+
+
+<strong>/D:</strong> Kokkuvolditav vihmavari, mis raevukale tuulele vastu ei suuda panna ning käest ära üritab lennata - ja see vihane lahing, mis tänaval kõndides varju ja tuule vahel aset leiab.
+
+
+<strong>M:</strong> Pikk vihmavari, mis tuulega väiksemad isikud endaga lendama kaasa võtab ja mida pole peale vihma lõppu kuhugi pista
+
+
+<strong>/D:</strong> Need väikesed isikud, kelle ülarõivad pisikese purjena käituvad ja kes end pahatihti maast leiavad... ning suuremad õed, kes tillukesed taas püsti aitavad.
+
+
+<strong>M:</strong> Ja need sallid, need vallatud punased ja rohelised sallid, mis seljataga lehvivad ja millel tundub olevat sama hea meel tagakõndijaid näha, kui ühel vallatul koerakutsikal
+
+
+<strong>/D:</strong> Südaöine spontaanne äikesevihm, mis on vaatamata ootustele veel võrdlemisi soe ja see viis, kuidas ettevaatamatu vihmavarjuta väljaastuja viie sekundiga läbimärjaks saab... ning kallistus, mis antakse tuppa jõudes kiljuvale tüdrukule, kes sügisvihma tulemused oma pehmet vaipa rikkumast leiab.<a id="more"></a><a id="more-2719"></a>
+
+
+<strong>M:</strong> Kõik need ootamatu vihmasabina tõttu langenud lehed, mis otse lagipähe maanduvad ja tekitavad pidevalt tunde, nagu keegi teeks pai
+
+
+<strong>/D:</strong> See uskumatult hea tunne, mis tekkib pikali suures kuhjas kuivades kollastes vahtralehtedes vahtra-ingleid tehes.
+
+
+<strong>M:</strong> ja lehesõda mängides...ning oma väikevend lehekuhja ära kaotades
+
+
+<strong>/D:</strong> Ehmatus, mis tekkib siis, kui kassil õnnestub lehekuhjast välja hüpata ja sind ehmatada.
+
+
+<strong>M:</strong> ja "rõõm" mis tekib koera käpakarvadest lehetuuste pärast jalutamist välja korjates
+
+
+<strong>/D:</strong> Punastest pihkamarjadest tulvil puu akna taga.
+
+
+<strong>M:</strong> Igihaljas kuusk, millel tundub olevat hea meel suve mineku üle...vähemalt saab nüüd selle sooja kasuka alla natukene jahutavat tuult
+
+
+<strong>/D:</strong> Morn ilme näkkide nägudel kui selgub, et täna on esimene hommik, mil üliminiseelikus välja minek on juba talumatult külm.
+
+
+<strong>M:</strong> ja külmast plagisevad hambad nendel, kes seda õigel ajal ei taibanud
+
+
+<strong>/D:</strong> Kallistus, mis trolli tulekuni sooja hoiab.
+
+
+<strong>M:</strong> Kindad, mis teevad käehoidmise natukene veidraks
+
+
+<strong>/D:</strong> Üksik poriplekk laitmatult puhastel mustadel viigipükstel.
+
+
+<strong>M:</strong> Sajad sarnased äsjaviksitud tanksaabastel
+
+
+<strong>/D:</strong> Tumepruun ja kuum tass šokolaadi peale pikka jalutuskäiku tuule ja vihma käes.
+
+
+<strong>M:</strong> Meeldiv seltskond, kellega koos seda kohvikus nautides on hea väljas möllavat maru vaadata
+
+
+<strong>/D:</strong> See turvatunne, mis tekib soojast toast klaasi taga möllavat raju vaadates.
+
+
+<strong>M:</strong> See mure, mis tekib lähedaste pärast teades, et nad läksid just oma ukhe kleidiga teatrisse
+
+
+<strong>/D:</strong> Must valgete käppadega kass, kes ööseks välja vihmatormi kätte kadunuks jäi... ja kergendustunne ning hellad paitused hommikul, kui kadunud roju aknast tuppa ronib.
+
+
+<strong>M:</strong> Suured sügisesed kallistused täis värve, lehtede sabinat ja lõbusaid vihmapiisku
+
+
+<strong>/D:</strong> Vaikides vahetatud pikk prantsuse suudlus külmas paduvihmas, kus mõlemad osalejad läbimärjaks saavad ja hiljem tulises vannis toibuvad.
+
+
+<strong>M:</strong> Jahe sügistuul, mis kahte häbelikku üksteisele lähemale tõukab
+
+
+<strong>/D:</strong> Ema küpsetatud soe õunakook verandale paistvates viimastes päikesekiirtes.
+
+
+<strong>M:</strong> Kaneelisaiade hõrk aroom, mille sügistuul köögist sinuni kannab
+
+
+<strong>/D:</strong> Suur kausitäis punapõskseid õunu, mis värskelt korjatuna köögilauale pandakse.
+
+
+<strong>M:</strong> Vanaema uus kõrvitsakollektsioon, mis rõõmsalt kööginurgas seisab
+
+
+<strong>/D:</strong> Viis riiulitäit jahtuvaid kompotte uue aastanumbriga külmas keldrinurgas.
+
+
+<strong>M:</strong> Oma aias valminud punase sügisõuna magushapu aroom, kui oled sellest suure suutäie võtnud...ja see poolmagus, kodune, maitse...
+
+
+<strong>/D:</strong> Igatsus, mis pool kolm päeval kontoris istudes peale tuleb, kui tegelikult tahaks väljas paistva päikese käes hoopis maa-aias teki peal lösutada ja piparmünditeed juua.
+
+
+<strong>M:</strong> Igatsus, mis loengus istudes peale tuleb, kui tegelikult tahaks minna, jalutada, jagada kellegagi neid viimaseid päiksekiiri, mis näole paistavad ja südant soojendavad
+
+
+<strong>/D:</strong> Jõekaldal istuv kirjandustudeng, kes üritab homseks esitada oodi sügisele.
+
+
+<strong>M:</strong> Kaks tuttavat, kes tuleksid sellega paaripeale ka ilma käskimata toime...kasvõi kell pool 2 hommikul...kuid keda see tudeng ei tunne
+
+
+<strong>/D:</strong> Tutvused, mis sõlmitakse vähekäidud matkarajal, kui väljas sajab paduvihma ja kahepeale on vaid üks pisike telk.
+
+
+<strong>M:</strong> Sooja saamiseks üksteisele lähemale vingerdamine
+
+
+<strong>/D:</strong> See vastuoluline tunne, mis tekib siis kui soojast kaisust peab korraks välja tulema selleks, et kinni panna teisepool tuba lahti ununenud aken, kust vihma sisse sajab.
+
+
+<strong>M:</strong> See tuhm valgus, mis paksust pilvest läbi on suutnud tungida ja mis teeb ärkamise nii raskeks
+
+
+<strong>/D:</strong> Üksik rünkpilv, mis sentimeeter sentimeetri haaval õues tugeva tuule käis lendlevatele pesudele lähemale hiilib.
+
+
+<strong>M:</strong> Need kiired jalad, mis lendleva pesu esimeste tugevate vihmapiiskade käes nöörilt päästavad
+
+
+<strong>/D:</strong> Tugevalt tehtud punupats, mille tuul siiski lahti on harutanud.
+
+
+<strong>M:</strong> Lustakalt lendlevad juuksesalgud, mis teevad väljanägemise eriti metsikuks
+
+
+<strong>/D:</strong> Kõrgelt lendav laine, mis tekkib siis, kui vallatu tüdruk oma jalgrattaga poriloigust läbi sõidab.
+
+
+<strong>M:</strong> Märjad kingad ja kõrvuni naeratus, mis pärast seda veel pikaks ajaks tüdrukut saatma jäävad
+
+
+<strong>/D:</strong> Värskelt teritatud 2H pliiatsite puine lõhn, mis koolipingil esimest joonestamistundi ootavad.
+
+
+<strong>M:</strong> Tudengite kärsitu asjade pakkimise sagin, kui loengu lõpuni on jäänud vaid 5 minutit
+
+
+<strong>/D:</strong> Viimane ametlik võrkpallimäng rebastepeo õhtupoolikul ja sellele järgnev pallide pakkimine.
+
+
+<strong>M:</strong> Viimane võimalus veega mängida ja niiskete riietega mitte kohe haigeks jääda...
+
+
+<strong>/D:</strong> Naiselikke hääli tegev mees, keda kartmatu naine aeglaselt kuid järjepidevalt juba jahtunud rannavette veab.
+
+
+<strong>M:</strong> Viimased hulljulged, kes selles jahtunud rannavees öösiti paljalt ujumas käivad
+
+
+<strong>/D:</strong> Täiskuuvalgus ja härmatis järvekaldal... ning kail istuv külmast värisev kuid puikpäine noorpaar, kes kive vette loobvad.
+
+
+<strong>M:</strong> And last but not least...paar luuletajahingega tuttavaid, kes arutavad sügise ilude ja võlude üle läbi suhtlusvõrgustike, kui õues möllab sügistuul ja paistab kuu ning säravad tähed...
+
+
+<strong>/D:</strong> ...ning ülejäänud maailm magab seda ilu maha.
+
+
+<strong>M:</strong> indeed they do.
+
+
+[caption id="attachment_2722" align="aligncenter" width="300"]<a href="http://sqroot.eu/wp-content/uploads/2012/10/Autumn-Leaves-Small.jpg"><img class="size-medium wp-image-2722" title="Sügislehed" src="http://sqroot.eu/wp-content/uploads/2012/10/Autumn-Leaves-Small-300x225.jpg" alt="Sügislehed" width="300" height="225" /></a> Mahalangenud vahtralehed[/caption]
+

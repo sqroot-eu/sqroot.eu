@@ -15,7 +15,7 @@ wordpress_id: 698
 wordpress_url: http://sqroot.eu/?p=698
 date: '2011-04-10 19:49:46 +0300'
 date_gmt: '2011-04-10 17:49:46 +0300'
-categories:
+category:
 - Coding
 - Friday Night Project
 tags:
@@ -25,7 +25,15 @@ tags:
 - json
 comments: []
 ---
-<p>Okay, it&#039;s not Friday, but the last Friday Night Project was kind of shaky...so here is &quot;Is It Haiku?&quot;</p>
-<p>&nbsp;</p>
-<p>[button link=http://sqroot.eu/haiku/ color=magenta size=large]View The Demo[/button]</p>
-<p>&nbsp;</p>
+
+Okay, it&#039;s not Friday, but the last Friday Night Project was kind of shaky...so here is &quot;Is It Haiku?&quot;
+
+
+&nbsp;
+
+
+[button link=http://sqroot.eu/haiku/ color=magenta size=large]View The Demo[/button]
+
+
+&nbsp;
+

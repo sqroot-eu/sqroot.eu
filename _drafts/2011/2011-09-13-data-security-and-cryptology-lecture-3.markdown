@@ -19,7 +19,7 @@ wordpress_id: 1118
 wordpress_url: http://sqroot.eu/?p=1118
 date: '2011-09-13 12:43:00 +0300'
 date_gmt: '2011-09-13 10:43:00 +0300'
-categories:
+category:
 - IT College
 tags:
 - encryption
@@ -29,7 +29,9 @@ tags:
 - vulnerability
 comments: []
 ---
-<p>Lecture homepage:&nbsp;<a href="http://enos.itcollege.ee/~valdo/turve/">http://enos.itcollege.ee/~valdo/turve/</a></p>
+
+Lecture homepage:&nbsp;<a href="http://enos.itcollege.ee/~valdo/turve/">http://enos.itcollege.ee/~valdo/turve/</a>
+
 <h3>Safeguards</h3>
 <div>Safeguards can be divided into 3 classes:</div>
 <ol>

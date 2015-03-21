@@ -18,7 +18,7 @@ wordpress_id: 1237
 wordpress_url: http://sqroot.eu/?p=1237
 date: '2011-12-25 15:41:46 +0200'
 date_gmt: '2011-12-25 13:41:46 +0200'
-categories:
+category:
 - Coding
 tags:
 - programming
@@ -35,9 +35,13 @@ comments: []
 </dl>
 </div>
 <div style="margin-left: 10px">
-<p style="text-align: justify">Count on me to tutor all willing in the art of programming. I let my younger brother play around with <a class="zem_slink" title="Microsoft Visual Studio" href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio" rel="wikipedia">Visual Studio 2010</a> and provided the necessary tutoring. He managed to create his first ever program in about half an hour.</p>
-<p style="text-align: justify">Programming is not as much knowing the syntax of any particular programming language than it is creative problem solving. Visual Studio is a good example: anyone can drag and drop form elements to an empty canvas, but correct mindset is needed for them to actually form an useful and usable application.</p>
-<p style="text-align: justify">The same can be said for any other programming environment. I've discovered that I spend more time modelling, thinking and experimenting than I use for coding any particular feature.</p>
-<p style="text-align: justify">Download my brothers first WPF application <a title="Download" href="http://sqroot.eu/wp-content/uploads/2011/12/Joonase-programm.exe">from here</a> <em>(.exe, 16kb)</em>. The program is an average grade calculator with subject names on the left and final marks on the right.</p>
+<p style="text-align: justify">Count on me to tutor all willing in the art of programming. I let my younger brother play around with <a class="zem_slink" title="Microsoft Visual Studio" href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio" rel="wikipedia">Visual Studio 2010</a> and provided the necessary tutoring. He managed to create his first ever program in about half an hour.
+
+<p style="text-align: justify">Programming is not as much knowing the syntax of any particular programming language than it is creative problem solving. Visual Studio is a good example: anyone can drag and drop form elements to an empty canvas, but correct mindset is needed for them to actually form an useful and usable application.
+
+<p style="text-align: justify">The same can be said for any other programming environment. I've discovered that I spend more time modelling, thinking and experimenting than I use for coding any particular feature.
+
+<p style="text-align: justify">Download my brothers first WPF application <a title="Download" href="http://sqroot.eu/wp-content/uploads/2011/12/Joonase-programm.exe">from here</a> <em>(.exe, 16kb)</em>. The program is an average grade calculator with subject names on the left and final marks on the right.
+
 </div>
 <div class="zemanta-pixie" style="margin-top: 10px;height: 15px"><img class="zemanta-pixie-img" style="border: none;float: right" src="" alt="" /></div>

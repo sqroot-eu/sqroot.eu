@@ -17,7 +17,7 @@ wordpress_id: 3910
 wordpress_url: http://sqroot.eu/?p=3910
 date: '2014-06-16 08:52:00 +0300'
 date_gmt: '2014-06-16 05:52:00 +0300'
-categories:
+category:
 - Hardware
 tags:
 - project
@@ -117,16 +117,34 @@ comments:
     to my blog post - <a href=\"http://miniURL.fouiner.info/newport_coupons__couponcabin_749269\"
     rel=\"nofollow\">cigarette coupons info</a>"
 ---
-<p>BoxOfWords is a hand-held, cigarette-box sized electronics project for improvisational theatre practitioners.</p>
-<p>The purpose of the project is to offer randomized word suggestions during an improv workshop or a training session.</p>
-<p>BoxOfWords has a memory card reader, control buttons and a small LCD screen. The improviser selects his preferred word file (emotions, locations, professions...) and can call up new randomized suggestions to the LCD screen with a press of a button.</p>
-<p>The project was built as a present to <a href="http://http://www.trentasaurus.com/">Trent Pancy</a>, the organizer of the <a href="http://finlandimprovfestival.com">Third Annual Finland International Improv Festival</a>.</p>
-<p><a id="more"></a><a id="more-3910"></a></p>
-<p>This was my second successfully completed production electronics project and the first to include a custom-made PCB and run on batteries.</p>
+
+BoxOfWords is a hand-held, cigarette-box sized electronics project for improvisational theatre practitioners.
+
+
+The purpose of the project is to offer randomized word suggestions during an improv workshop or a training session.
+
+
+BoxOfWords has a memory card reader, control buttons and a small LCD screen. The improviser selects his preferred word file (emotions, locations, professions...) and can call up new randomized suggestions to the LCD screen with a press of a button.
+
+
+The project was built as a present to <a href="http://http://www.trentasaurus.com/">Trent Pancy</a>, the organizer of the <a href="http://finlandimprovfestival.com">Third Annual Finland International Improv Festival</a>.
+
+
+<a id="more"></a><a id="more-3910"></a>
+
+
+This was my second successfully completed production electronics project and the first to include a custom-made PCB and run on batteries.
+
 <h1>Operation</h1>
-<p>The purpose of the device is to offer randomized words of a certain word category file. For example, we have the following text files (on the SD card): <code>emotions.txt</code>, <code>locations.txt</code>, <code>adjectives.txt</code> and so on. The user selects his desired category (word file) and the device calls up random words from that file.</p>
-<p>There are four navigation buttons: back, left, right, enter.</p>
-<p>A simple usage scenario would be as follows:</p>
+
+The purpose of the device is to offer randomized words of a certain word category file. For example, we have the following text files (on the SD card): <code>emotions.txt</code>, <code>locations.txt</code>, <code>adjectives.txt</code> and so on. The user selects his desired category (word file) and the device calls up random words from that file.
+
+
+There are four navigation buttons: back, left, right, enter.
+
+
+A simple usage scenario would be as follows:
+
 <ul>
 <li>Power On</li>
 <li>Main Menu is shown (the title of the first file)</li>
@@ -139,16 +157,32 @@ comments:
 <li>Power Off</li>
 </ul>
 <h1>Technical Challenges</h1>
-<p>I learned a lot through the project. Here are the things I found most challenging.</p>
+
+I learned a lot through the project. Here are the things I found most challenging.
+
 <h2>Power</h2>
-<p>Portable projects need a power source. I decided to use 4xAA batteries. They're cheap (compared to Li-ion or power banks), offer larger capacity than a 9V battery and output just the right voltage (6V). An <a href="http://letsmakerobots.com/node/3880">article on Let's Make Robots</a> taught me how to regulate that voltage to a stable 5.0 volts using the Lm2940ct-5 low-dropout voltage regulator. I soldered my first power regulation circuitry.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140329_121339.jpg"><img class="alignnone size-medium wp-image-4161" src="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140329_121339-300x199.jpg" alt="Testing Battery Power" width="300" height="199" /></a></p>
+
+Portable projects need a power source. I decided to use 4xAA batteries. They're cheap (compared to Li-ion or power banks), offer larger capacity than a 9V battery and output just the right voltage (6V). An <a href="http://letsmakerobots.com/node/3880">article on Let's Make Robots</a> taught me how to regulate that voltage to a stable 5.0 volts using the Lm2940ct-5 low-dropout voltage regulator. I soldered my first power regulation circuitry.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140329_121339.jpg"><img class="alignnone size-medium wp-image-4161" src="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140329_121339-300x199.jpg" alt="Testing Battery Power" width="300" height="199" /></a>
+
 <h2>Reading files from an SD card</h2>
-<p>The main menu should let users choose between txt word files on the SD card. Initially, I planned to just read the contents of a directory and list all the found files on the LCD. After over six hours of hacking with the SD library I was unable to get a file listing into a workable array of strings so I abandoned the idea and decided to use preset file names: <code>WORDS_00.TXT</code>, <code>WORDS_01.TXT</code> and so forth.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2014/06/lcd_on.jpg"><img class="alignnone size-medium wp-image-4149" src="http://sqroot.eu/wp-content/uploads/2014/06/lcd_on-300x225.jpg" alt="LCD test" width="300" height="225" /></a></p>
-<p>This put some limits to the project and I settled on having exactly eight files to choose from (this is an artificial limit, I could as well have chosen to have sixteen). That way, I would know exactly which files are present on the card.</p>
-<p>The user still needed some way of distinguishing between files (which file contained Emotions?) so I created a settings system.</p>
-<p>The SD card has a file called <code>SETTINGS.TXT</code> which looks like this.</p>
+
+The main menu should let users choose between txt word files on the SD card. Initially, I planned to just read the contents of a directory and list all the found files on the LCD. After over six hours of hacking with the SD library I was unable to get a file listing into a workable array of strings so I abandoned the idea and decided to use preset file names: <code>WORDS_00.TXT</code>, <code>WORDS_01.TXT</code> and so forth.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2014/06/lcd_on.jpg"><img class="alignnone size-medium wp-image-4149" src="http://sqroot.eu/wp-content/uploads/2014/06/lcd_on-300x225.jpg" alt="LCD test" width="300" height="225" /></a>
+
+
+This put some limits to the project and I settled on having exactly eight files to choose from (this is an artificial limit, I could as well have chosen to have sixteen). That way, I would know exactly which files are present on the card.
+
+
+The user still needed some way of distinguishing between files (which file contained Emotions?) so I created a settings system.
+
+
+The SD card has a file called <code>SETTINGS.TXT</code> which looks like this.
+
 <pre>brightness=199
 scrollSpeed=180
 title0=Emotions
@@ -159,56 +193,124 @@ title4=Random words
 title5=Adjectives
 title6=Film Styles
 title7=Activities</pre>
-<p>The file contains two runtime settings and human-readable titles for all of the eight word files. The titles are mapped to the files (<code>title0</code> = <code>WORDS_00.TXT</code>) and the LCD shows not the actual file name but the configured title.</p>
+
+The file contains two runtime settings and human-readable titles for all of the eight word files. The titles are mapped to the files (<code>title0</code> = <code>WORDS_00.TXT</code>) and the LCD shows not the actual file name but the configured title.
+
 <h2>The PCB</h2>
-<p>Soldering the PCB was a challenge on its own. I've tried to make a PCB before, failed twice, <a href="http://sqroot.eu/2014/02/attiny85-melody-module/">succeeded once</a>. The task involves working with delicate parts, lots of small wires and tin. There's always a chance for something shorting.</p>
-<p>I spent a whole day with preparing the wires (instead of soldering ribbon cable directly to the board I opted for a more modular, but complex solution and used headers) and soldering the parts together. At the end of the day, I was spent but victorious: all of the connections worked, there were no shorts and I had my spiders-nest of a PCB, ready for action.</p>
-<p>[gallery link="file" ids="4151,4152,4150"]</p>
+
+Soldering the PCB was a challenge on its own. I've tried to make a PCB before, failed twice, <a href="http://sqroot.eu/2014/02/attiny85-melody-module/">succeeded once</a>. The task involves working with delicate parts, lots of small wires and tin. There's always a chance for something shorting.
+
+
+I spent a whole day with preparing the wires (instead of soldering ribbon cable directly to the board I opted for a more modular, but complex solution and used headers) and soldering the parts together. At the end of the day, I was spent but victorious: all of the connections worked, there were no shorts and I had my spiders-nest of a PCB, ready for action.
+
+
+[gallery link="file" ids="4151,4152,4150"]
+
 <h2>Physical enclosure</h2>
-<p>The project needed a nice-looking, sturdy case which would ideally be as small as possible for comfortable handling. The material of the enclosure needed to be easily workable with hand-held tools for I have no access to 3D printing or computerized mills.</p>
-<p>The first attempt of creating the enclosure was with a thick paper pencil holder I saw at the supermarket. The material was easy to work with (it's basically paper) and sturdy enough to protect the project from deformation. In the end, the enclosure proved to be too small to fit all of the components and wires and I had to look for an alternative.</p>
-<p>The local electronics supply store stocked the perfect plastic box with thick walls, the right size and sleek look. It took some work and creative use of tools to create the openings for the LCD, SD and switches, but the result was satisfactory.</p>
-<p>[gallery link="file" columns="2" ids="4154,4155,4156,4157"]</p>
+
+The project needed a nice-looking, sturdy case which would ideally be as small as possible for comfortable handling. The material of the enclosure needed to be easily workable with hand-held tools for I have no access to 3D printing or computerized mills.
+
+
+The first attempt of creating the enclosure was with a thick paper pencil holder I saw at the supermarket. The material was easy to work with (it's basically paper) and sturdy enough to protect the project from deformation. In the end, the enclosure proved to be too small to fit all of the components and wires and I had to look for an alternative.
+
+
+The local electronics supply store stocked the perfect plastic box with thick walls, the right size and sleek look. It took some work and creative use of tools to create the openings for the LCD, SD and switches, but the result was satisfactory.
+
+
+[gallery link="file" columns="2" ids="4154,4155,4156,4157"]
+
 <h2>Fixing the parts in place</h2>
-<p>The various modules needed to stay securely in place inside the enclosure. For that, I used screws, super glue and velcro.</p>
-<p>The project gave me reason to visit the hardware store for the first time in my life, voluntarily. I bought a few dozens of 3mm metal and wood screws (the smallest they had), which fit perfectly to the PCB and LCD mounting holes. The SD card required smaller screws which I was unable to obtain so I used super glue which turned out to be really effective.</p>
-<p>Inspired, I thought to glue the power switch to the enclosure - but it turns out it's easy to superglue a plastic rocker switch shut. I had to install a replacement.</p>
-<p>A lot of 3mm screws, bolts, nuts and washers were used to secure various elements. I used a combination of screws and velcro to secure the battery pack.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140426_174156.jpg"><img class="alignnone size-medium wp-image-4159" src="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140426_174156-300x225.jpg" alt="Enclosure, bottom" width="300" height="225" /></a></p>
+
+The various modules needed to stay securely in place inside the enclosure. For that, I used screws, super glue and velcro.
+
+
+The project gave me reason to visit the hardware store for the first time in my life, voluntarily. I bought a few dozens of 3mm metal and wood screws (the smallest they had), which fit perfectly to the PCB and LCD mounting holes. The SD card required smaller screws which I was unable to obtain so I used super glue which turned out to be really effective.
+
+
+Inspired, I thought to glue the power switch to the enclosure - but it turns out it's easy to superglue a plastic rocker switch shut. I had to install a replacement.
+
+
+A lot of 3mm screws, bolts, nuts and washers were used to secure various elements. I used a combination of screws and velcro to secure the battery pack.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140426_174156.jpg"><img class="alignnone size-medium wp-image-4159" src="http://sqroot.eu/wp-content/uploads/2014/06/IMG_20140426_174156-300x225.jpg" alt="Enclosure, bottom" width="300" height="225" /></a>
+
 <h2>Long text on the 16char LCD</h2>
-<p>I had to take into account that some of the suggestions might be long: <em>Acting Director / Stage worker</em>, longer than the maximum length of the LCD. The solution? Scrolling the text (marquee). Programming the function for that caused some headache, the end result was satisfactory, but could have been better.</p>
+
+I had to take into account that some of the suggestions might be long: <em>Acting Director / Stage worker</em>, longer than the maximum length of the LCD. The solution? Scrolling the text (marquee). Programming the function for that caused some headache, the end result was satisfactory, but could have been better.
+
 <h2>Reading push-buttons</h2>
-<p>I'd made a mistake in soldering the four input buttons: pressing one button would result in the neighbouring buttons <code>analogRead</code> value to lower dangerously low, too. As a result, pressing one button would be identified as pressing two buttons at once. I had a choice: redo the button module (some hours of risky PCB work) or create a software workaround.</p>
-<p>I opted for the latter and created a function that determined which of the buttons had the closest <code>analogRead</code> value to ground. Still, a logic error in the code that dealt with reading the buttons delayed project completion by a week, resulting in missing the perfect window for handing over the gift.</p>
-<p>I discovered the error some time later during a debugging session and was quite annoyed at myself when changing</p>
+
+I'd made a mistake in soldering the four input buttons: pressing one button would result in the neighbouring buttons <code>analogRead</code> value to lower dangerously low, too. As a result, pressing one button would be identified as pressing two buttons at once. I had a choice: redo the button module (some hours of risky PCB work) or create a software workaround.
+
+
+I opted for the latter and created a function that determined which of the buttons had the closest <code>analogRead</code> value to ground. Still, a logic error in the code that dealt with reading the buttons delayed project completion by a week, resulting in missing the perfect window for handing over the gift.
+
+
+I discovered the error some time later during a debugging session and was quite annoyed at myself when changing
+
 <pre>if (buttonValues[i] &lt; buttonValues[i-1])</pre>
-<p>to</p>
+
+to
+
 <pre>if (buttonValues[i] &lt; buttonValues[lowestIndex])</pre>
-<p>yielded the desired result.</p>
+
+yielded the desired result.
+
 <h1>Lessons learned</h1>
-<p>I'd do a few things differently if I had to start over.</p>
+
+I'd do a few things differently if I had to start over.
+
 <h2>Include a programming header</h2>
-<p>I had a breadboard setup of my project attached to an Arduino where I tested the code I developed. Once I was reasonably certain the code worked as I wanted it to I would remove the Atmega chip from the PCB, put it into the Arduino, program it, then press it back into the PCB IC socket. The process was time consuming, delicate (at any point I could have damaged one of the pins of the IC) and annoying. My next Atmega PCB will include a <a href="http://atmega32-avr.com/adding-icsp-header-to-your-arduinoavr-board-using-isp10pin-microcontroller/">convenient ICSP header</a> that allows me to program the chip without removing it from the socket.</p>
+
+I had a breadboard setup of my project attached to an Arduino where I tested the code I developed. Once I was reasonably certain the code worked as I wanted it to I would remove the Atmega chip from the PCB, put it into the Arduino, program it, then press it back into the PCB IC socket. The process was time consuming, delicate (at any point I could have damaged one of the pins of the IC) and annoying. My next Atmega PCB will include a <a href="http://atmega32-avr.com/adding-icsp-header-to-your-arduinoavr-board-using-isp10pin-microcontroller/">convenient ICSP header</a> that allows me to program the chip without removing it from the socket.
+
 <h2>Cannot set LCD contrast with PWM</h2>
-<p>At first, I wanted both the brightness and contrast of the LCD to be controllable from the software. I used two PWM pins for that. Unfortunately, the contrast can not be controlled as simply: the LCD module went nuts and started displaying gibberish.</p>
-<p>After some searching around in the Arduino forums, I found an explanation: <a href="http://www.pcbheaven.com/circuitpages/PWM_LCD_Contrast_Control/">you need a low-pass filter</a> for that. I didn't bother and just used a small trimpot.</p>
+
+At first, I wanted both the brightness and contrast of the LCD to be controllable from the software. I used two PWM pins for that. Unfortunately, the contrast can not be controlled as simply: the LCD module went nuts and started displaying gibberish.
+
+
+After some searching around in the Arduino forums, I found an explanation: <a href="http://www.pcbheaven.com/circuitpages/PWM_LCD_Contrast_Control/">you need a low-pass filter</a> for that. I didn't bother and just used a small trimpot.
+
 <h2>Test for power consumption</h2>
-<p>I didn't test the power usage of the project before it was assembled and already shipped. Getting an idea on how much power the project consumes, both on standby and operating mode (reading the SD card) would let me give an estimate on how long the batteries last.</p>
+
+I didn't test the power usage of the project before it was assembled and already shipped. Getting an idea on how much power the project consumes, both on standby and operating mode (reading the SD card) would let me give an estimate on how long the batteries last.
+
 <h2>Optimize power</h2>
-<p>There wasn't a lot of focus on power optimization. I know I could increase the battery lifetime by a large margin if I tried: shutting of the IC when no buttons are pressed, caching SD card results, dimming the backlight...</p>
+
+There wasn't a lot of focus on power optimization. I know I could increase the battery lifetime by a large margin if I tried: shutting of the IC when no buttons are pressed, caching SD card results, dimming the backlight...
+
 <h2>Think about PCB fabrication</h2>
-<p>Frizing, the software I used to design the circuitry, also has a <a href="http://fab.fritzing.org/fritzing-fab">PCB fabrication service</a>. Basically, I send them the blueprints for the board and get a professional, sleek-looking PCB some days later in the mail, ready for soldering.</p>
-<p>This would look so much more professional and as an added bonus - no jumper wires. A nest of crossing wires beneath the board is a risk: any one of them might come loose, especially during mounting.</p>
-<p>I calculated the fabrication of my board to cost around 30-40 euros.</p>
+
+Frizing, the software I used to design the circuitry, also has a <a href="http://fab.fritzing.org/fritzing-fab">PCB fabrication service</a>. Basically, I send them the blueprints for the board and get a professional, sleek-looking PCB some days later in the mail, ready for soldering.
+
+
+This would look so much more professional and as an added bonus - no jumper wires. A nest of crossing wires beneath the board is a risk: any one of them might come loose, especially during mounting.
+
+
+I calculated the fabrication of my board to cost around 30-40 euros.
+
 <h2>Put more work into designing the exterior</h2>
-<p>Some of the edges of the holes I cut into the enclosure aren't smooth. Putting more effort into that would yield more professional-looking results.</p>
-<p>I used ordinary paper to print out the labels for the controls, then laminated the printout. Using a photo paper would look nicer or better yet, figuring out how to paint the designs to the plastic...</p>
+
+Some of the edges of the holes I cut into the enclosure aren't smooth. Putting more effort into that would yield more professional-looking results.
+
+
+I used ordinary paper to print out the labels for the controls, then laminated the printout. Using a photo paper would look nicer or better yet, figuring out how to paint the designs to the plastic...
+
 <h1>Skill-ups</h1>
-<p>Skills obtained or perfected with this project: (Arduino) / C programming, PCB design and production, manufacturing (enclosure), electrical engineering, soldering, UX design</p>
+
+Skills obtained or perfected with this project: (Arduino) / C programming, PCB design and production, manufacturing (enclosure), electrical engineering, soldering, UX design
+
 <h1>Conclusion</h1>
-<p>Overall, I am very satisfied with the result. I stared the project during the winter of 2014 while still in the army (I had my minimal prototyping electronics kit and a laptop with me, I used to work on the programming during our scarce spare time in the common area) and finished in June. The day when the last bug (malfunctioning [enter] button) was fixed and I finally mailed the finished project to Trent felt so fulfilling - I had accomplished something that took me a lot of time and effort to create.</p>
-<p>I'm satisfied with the amount of knowledge I got from this project. The code and schematics are open source, hopefully it's of help or inspiration to someone somewhere.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2014/06/finished_small.jpg"><img class="aligncenter size-medium wp-image-4140" src="http://sqroot.eu/wp-content/uploads/2014/06/finished_small-300x245.jpg" alt="Finished Project" width="300" height="245" /></a></p>
+
+Overall, I am very satisfied with the result. I stared the project during the winter of 2014 while still in the army (I had my minimal prototyping electronics kit and a laptop with me, I used to work on the programming during our scarce spare time in the common area) and finished in June. The day when the last bug (malfunctioning [enter] button) was fixed and I finally mailed the finished project to Trent felt so fulfilling - I had accomplished something that took me a lot of time and effort to create.
+
+
+I'm satisfied with the amount of knowledge I got from this project. The code and schematics are open source, hopefully it's of help or inspiration to someone somewhere.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2014/06/finished_small.jpg"><img class="aligncenter size-medium wp-image-4140" src="http://sqroot.eu/wp-content/uploads/2014/06/finished_small-300x245.jpg" alt="Finished Project" width="300" height="245" /></a>
+
 <h2>Links</h2>
 <ul>
 <li><a href="http://knowable.org/projects/97">Box Of Words @ Knowable</a></li>

@@ -15,7 +15,7 @@ wordpress_id: 862
 wordpress_url: http://sqroot.eu/?p=862
 date: '2011-08-02 15:03:11 +0300'
 date_gmt: '2011-08-02 13:03:11 +0300'
-categories:
+category:
 - PHP
 tags:
 - estonian
@@ -32,9 +32,15 @@ comments:
   date_gmt: '2012-04-21 15:16:11 +0300'
   content: "[...] Kohana 3.2 Validation Estonian translation (sqroot.eu) [...]"
 ---
-<p>Allpool olev on Kohana 3.2 Validation &uuml;ldiste veateadete t&otilde;lge eesti keelde.</p>
-<p>Fail tuleb paigutada <strong>application/messages/validation.php</strong></p>
-<p>&nbsp;</p>
+
+Allpool olev on Kohana 3.2 Validation &uuml;ldiste veateadete t&otilde;lge eesti keelde.
+
+
+Fail tuleb paigutada <strong>application/messages/validation.php</strong>
+
+
+&nbsp;
+
 <pre> &#039;:field tohib sisaldada ainult t&auml;hti&#039;,
 	&#039;alpha_dash&#039;    =&gt; &#039;:field tohib sisaldada ainult t&auml;hti, numbreid ja sidekriipse&#039;,
 	&#039;alpha_numeric&#039; =&gt; &#039;:field tohib sisaldada ainult t&auml;hti ja numbreid&#039;,

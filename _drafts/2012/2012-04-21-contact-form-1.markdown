@@ -15,7 +15,7 @@ wordpress_id: 1584
 wordpress_url: http://sqroot.eu/wpcf7_contact_form/contact-form-1/
 date: '2012-04-21 09:02:47 +0300'
 date_gmt: '2012-04-21 09:02:47 +0300'
-categories: []
+category: []
 tags: []
 comments: []
 ---

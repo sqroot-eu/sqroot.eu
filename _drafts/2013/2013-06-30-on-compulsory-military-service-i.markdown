@@ -19,7 +19,7 @@ wordpress_id: 3223
 wordpress_url: http://sqroot.eu/?p=3223
 date: '2013-06-30 17:33:33 +0300'
 date_gmt: '2013-06-30 14:33:33 +0300'
-categories:
+category:
 - Personal
 - Army
 tags:
@@ -41,16 +41,32 @@ comments:
   content: "[&#8230;] &laquo; The previous month: On Compulsory Military Service I
     [&#8230;]"
 ---
-<p>I write this from home, between my sheets, still in control of my environment and decisions. This will change in less than 36 hours when I  start my eleven months of service in the military, a duty <a href="http://www.mil.ee/en/defence-forces/compulsory-military-service">enforced</a> to <strike>all</strike> the majority of Estonian men.</p>
-<p><em>Also, this blog will have little to do with software development for the next 11 months.</em></p>
-<p>I've accepted the simple truth: I will be giving a year of my life, a year of my youth, to my country to use as they see fit. I understand the necessity, but this doesn't mean I'm especially thrilled and joyfully patriotic. Why? I think the place I'm heading to is the worst place to put me right now. I'm emotionally volatile, lonely and miserable, have been for quite a while. The last half a year hasn't been easy, either. I've lost two very close people, the second one today, of all possible timings. This hurt, a lot. I'm not depressed, not yet, and have enough sense of duty to not try to get out of what's to come just to get on with... whatever the hell it is my non-professional life has become.</p>
-<p><a id="more"></a><a id="more-3223"></a></p>
-<p>The army will go hard on me, physically - and this is okay. It will be hard, but trainable, doable. I'm not so sure about surviving the amplified effects of mind games and loneliness. I don't have a girlfriend and the list of people I can <em>really</em> talk to is very, very short.</p>
-<p>Military discipline is good and rooted for a reason. Terry Goodkind paints a very motivational picture of this in his "The Sword Of Truth" series (the D'Haran army). Leo Kunnas does the same in his Gort Ashryn books. Soldiers who are effective, disciplined, kind and know what they are doing and why. I'll be proud and happy when this happens to our unit at the end of the training.</p>
+
+I write this from home, between my sheets, still in control of my environment and decisions. This will change in less than 36 hours when I  start my eleven months of service in the military, a duty <a href="http://www.mil.ee/en/defence-forces/compulsory-military-service">enforced</a> to <strike>all</strike> the majority of Estonian men.
+
+
+<em>Also, this blog will have little to do with software development for the next 11 months.</em>
+
+
+I've accepted the simple truth: I will be giving a year of my life, a year of my youth, to my country to use as they see fit. I understand the necessity, but this doesn't mean I'm especially thrilled and joyfully patriotic. Why? I think the place I'm heading to is the worst place to put me right now. I'm emotionally volatile, lonely and miserable, have been for quite a while. The last half a year hasn't been easy, either. I've lost two very close people, the second one today, of all possible timings. This hurt, a lot. I'm not depressed, not yet, and have enough sense of duty to not try to get out of what's to come just to get on with... whatever the hell it is my non-professional life has become.
+
+
+<a id="more"></a><a id="more-3223"></a>
+
+
+The army will go hard on me, physically - and this is okay. It will be hard, but trainable, doable. I'm not so sure about surviving the amplified effects of mind games and loneliness. I don't have a girlfriend and the list of people I can <em>really</em> talk to is very, very short.
+
+
+Military discipline is good and rooted for a reason. Terry Goodkind paints a very motivational picture of this in his "The Sword Of Truth" series (the D'Haran army). Leo Kunnas does the same in his Gort Ashryn books. Soldiers who are effective, disciplined, kind and know what they are doing and why. I'll be proud and happy when this happens to our unit at the end of the training.
+
 <h2>Preparing</h2>
-<p>The last few weeks have passed in a flurry of ending my (civilian) life: academic leave from college, resignation from work, moving out of the apartment, handing over responsibilities to a colleague at the NPO, even as far as ensuring my <a href="http://www.seroundtable.com/google-inactive-account-manager-16637.html">online life is in order</a>.</p>
+
+The last few weeks have passed in a flurry of ending my (civilian) life: academic leave from college, resignation from work, moving out of the apartment, handing over responsibilities to a colleague at the NPO, even as far as ensuring my <a href="http://www.seroundtable.com/google-inactive-account-manager-16637.html">online life is in order</a>.
+
 <h3>Items  To Bring</h3>
-<p>I found <a href="http://www.parnupostimees.ee/165707/asjad-milleta-kaitsevaes-saab-aga-pole-hea">two</a> <a href="http://laurielias.wordpress.com/2012/09/30/ajateenistusest-staabikompaniis-vi">shopping lists</a> of things to take with me, based on the experience of past trainees. Most of the items in the list seem logical and not something I could have come to on my own. Although all the absolute-must-have items are provided they don't seem to be of the best or even good enough quality. Therefore, the recommendation of previous soldiers: get your own gear. So I did. I went for minimalism and tried to avoid anything expensive. The two notable exceptions to this: quality running shoes and shock/water resistant watch. Total cost of optional, but highly recommended gear: around 190€.</p>
+
+I found <a href="http://www.parnupostimees.ee/165707/asjad-milleta-kaitsevaes-saab-aga-pole-hea">two</a> <a href="http://laurielias.wordpress.com/2012/09/30/ajateenistusest-staabikompaniis-vi">shopping lists</a> of things to take with me, based on the experience of past trainees. Most of the items in the list seem logical and not something I could have come to on my own. Although all the absolute-must-have items are provided they don't seem to be of the best or even good enough quality. Therefore, the recommendation of previous soldiers: get your own gear. So I did. I went for minimalism and tried to avoid anything expensive. The two notable exceptions to this: quality running shoes and shock/water resistant watch. Total cost of optional, but highly recommended gear: around 190€.
+
 <h4>Initial Gear</h4>
 <ul>
 <li><strong>Quality running shoes</strong></li>
@@ -65,15 +81,27 @@ comments:
 <li><strong>Talcum powder</strong> - Foot care</li>
 <li><strong>Camouflage stick</strong> - They say it's better to take your own </li>
 </ul>
-<p><a href="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130630_150756.jpg"><br />
+
+<a href="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130630_150756.jpg"><br />
 <img alt="Stuff to pack" src="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130630_150756.jpg" width="300" /><br />
-</a></p>
-<p>I'm sure I'm forgetting something, but overall, I think I got only the essentials.</p>
+</a>
+
+
+I'm sure I'm forgetting something, but overall, I think I got only the essentials.
+
 <h3>On physical training</h3>
-<p>I intended to start training on January, but this didn't go so well. I'm weak in push-ups, but reasonably good at running by now - not that I'd tried doing 10k with 40k of equipment on me... Still, I'm quite proud of myself for <a href="http://runkeeper.com/user/895529834/activity/201257386?&amp;tripIdBase36=3btn6y">running 9k under 50 minutes</a>.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130628_171215.jpg"><br />
+
+I intended to start training on January, but this didn't go so well. I'm weak in push-ups, but reasonably good at running by now - not that I'd tried doing 10k with 40k of equipment on me... Still, I'm quite proud of myself for <a href="http://runkeeper.com/user/895529834/activity/201257386?&amp;tripIdBase36=3btn6y">running 9k under 50 minutes</a>.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130628_171215.jpg"><br />
 <img src="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130628_171215.jpg" alt="Before and after" width="300" /><br />
-</a></p>
+</a>
+
 <h1>Bye</h1>
-<p>So here I go, on my way to the reception. Oh, and I have to spend the night outdoors since no transportation goes there so early. Bye.</p>
-<p>&raquo; The next month: <a href="http://sqroot.eu/2013/08/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a></p>
+
+So here I go, on my way to the reception. Oh, and I have to spend the night outdoors since no transportation goes there so early. Bye.
+
+
+&raquo; The next month: <a href="http://sqroot.eu/2013/08/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a>
+

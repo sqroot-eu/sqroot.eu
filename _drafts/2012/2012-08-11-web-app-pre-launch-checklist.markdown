@@ -15,7 +15,7 @@ wordpress_id: 2639
 wordpress_url: http://sqroot.eu/?p=2639
 date: '2012-08-11 13:54:16 +0300'
 date_gmt: '2012-08-11 10:54:16 +0300'
-categories:
+category:
 - PHP
 tags:
 - php

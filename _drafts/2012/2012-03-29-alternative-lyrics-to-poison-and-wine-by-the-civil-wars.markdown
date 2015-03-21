@@ -17,7 +17,7 @@ wordpress_id: 1401
 wordpress_url: http://sqroot.eu/?p=1401
 date: '2012-03-29 14:48:43 +0300'
 date_gmt: '2012-03-29 12:48:43 +0300'
-categories:
+category:
 - Personal
 tags:
 - YouTube
@@ -31,8 +31,10 @@ tags:
 - video
 comments: []
 ---
-<p style="text-align: justify">I ran across "<a href="http://www.youtube.com/watch?v=WfzRlcnq_c0&amp;feature=g-like&amp;context=G2a17e4aALT3OCBgABAA">Poison and Wine</a>" by <a href="http://thecivilwars.com/about.php">The Civil Wars</a> yesterday in a YouTube playlist and instantly knew I'd found the song that'll haunt me for the rest of the week (if not longer). Such intense emotions and spirit, not the mention the meaning behind the words.</p>
-<p style="text-align: justify">Anyhow, the song is an inspiring one and below are alternate lyrics, composed by yours truly... that convey a slightly different message.</p>
+<p style="text-align: justify">I ran across "<a href="http://www.youtube.com/watch?v=WfzRlcnq_c0&amp;feature=g-like&amp;context=G2a17e4aALT3OCBgABAA">Poison and Wine</a>" by <a href="http://thecivilwars.com/about.php">The Civil Wars</a> yesterday in a YouTube playlist and instantly knew I'd found the song that'll haunt me for the rest of the week (if not longer). Such intense emotions and spirit, not the mention the meaning behind the words.
+
+<p style="text-align: justify">Anyhow, the song is an inspiring one and below are alternate lyrics, composed by yours truly... that convey a slightly different message.
+
 <h3>Alternative lyrics to "Poison And Wine" by The Civil Wars</h3>
 <pre>[John]: The saddest part you don't even know
 [Joy]: What used to be is gone somehow
@@ -63,6 +65,10 @@ How can I tell?
 How can I tell?
 How can I tell?
 How can I tell?</pre>
-<p>&nbsp;</p>
-<p>Another song/video to watch out for: Taylor Swift "<a href="http://www.youtube.com/watch?v=nhdNG_ebbTg">Safe and Sound</a>" Official Music Video ft. The Civil Wars that recently themed <a href="http://www.rottentomatoes.com/m/the_hunger_games/">The Hunger Games</a> (movie).</p>
+
+&nbsp;
+
+
+Another song/video to watch out for: Taylor Swift "<a href="http://www.youtube.com/watch?v=nhdNG_ebbTg">Safe and Sound</a>" Official Music Video ft. The Civil Wars that recently themed <a href="http://www.rottentomatoes.com/m/the_hunger_games/">The Hunger Games</a> (movie).
+
 <div class="zemanta-pixie" style="margin-top: 10px;height: 15px"><img class="zemanta-pixie-img" style="border: none;float: right" src="" alt="" /></div>

@@ -18,7 +18,7 @@ wordpress_id: 2947
 wordpress_url: http://sqroot.eu/?p=2947
 date: '2013-02-19 20:50:25 +0200'
 date_gmt: '2013-02-19 18:50:25 +0200'
-categories:
+category:
 - Hardware
 tags:
 - breadboard
@@ -47,7 +47,9 @@ comments:
   date_gmt: '2013-03-04 08:02:17 +0200'
   content: Indeed! How embarrassing... Is fixed now.
 ---
-<p>This is the project that taught me how to read physical switches from the Raspberry Pi. The idea is simple: a <a href="http://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro clock</a> that can be used to track work/rest time.</p>
+
+This is the project that taught me how to read physical switches from the Raspberry Pi. The idea is simple: a <a href="http://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro clock</a> that can be used to track work/rest time.
+
 <h2>Components</h2>
 <ul>
 <li>A START/PAUSE switch</li>
@@ -59,9 +61,17 @@ comments:
 <li>Jumpers, breadboard, Pi</li>
 </ul>
 <h2>Usage</h2>
-<p>Press the START button to begin a new Pomodoro. The display lights up and starts counting towards the 25 minute mark. Once there, the system enters STANDBY mode and lights the first LED to indicate the completed Pomodoro. Press START after the break to begin again. On the fifth Pomodoro the system is reset and you should take a longer break.</p>
+
+Press the START button to begin a new Pomodoro. The display lights up and starts counting towards the 25 minute mark. Once there, the system enters STANDBY mode and lights the first LED to indicate the completed Pomodoro. Press START after the break to begin again. On the fifth Pomodoro the system is reset and you should take a longer break.
+
 <h2>Code</h2>
-<p>The Python script is <a href="https://gist.github.com/anroots/4988673">on GitHub</a>. The circuit diagram (my first one, mind you) is available <a href="https://www.circuitlab.com/circuit/fr26sz/pomodoro-circuit/">on CircuitLab</a>.</p>
+
+The Python script is <a href="https://gist.github.com/anroots/4988673">on GitHub</a>. The circuit diagram (my first one, mind you) is available <a href="https://www.circuitlab.com/circuit/fr26sz/pomodoro-circuit/">on CircuitLab</a>.
+
 <h2>Advanced stuff</h2>
-<p>Connect this to <a href="https://www.toggl.com">Toggl</a> <a href="https://www.toggl.com/public/api">API</a> to record your Pomodoros.</p>
-<p><img src="http://sqroot.eu/wp-content/uploads/2013/02/pomodoro-breadboard.jpg" alt="Pomodoro circuit" /></p>
+
+Connect this to <a href="https://www.toggl.com">Toggl</a> <a href="https://www.toggl.com/public/api">API</a> to record your Pomodoros.
+
+
+<img src="http://sqroot.eu/wp-content/uploads/2013/02/pomodoro-breadboard.jpg" alt="Pomodoro circuit" />
+

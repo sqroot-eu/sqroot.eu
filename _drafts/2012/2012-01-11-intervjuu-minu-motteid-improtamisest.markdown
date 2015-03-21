@@ -17,7 +17,7 @@ wordpress_id: 1257
 wordpress_url: http://sqroot.eu/?p=1257
 date: '2012-01-11 00:15:30 +0200'
 date_gmt: '2012-01-10 22:15:30 +0200'
-categories:
+category:
 - Personal
 - Featured
 tags:
@@ -28,51 +28,122 @@ tags:
 - jaa
 comments: []
 ---
-<p>[caption id="attachment_1261" align="alignnone" width="300" caption="Pilt improstseenist. Vasakult: Martin Junna, Ando Roots. Fotograaf Hanna Allsaar."]<a href="http://sqroot.eu/wp-content/uploads/2012/01/impro-ando-martin.jpg"><img class="size-medium wp-image-1261 " style="margin: 10px;" src="http://sqroot.eu/wp-content/uploads/2012/01/impro-ando-martin-300x200.jpg" alt="" width="300" height="200" /></a>[/caption]</p>
-<blockquote><p>Improvisatsiooniline teater erineb klassikalisest selle poolest, et laval sündivad lood on igal õhtul uued. Etendus valmib publiku silme ees, vaatajate poolt pakutavate sõnade abil, mis annavad näitlejatele tegutsemiseks inspiratsiooni. Sõnu pähe ei õpita ja tegevusliine ette kokku ei lepita. Kõik sünnib kohapeal.</p></blockquote>
+
+[caption id="attachment_1261" align="alignnone" width="300" caption="Pilt improstseenist. Vasakult: Martin Junna, Ando Roots. Fotograaf Hanna Allsaar."]<a href="http://sqroot.eu/wp-content/uploads/2012/01/impro-ando-martin.jpg"><img class="size-medium wp-image-1261 " style="margin: 10px;" src="http://sqroot.eu/wp-content/uploads/2012/01/impro-ando-martin-300x200.jpg" alt="" width="300" height="200" /></a>[/caption]
+
+<blockquote>
+Improvisatsiooniline teater erineb klassikalisest selle poolest, et laval sündivad lood on igal õhtul uued. Etendus valmib publiku silme ees, vaatajate poolt pakutavate sõnade abil, mis annavad näitlejatele tegutsemiseks inspiratsiooni. Sõnu pähe ei õpita ja tegevusliine ette kokku ei lepita. Kõik sünnib kohapeal.
+</blockquote>
 <div><em>Ando on Tallinnas õppiv ja töötav tudeng, kes on improvisatsioonilise teatriga tegelenud natuke vähem kui aasta. Küsimusi küsis  Anni Aguraijuja.</em></div>
-<p><strong>1) Miks ja kuidas Sa just improteatrisse sattusid / tulid?</strong></p>
-<p style="text-align: justify;">Asi hakkas peale sellega, et oli Youtube ja oli ameeriklaste “Whose Line Is It Anyway?”. Ja siis oli veel Tallinna kevadised Tudengipäevad (2011) ning Improgrupp Jaa! avalik töötuba. Ega ma teadlikult midagi ei otsinudki, pigem otsustasin olla aktiivne tudeng ja vähemalt ühest tudengipäevade üritusest osa võtta. No ja siis pandi mind seal tegema sellist spontaanset hullust, et tagasiteed nagu enam ei olnudki. Peale seda töötuba (ja koheselt järgnevat etendust) ilmusin kohale järgmisse proovi TLÜ-s ning ära pole nad mind seniajani suutnud ajada.</p>
-<p><strong>2) Kui tooksid välja võrdlused endas „enne“ ja „pärast“ improteatrit, siis mis need oleksid? Kuidas see Sind muutnud on? Mis iseloomuomadusi rohkem välja toonud, tugevdanud?</strong></p>
-<p style="text-align: justify;">Olin veel aasta tagasi sügavalt introvertne inimene. Ma ei väida, et see enam nii ei ole, aga skaala on siiski tugevalt teisepoole nihkunud. Iseloomustasin improteatri tegemist kord kui "sotsiaalteraapia kursus 101" ehk esimene samm oma sotsiaalse mina uuestiavastamiseks... positiivsemas valguses. Olen muutunud avatumaks, positiivsemaks, altruistlikumaks. Selline vabatahtlik ajupesu.</p>
-<p><strong>3) Kas Sinu arvates on improvisatsioon eelduseks paremale, efektiivsemale suhtlemisele? Nii jaatava kui eitava vastuse puhul, palun põhjenda.</strong></p>
-<p style="text-align: justify;">Jah, võib nii öelda küll. Impro rõhutab jaatamist ja grupitunnetust. Teiste pakkumisi kuulates ja oma egost lahti lastes areneb vestlus nagu impro etüüd. Spontaansusega harjunud inimesed ei jää rääkides “kinni” asju üle mõtlema, vaid ütlevad seda, mida mõtlevad (vähemalt rohkem). Ja üleüldse on vestluses julgem maapind.</p>
-<p><strong>4) Kas hea publik võrdub heade suhtlejatega?</strong></p>
-<p style="text-align: justify;">Publikul on tähtis osa igas improetenduses. Näitlejatega koos luuakse lood ning kogetakse nende arengut. Alati on ju tore, kui publik on avatud ja loovas meeleolus, nii tulevad paremad lood/pakkumised ning ka õhkkond on soojem. Kui pidada silmas näitlejate/publiku suhtlemist, siis vähemalt eestlaste puhul on täheldada veidikest hirmu ja kinnisust. Püüame oma publikut austada ning mitte hirmutada ning siiani pole küll juhtunud, et saal hiirvaikne oleks.</p>
-<p><strong>5) Mis vahe on Sinu jaoks loovusel ja improvisatsioonil, või kas üldse on?</strong></p>
-<p style="text-align: justify;">Mulle tundub, et need mõlemad on omavahel tugevalt seotud: loovuseta on raske improviseerida ja vastupidi. Samas on mõlemad oskused mõningal määral treenitavad ning tegelikult ei peagi improtamisel “orginaalne” olema: parimad pakkumised võivad olla just need ilmselged, millest tihti mööda käiakse.</p>
-<p><strong>6) Kas improvistasioon on Sulle ka midagi enda ja teiste kohta õpetanud? Mida?</strong></p>
-<p style="text-align: justify;">Olen end paremini tundma õppinud. Nii oma piire kui seda, milleks suuteline olen. Inimesed on tihti liiga “täiskasvanud” ja unustavad lapsepõlve. Jaa! prooviruumi sisenedes võib aga näitlejaid näha mööda ruumi sõna otseses mõttes ringi hüppamas või ahvi moodi häälitsemas või... Ütleme nii, et taasavastasin lapsepõlve mängumeelsuse täiskasvanu kultuurisilmade läbi. Ja alati on rahuldustpakkuv näha, kuidas improst täiesti võõrad inimesed töötubades sama teevad ja aeglaselt avanema hakkavad.</p>
-<p><strong>7) Kuidas on Sinu arvates inimestel üldse võimalik teineteisest aru saada? (Näiteks teie lavastustes on oluline koostöö, kuid paarilise kavatsus, repliik ei ole ju ette teada. Kuidas sellisel juhul koostöö sujuda saab? Mis on selle toimiseks oluline?)</strong></p>
-<p style="text-align: justify;">Partnerist ei pea alati aru saama. Saa temast aru täpselt nii, nagu sa seda teed, kartmata, et nüüd läks täiesti mööda ja pärast ollakse pahane. No näiteks: operatsioonisaal (miimides). Doktor askeldab patsiendi kohal ning siis ütleb lavapartner, et tegu on köögiga. Olgu siis nii - doktor tunnistab, et lõpetas operatsiooni "mustikapirkukas" ja lükkab plaadi ahju. Või misiganes. Partnerit tunnustades ja tema pakkumistele jaa öeldes on sinu kui näitlejaga mugav laval olla ning koostöö sujub - isegi, kui üksteise mõtteid ei loeta. Ja nii ongi huvitavam, sest sündinud lood on grupilooming.</p>
-<p><strong>8) Kas improgrupis kaasalöömine mõjutab ka kuidagi igapäevast sotsiaalset suhtlemist ja kuidas?</strong></p>
-<p style="text-align: justify;">Mõjutab, ja väga tugevalt. Olen aastaga kogunud hämmastaval hulgal sotsiaalset julgust. Eestlased on selline emotsionaalselt rohkem suletud rahvas: kardetakse võõraid ja füüsilist kontakti. Ma ei väida, et see konkreetne eestlane nendest hirmudest üle on saanud, kuid tee on kindlasti õige.</p>
-<p><strong>9) Millised on Sinu arvates improteatri mõjud / kasutegurid inimesele sotsiaalselt, psühholoogiliselt ja neuroloogiliselt?</strong></p>
-<p style="text-align: justify;">Improteatri harjutused ja tehnikad on kasutusel teraapiavormina. Tervisliku ja siira naeruta pole möödunud ühtegi proovi, tegelikult ühtegi laval oldud pooltundigi. Neuroloogiliselt rääkides - improga tegelemine on positiivne ajupesu, mis paneb maailma rõõmsamates värvides nägema.</p>
-<p><strong>10) Kas olete esinenud ka väljaspool Eestis? Kuna eesti publik on teatavasti oma mentaliteedilt tagasihoidlik, siis kas arvad, et kuskil mujal riigis, kus inimesed on suhtelmisaldimad, oleks lihtsam improteatrit rakendada?</strong></p>
-<p style="text-align: justify;">Mina Eestist välja veel jõudnud ei ole - aga saladuskatte all, plaanid on. Küll aga käis meie grupp eelmisel aastal Soomes esinemas, seal on inimesed improga ka tuttavamad ning oskavad juba midagi oodata. Kuuldu põhjal oli see reis igati mõnus kogemus. Kindlasti aitab õhkkonna loomisele (ja järelikult ka etendusele) palju kaasa publiku positiivne meeleolu, aga ma ei ütleks, et meie publikul seda ei ole.</p>
-<p><strong>11) Üks antropoloog Brad Fortier tegi statementi „Improv can save the world“- palun kommenteeri.</strong></p>
-<p>"Naeratuse keel on kõigi rahvaste jaoks ühine." (vanasõna)</p>
-<p><strong>12) Kas lavanärvi ja kinnijooksmist esineb sageli? Mida sellisel juhul teed?</strong></p>
-<p style="text-align: justify;">Lavanärv on sagedane kaaslane - kuigi, võiks ju arvata, et kuna impronäitlejad teksti ega liikumist pähe ei õpi... Aga jah, need mõned korrad, mil ma olen publiku ees käinud, oli närv sees küll. Välja arvatud ühe vahva teatri juubelifestivalil, kus oli lihtsalt nii vahva lava, publik ja õhkkond (ning ka meie, lavalolijad), et unustasin närveerimisele keskenduda.</p>
-<p style="text-align: justify;">Kinnijooksmine... sellega on natuke naljakas teema. Tihti tulevad mul parimad ideed just siis, kui olen "kinni jooksnud", sest siis on täpselt kaks sekundit aega midagi välja mõelda. Näiteks on meil mäng "Freeze tag", kus me oleme seljaga tegevuse poole ja peame suvalisel hetkel stseeniga liituma, teadmata, mis parajasti laval sünnib. Siis ongi nii, et keerad ringi, üks sekund on aega olukord visuaalselt vastu võtta ning kaks - kolm sekundit aega mõelda (senikaua, kuni näitlejate juurde jõuan).</p>
-<p style="text-align: justify;">Ärgem unustagem, et improt tehakse harva üksi - see tähendab, et alati võib loota teistele, kes raskes olukorras appi tulevad. Kui jooksedki täielikult rappa, tuleb nurga tagant välja koer või saabub tuletõrjuja või astub sisse preester ja kuulutab, et majas kummitab. Seega ei ole kinnijooksmine asi, mida karta.</p>
-<p><strong>13) Kui improtunnist soovib osa võtta keegi loomult väga arg, siis kas ta saaks hakkama? Või peab selleks juba julge olema?</strong></p>
-<p style="text-align: justify;">Impro tutvustamiseks on vaja usaldavat keskkonda ja osavat juhendajat. Õnneks on meil mõlemad. Eelmise aasta lõpupoole alustasime improstuudio projektiga, mida juhendab meie uskumatult tubli emalõvi Rahel. Seal käib huvilisi igast eluvaldkonnast, paljud neist igasuguse näitlemiskogemuseta (nagu mina alguses) - seehulgas ka üks vahva, kuid "väga arg" tüdruk, kes on nüüdseks minu suureks rõõmuks vapraks saanud. Julge peab ainult niipalju olema, et vaikselt mööda rada astuma hakata - ülejäänud tuleb juba loomulikult.</p>
-<p><strong>14) Kas Sinu jaoks tuleb argielus improvisatsioon loomulikult? Teed sa seda tihti?</strong></p>
-<p style="text-align: justify;">Mida selle all mõelda? Improviseerime ju me kõik igapäevaselt. Teadlikult alustasin sellega keskkoolis, kui koolitükid lugemata - teadsin küll üldiselt, millest jutt käib, aga peatükki tuupinud polnud. Siis oli nii, et kui õpetaja küsis, rääkisin ja rääkisin ja rääkisin. Ja üldiselt õiget (kuigi mõnevõrra subjektiivset) juttu ka. Töövestlusel, žarlatanina, isegi kokates - improvisatsioon saadab meid kõikjal.</p>
-<p><strong>15) Kas oskus hästi improviseerida teeb inimesest ka hea valetaja? (Võid tuua mõne näite; põhjendada).</strong></p>
-<p style="text-align: justify;">Hea valetaja on juba iseenesest vastuoluline idee. Siiski, jah: improvisatsioonioskus tuleb appi ka selles olukorras. Võin täiesti rahuliku näoga pidada viieminutilise monoloogi sellest, kuidas ja miks ma nädalavahetusel Ameerikasse lendasin ja miks mul praegu ühe käe küljes käerauad on; seejuures tuleb valetatav mulle appi, sest saan tema pakkumised loosse sisse tuua. Öeldakse, et hädavale vajaduses isikud on tihti närvilised, ajavad asju sassi, ei julge silma vaadata... Improkogemusega suudad säilitada rahu ning tühjast õhust katkematu loo välja võluda.</p>
-<p><strong>16) Mis juhtub siis, kui „pressikonverentsi külaline“ ei suuda ära arvata/ või ei teagi näiteks talle määratud tegelast?</strong></p>
-<p style="text-align: justify;">Üks tervislik naer publikult ja võimalik, et näitleja naeratav ja vabandav kummardus. Meil on olnud mänge, mis ei lõppenud "päris nii", nagu ette nähtud. Sellest ei ole midagi katki. Pressikonverentsist rääkides - kord esitas kõnelejale küsimuse soomlane. Esimese paari sõna järel puhkes terve saal naerma, kõneleja kuulas küsimuse ära ja vastas paari samakeelse (tõenäoliselt juhusliku) sõnaga. Impro toimub siin ja praegu ning samamoodi kuidas mõnikord on naljakas mitte orginaalsus vaid ilmselged valikud, võib mängule sobiva punkti panna see, kui pressikonverentsi segavad turvatöötajad, kes teatavad, et õige Mr. Gates on ikka veel lennujaamas ja kõneleja näol on tegemist osava meistervargaga.</p>
-<p><strong>17) Kust te saate oma etüüdide ideed? Kui oluline on teie jaoks tagasiside (nt omavaheline ja ka väljaspoolne)?</strong></p>
-<p style="text-align: justify;">Ideed tulevad sellest mõttesuminast, kus me parasjagu oma peas viibime. Ja mitte harva hoopis kusagilt mujalt. Meid inspireerivad väga eriskummalised asjad, enamjaolt palume aga publikul seda teha... sest meie publik on äge.</p>
-<p style="text-align: justify;">Tagasiside on tähtis, sest vaid nii saame teada asjadest, mis on hästi ja mis muutmist vajavad. Impros ei ole vale ideed ja/või mõtet, me kritiseerime tavaliselt rohkem tehnikalisi aspekte... ja suudame selle kriitika vastu võtta ja läbi mõelda.</p>
-<p><strong>18) Kas Improteatritel on tulevikku? Saab sellega Sinu arvates rohkem arvamust ja tundeid väljendada kui tavalavastustes? Kuidas? Palun põhjenda.</strong></p>
-<p style="text-align: justify;">Improteatril on kohe kindlasti tulevikku. Osalt seepärast, et sellega tegelemiseks ei ole vaja nii põhjalikku klassikalist teatriharidust, kui näiteks Shakespeari mängimiseks: see muudab teema noorte hulgas tõmbavamaks. Lisaks veel kõik need (minu arvates) imelised asjad, millest eelpool juttu oli.</p>
-<p style="text-align: justify;">Impro võrdlemine tavalavastusega on selline kohv/tee teema: kuidas kellelegi. Mina näiteks olen näinud nii südantlõhestavaid draamastseene professionaalses teatris kui ka võrreldava sügavusega emotsionaalseid stseene meie oma laval.</p>
-<p><strong>19) Kas on võimalik teha ka traagilist improteatrit?</strong></p>
-<p style="text-align: justify;">Otseloomulikult. Oleme sellega ka natuke katsetanud, kuigi tikume loomult pigem ülevoolavalt positiivsed olema. Kui see aga eesmärgiks seada... ma ei näe takistust.</p>
-<p><strong>20) Millised omadused peaksid / võiksid olla ühel heal impro-näitlejal?</strong></p>
-<p style="text-align: justify;">Viimane küsimus, kõige raskem küsimus. Ainult iseloomuomaduste diskreetse nimekirja põhjal ei saa inimest impronäitleja lineaarsel skaalal kuhugi paigutada. On erinevaid inimesi, on erinevaid (nii häid kui neid teisi) olukordi. Küll aga tunneksin mina end laval hästi inimesega, kes improvaimust kinni peab: kuulab, pakub, toetab. Alguses peab olema tibake julgust ja pealehakkamist. Kõik muu tuleb grupi toel ja ajaga.</p>
-<p>Siin polegi muud võimalust kui omal käel järele proovida.</p>
+
+<strong>1) Miks ja kuidas Sa just improteatrisse sattusid / tulid?</strong>
+
+<p style="text-align: justify;">Asi hakkas peale sellega, et oli Youtube ja oli ameeriklaste “Whose Line Is It Anyway?”. Ja siis oli veel Tallinna kevadised Tudengipäevad (2011) ning Improgrupp Jaa! avalik töötuba. Ega ma teadlikult midagi ei otsinudki, pigem otsustasin olla aktiivne tudeng ja vähemalt ühest tudengipäevade üritusest osa võtta. No ja siis pandi mind seal tegema sellist spontaanset hullust, et tagasiteed nagu enam ei olnudki. Peale seda töötuba (ja koheselt järgnevat etendust) ilmusin kohale järgmisse proovi TLÜ-s ning ära pole nad mind seniajani suutnud ajada.
+
+
+<strong>2) Kui tooksid välja võrdlused endas „enne“ ja „pärast“ improteatrit, siis mis need oleksid? Kuidas see Sind muutnud on? Mis iseloomuomadusi rohkem välja toonud, tugevdanud?</strong>
+
+<p style="text-align: justify;">Olin veel aasta tagasi sügavalt introvertne inimene. Ma ei väida, et see enam nii ei ole, aga skaala on siiski tugevalt teisepoole nihkunud. Iseloomustasin improteatri tegemist kord kui "sotsiaalteraapia kursus 101" ehk esimene samm oma sotsiaalse mina uuestiavastamiseks... positiivsemas valguses. Olen muutunud avatumaks, positiivsemaks, altruistlikumaks. Selline vabatahtlik ajupesu.
+
+
+<strong>3) Kas Sinu arvates on improvisatsioon eelduseks paremale, efektiivsemale suhtlemisele? Nii jaatava kui eitava vastuse puhul, palun põhjenda.</strong>
+
+<p style="text-align: justify;">Jah, võib nii öelda küll. Impro rõhutab jaatamist ja grupitunnetust. Teiste pakkumisi kuulates ja oma egost lahti lastes areneb vestlus nagu impro etüüd. Spontaansusega harjunud inimesed ei jää rääkides “kinni” asju üle mõtlema, vaid ütlevad seda, mida mõtlevad (vähemalt rohkem). Ja üleüldse on vestluses julgem maapind.
+
+
+<strong>4) Kas hea publik võrdub heade suhtlejatega?</strong>
+
+<p style="text-align: justify;">Publikul on tähtis osa igas improetenduses. Näitlejatega koos luuakse lood ning kogetakse nende arengut. Alati on ju tore, kui publik on avatud ja loovas meeleolus, nii tulevad paremad lood/pakkumised ning ka õhkkond on soojem. Kui pidada silmas näitlejate/publiku suhtlemist, siis vähemalt eestlaste puhul on täheldada veidikest hirmu ja kinnisust. Püüame oma publikut austada ning mitte hirmutada ning siiani pole küll juhtunud, et saal hiirvaikne oleks.
+
+
+<strong>5) Mis vahe on Sinu jaoks loovusel ja improvisatsioonil, või kas üldse on?</strong>
+
+<p style="text-align: justify;">Mulle tundub, et need mõlemad on omavahel tugevalt seotud: loovuseta on raske improviseerida ja vastupidi. Samas on mõlemad oskused mõningal määral treenitavad ning tegelikult ei peagi improtamisel “orginaalne” olema: parimad pakkumised võivad olla just need ilmselged, millest tihti mööda käiakse.
+
+
+<strong>6) Kas improvistasioon on Sulle ka midagi enda ja teiste kohta õpetanud? Mida?</strong>
+
+<p style="text-align: justify;">Olen end paremini tundma õppinud. Nii oma piire kui seda, milleks suuteline olen. Inimesed on tihti liiga “täiskasvanud” ja unustavad lapsepõlve. Jaa! prooviruumi sisenedes võib aga näitlejaid näha mööda ruumi sõna otseses mõttes ringi hüppamas või ahvi moodi häälitsemas või... Ütleme nii, et taasavastasin lapsepõlve mängumeelsuse täiskasvanu kultuurisilmade läbi. Ja alati on rahuldustpakkuv näha, kuidas improst täiesti võõrad inimesed töötubades sama teevad ja aeglaselt avanema hakkavad.
+
+
+<strong>7) Kuidas on Sinu arvates inimestel üldse võimalik teineteisest aru saada? (Näiteks teie lavastustes on oluline koostöö, kuid paarilise kavatsus, repliik ei ole ju ette teada. Kuidas sellisel juhul koostöö sujuda saab? Mis on selle toimiseks oluline?)</strong>
+
+<p style="text-align: justify;">Partnerist ei pea alati aru saama. Saa temast aru täpselt nii, nagu sa seda teed, kartmata, et nüüd läks täiesti mööda ja pärast ollakse pahane. No näiteks: operatsioonisaal (miimides). Doktor askeldab patsiendi kohal ning siis ütleb lavapartner, et tegu on köögiga. Olgu siis nii - doktor tunnistab, et lõpetas operatsiooni "mustikapirkukas" ja lükkab plaadi ahju. Või misiganes. Partnerit tunnustades ja tema pakkumistele jaa öeldes on sinu kui näitlejaga mugav laval olla ning koostöö sujub - isegi, kui üksteise mõtteid ei loeta. Ja nii ongi huvitavam, sest sündinud lood on grupilooming.
+
+
+<strong>8) Kas improgrupis kaasalöömine mõjutab ka kuidagi igapäevast sotsiaalset suhtlemist ja kuidas?</strong>
+
+<p style="text-align: justify;">Mõjutab, ja väga tugevalt. Olen aastaga kogunud hämmastaval hulgal sotsiaalset julgust. Eestlased on selline emotsionaalselt rohkem suletud rahvas: kardetakse võõraid ja füüsilist kontakti. Ma ei väida, et see konkreetne eestlane nendest hirmudest üle on saanud, kuid tee on kindlasti õige.
+
+
+<strong>9) Millised on Sinu arvates improteatri mõjud / kasutegurid inimesele sotsiaalselt, psühholoogiliselt ja neuroloogiliselt?</strong>
+
+<p style="text-align: justify;">Improteatri harjutused ja tehnikad on kasutusel teraapiavormina. Tervisliku ja siira naeruta pole möödunud ühtegi proovi, tegelikult ühtegi laval oldud pooltundigi. Neuroloogiliselt rääkides - improga tegelemine on positiivne ajupesu, mis paneb maailma rõõmsamates värvides nägema.
+
+
+<strong>10) Kas olete esinenud ka väljaspool Eestis? Kuna eesti publik on teatavasti oma mentaliteedilt tagasihoidlik, siis kas arvad, et kuskil mujal riigis, kus inimesed on suhtelmisaldimad, oleks lihtsam improteatrit rakendada?</strong>
+
+<p style="text-align: justify;">Mina Eestist välja veel jõudnud ei ole - aga saladuskatte all, plaanid on. Küll aga käis meie grupp eelmisel aastal Soomes esinemas, seal on inimesed improga ka tuttavamad ning oskavad juba midagi oodata. Kuuldu põhjal oli see reis igati mõnus kogemus. Kindlasti aitab õhkkonna loomisele (ja järelikult ka etendusele) palju kaasa publiku positiivne meeleolu, aga ma ei ütleks, et meie publikul seda ei ole.
+
+
+<strong>11) Üks antropoloog Brad Fortier tegi statementi „Improv can save the world“- palun kommenteeri.</strong>
+
+
+"Naeratuse keel on kõigi rahvaste jaoks ühine." (vanasõna)
+
+
+<strong>12) Kas lavanärvi ja kinnijooksmist esineb sageli? Mida sellisel juhul teed?</strong>
+
+<p style="text-align: justify;">Lavanärv on sagedane kaaslane - kuigi, võiks ju arvata, et kuna impronäitlejad teksti ega liikumist pähe ei õpi... Aga jah, need mõned korrad, mil ma olen publiku ees käinud, oli närv sees küll. Välja arvatud ühe vahva teatri juubelifestivalil, kus oli lihtsalt nii vahva lava, publik ja õhkkond (ning ka meie, lavalolijad), et unustasin närveerimisele keskenduda.
+
+<p style="text-align: justify;">Kinnijooksmine... sellega on natuke naljakas teema. Tihti tulevad mul parimad ideed just siis, kui olen "kinni jooksnud", sest siis on täpselt kaks sekundit aega midagi välja mõelda. Näiteks on meil mäng "Freeze tag", kus me oleme seljaga tegevuse poole ja peame suvalisel hetkel stseeniga liituma, teadmata, mis parajasti laval sünnib. Siis ongi nii, et keerad ringi, üks sekund on aega olukord visuaalselt vastu võtta ning kaks - kolm sekundit aega mõelda (senikaua, kuni näitlejate juurde jõuan).
+
+<p style="text-align: justify;">Ärgem unustagem, et improt tehakse harva üksi - see tähendab, et alati võib loota teistele, kes raskes olukorras appi tulevad. Kui jooksedki täielikult rappa, tuleb nurga tagant välja koer või saabub tuletõrjuja või astub sisse preester ja kuulutab, et majas kummitab. Seega ei ole kinnijooksmine asi, mida karta.
+
+
+<strong>13) Kui improtunnist soovib osa võtta keegi loomult väga arg, siis kas ta saaks hakkama? Või peab selleks juba julge olema?</strong>
+
+<p style="text-align: justify;">Impro tutvustamiseks on vaja usaldavat keskkonda ja osavat juhendajat. Õnneks on meil mõlemad. Eelmise aasta lõpupoole alustasime improstuudio projektiga, mida juhendab meie uskumatult tubli emalõvi Rahel. Seal käib huvilisi igast eluvaldkonnast, paljud neist igasuguse näitlemiskogemuseta (nagu mina alguses) - seehulgas ka üks vahva, kuid "väga arg" tüdruk, kes on nüüdseks minu suureks rõõmuks vapraks saanud. Julge peab ainult niipalju olema, et vaikselt mööda rada astuma hakata - ülejäänud tuleb juba loomulikult.
+
+
+<strong>14) Kas Sinu jaoks tuleb argielus improvisatsioon loomulikult? Teed sa seda tihti?</strong>
+
+<p style="text-align: justify;">Mida selle all mõelda? Improviseerime ju me kõik igapäevaselt. Teadlikult alustasin sellega keskkoolis, kui koolitükid lugemata - teadsin küll üldiselt, millest jutt käib, aga peatükki tuupinud polnud. Siis oli nii, et kui õpetaja küsis, rääkisin ja rääkisin ja rääkisin. Ja üldiselt õiget (kuigi mõnevõrra subjektiivset) juttu ka. Töövestlusel, žarlatanina, isegi kokates - improvisatsioon saadab meid kõikjal.
+
+
+<strong>15) Kas oskus hästi improviseerida teeb inimesest ka hea valetaja? (Võid tuua mõne näite; põhjendada).</strong>
+
+<p style="text-align: justify;">Hea valetaja on juba iseenesest vastuoluline idee. Siiski, jah: improvisatsioonioskus tuleb appi ka selles olukorras. Võin täiesti rahuliku näoga pidada viieminutilise monoloogi sellest, kuidas ja miks ma nädalavahetusel Ameerikasse lendasin ja miks mul praegu ühe käe küljes käerauad on; seejuures tuleb valetatav mulle appi, sest saan tema pakkumised loosse sisse tuua. Öeldakse, et hädavale vajaduses isikud on tihti närvilised, ajavad asju sassi, ei julge silma vaadata... Improkogemusega suudad säilitada rahu ning tühjast õhust katkematu loo välja võluda.
+
+
+<strong>16) Mis juhtub siis, kui „pressikonverentsi külaline“ ei suuda ära arvata/ või ei teagi näiteks talle määratud tegelast?</strong>
+
+<p style="text-align: justify;">Üks tervislik naer publikult ja võimalik, et näitleja naeratav ja vabandav kummardus. Meil on olnud mänge, mis ei lõppenud "päris nii", nagu ette nähtud. Sellest ei ole midagi katki. Pressikonverentsist rääkides - kord esitas kõnelejale küsimuse soomlane. Esimese paari sõna järel puhkes terve saal naerma, kõneleja kuulas küsimuse ära ja vastas paari samakeelse (tõenäoliselt juhusliku) sõnaga. Impro toimub siin ja praegu ning samamoodi kuidas mõnikord on naljakas mitte orginaalsus vaid ilmselged valikud, võib mängule sobiva punkti panna see, kui pressikonverentsi segavad turvatöötajad, kes teatavad, et õige Mr. Gates on ikka veel lennujaamas ja kõneleja näol on tegemist osava meistervargaga.
+
+
+<strong>17) Kust te saate oma etüüdide ideed? Kui oluline on teie jaoks tagasiside (nt omavaheline ja ka väljaspoolne)?</strong>
+
+<p style="text-align: justify;">Ideed tulevad sellest mõttesuminast, kus me parasjagu oma peas viibime. Ja mitte harva hoopis kusagilt mujalt. Meid inspireerivad väga eriskummalised asjad, enamjaolt palume aga publikul seda teha... sest meie publik on äge.
+
+<p style="text-align: justify;">Tagasiside on tähtis, sest vaid nii saame teada asjadest, mis on hästi ja mis muutmist vajavad. Impros ei ole vale ideed ja/või mõtet, me kritiseerime tavaliselt rohkem tehnikalisi aspekte... ja suudame selle kriitika vastu võtta ja läbi mõelda.
+
+
+<strong>18) Kas Improteatritel on tulevikku? Saab sellega Sinu arvates rohkem arvamust ja tundeid väljendada kui tavalavastustes? Kuidas? Palun põhjenda.</strong>
+
+<p style="text-align: justify;">Improteatril on kohe kindlasti tulevikku. Osalt seepärast, et sellega tegelemiseks ei ole vaja nii põhjalikku klassikalist teatriharidust, kui näiteks Shakespeari mängimiseks: see muudab teema noorte hulgas tõmbavamaks. Lisaks veel kõik need (minu arvates) imelised asjad, millest eelpool juttu oli.
+
+<p style="text-align: justify;">Impro võrdlemine tavalavastusega on selline kohv/tee teema: kuidas kellelegi. Mina näiteks olen näinud nii südantlõhestavaid draamastseene professionaalses teatris kui ka võrreldava sügavusega emotsionaalseid stseene meie oma laval.
+
+
+<strong>19) Kas on võimalik teha ka traagilist improteatrit?</strong>
+
+<p style="text-align: justify;">Otseloomulikult. Oleme sellega ka natuke katsetanud, kuigi tikume loomult pigem ülevoolavalt positiivsed olema. Kui see aga eesmärgiks seada... ma ei näe takistust.
+
+
+<strong>20) Millised omadused peaksid / võiksid olla ühel heal impro-näitlejal?</strong>
+
+<p style="text-align: justify;">Viimane küsimus, kõige raskem küsimus. Ainult iseloomuomaduste diskreetse nimekirja põhjal ei saa inimest impronäitleja lineaarsel skaalal kuhugi paigutada. On erinevaid inimesi, on erinevaid (nii häid kui neid teisi) olukordi. Küll aga tunneksin mina end laval hästi inimesega, kes improvaimust kinni peab: kuulab, pakub, toetab. Alguses peab olema tibake julgust ja pealehakkamist. Kõik muu tuleb grupi toel ja ajaga.
+
+
+Siin polegi muud võimalust kui omal käel järele proovida.
+

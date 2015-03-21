@@ -19,7 +19,7 @@ wordpress_id: 2951
 wordpress_url: http://sqroot.eu/?p=2951
 date: '2013-02-20 19:13:02 +0200'
 date_gmt: '2013-02-20 17:13:02 +0200'
-categories:
+category:
 - Opinions
 tags:
 - opinion
@@ -49,10 +49,16 @@ comments:
 
     Sorry for the tone, but what can You say for a counter argument?
 ---
-<p><em>This post was inspired by <a href="http://ansr.io/blog/hiring-application-developer/">a job offer</a> and applies mainly for IT work.</em></p>
-<p>Being satisfied with your work and surroundings matters in the long run. It's great to do work that you love... but to do it with the right people, in the right environment? Motivated and passionate people produce so much better results - and crossed and miserable ones usually find a better place to do their thing.<a id="more"></a><a id="more-2951"></a></p>
+
+<em>This post was inspired by <a href="http://ansr.io/blog/hiring-application-developer/">a job offer</a> and applies mainly for IT work.</em>
+
+
+Being satisfied with your work and surroundings matters in the long run. It's great to do work that you love... but to do it with the right people, in the right environment? Motivated and passionate people produce so much better results - and crossed and miserable ones usually find a better place to do their thing.<a id="more"></a><a id="more-2951"></a>
+
 <h2>Have space that invites work</h2>
-<p>Working from your sofa or in the basement yields results, but come on!</p>
+
+Working from your sofa or in the basement yields results, but come on!
+
 <ul>
 <li>Have quality furniture, especially for desk-mostly jobs</li>
 <li>Keep the kitchen stocked and freely available for snacks and <em>coffee</em></li>
@@ -61,18 +67,30 @@ comments:
 <li>Ensure your personal problems stay at home</li>
 </ul>
 <h2>Build the team</h2>
-<p>Money shouldn't be the only reason a group of people do something together. Ideally you'd have people who share a passion. I'm a fan of self-forming teams where people can <em>choose</em> their tasks and handle the assignments they do best. It's better to utilize someones talents rather than try to force them into a mold.</p>
+
+Money shouldn't be the only reason a group of people do something together. Ideally you'd have people who share a passion. I'm a fan of self-forming teams where people can <em>choose</em> their tasks and handle the assignments they do best. It's better to utilize someones talents rather than try to force them into a mold.
+
 <h2>Take care of your people</h2>
-<p>It's said that people are the largest expense to the company... but they are also the greatest asset. Take care of them. Why put monetary value into people only to have them walk away a year later? Trial periods are good, but do try to make an effort afterwards.</p>
+
+It's said that people are the largest expense to the company... but they are also the greatest asset. Take care of them. Why put monetary value into people only to have them walk away a year later? Trial periods are good, but do try to make an effort afterwards.
+
 <h2>Have toys available</h2>
-<p>Even grownups need toys. I, as a software/IT guy am always interested in new technology and quite easy to please:</p>
+
+Even grownups need toys. I, as a software/IT guy am always interested in new technology and quite easy to please:
+
 <ul>
 <li>Have a budget for "devops" stuff: SaaS, gadgets</li>
 <li>Allow time to play and experiment with the unknown</li>
 <li>Keep the equipment up-to-date</li>
 </ul>
-<p>It's a bit of a burden for your budget, but well worth it.</p>
+
+It's a bit of a burden for your budget, but well worth it.
+
 <h2>Have a solid code of ethics</h2>
-<p>Do work that inspires you. Refuse clients who'll probably misuse your creations. For me it'd be spam/ad/malware/gambling related projects. Again - the team should be passionate about what they build and look at you, the product owner, with sparkling eyes.</p>
+
+Do work that inspires you. Refuse clients who'll probably misuse your creations. For me it'd be spam/ad/malware/gambling related projects. Again - the team should be passionate about what they build and look at you, the product owner, with sparkling eyes.
+
 <hr />
-<p>Yes, there are challenges - both economic and people-based - in making the workplace seem like a second home - but think about it. When I'm not focusing on how much I do not enjoy myself, what will I do with my time? Maybe work?</p>
+
+Yes, there are challenges - both economic and people-based - in making the workplace seem like a second home - but think about it. When I'm not focusing on how much I do not enjoy myself, what will I do with my time? Maybe work?
+

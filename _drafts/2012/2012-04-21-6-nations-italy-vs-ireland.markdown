@@ -15,7 +15,7 @@ wordpress_id: 1587
 wordpress_url: http://sqroot.eu/events/6-nations-italy-vs-ireland/
 date: '2012-04-21 09:02:48 +0300'
 date_gmt: '2012-04-21 09:02:48 +0300'
-categories: []
+category: []
 tags: []
 comments: []
 ---

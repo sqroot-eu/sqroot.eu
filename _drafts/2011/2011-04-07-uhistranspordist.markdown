@@ -15,7 +15,7 @@ wordpress_id: 677
 wordpress_url: http://sqroot.eu/?p=677
 date: '2011-04-07 23:04:19 +0300'
 date_gmt: '2011-04-07 21:04:19 +0300'
-categories:
+category:
 - Opinions
 tags:
 - Tallinn
@@ -37,10 +37,20 @@ comments:
     kontrollitud. 80% s&otilde;itudest&nbsp;k&auml;ivad trollil no 3, kus pole kordagi
     kedagi k&auml;inud.
 ---
-<p>Nii...arvutame MUPO kontrolli sageduse isikliku kogemuse p&otilde;hjal.</p>
-<p><em>8/2 = 4</em> ehk siis nelja kuu jooksul korra (kusjuures m&otilde;lemad s&uuml;dalinnas, tipptunnil). Trahv on <strong>40&euro;</strong>. Tallinna kolme kuu pilet &uuml;li&otilde;pilastele ja k&otilde;ikidele teistele rikastele isikutele on <strong>42.18&euro;.</strong></p>
-<p>Paar lihtsat arvutust oletusel, et maksimumtrahv j&auml;&auml;b paigale&nbsp;(esimesed pidavat odavamad olema):</p>
+
+Nii...arvutame MUPO kontrolli sageduse isikliku kogemuse p&otilde;hjal.
+
+
+<em>8/2 = 4</em> ehk siis nelja kuu jooksul korra (kusjuures m&otilde;lemad s&uuml;dalinnas, tipptunnil). Trahv on <strong>40&euro;</strong>. Tallinna kolme kuu pilet &uuml;li&otilde;pilastele ja k&otilde;ikidele teistele rikastele isikutele on <strong>42.18&euro;.</strong>
+
+
+Paar lihtsat arvutust oletusel, et maksimumtrahv j&auml;&auml;b paigale&nbsp;(esimesed pidavat odavamad olema):
+
 <blockquote>
-<p>42.18 / 3 = 14.06; 14.06*4 = 56.24; <strong>56.24&euro; &gt;&gt; 40&euro;</strong></p>
+
+42.18 / 3 = 14.06; 14.06*4 = 56.24; <strong>56.24&euro; &gt;&gt; 40&euro;</strong>
+
 </blockquote>
-<p>V&auml;ga lihtne j&auml;reldus: (&uuml;li&otilde;pilasel) on odavam&nbsp;k&otilde;rvad p&auml;he panna.</p>
+
+V&auml;ga lihtne j&auml;reldus: (&uuml;li&otilde;pilasel) on odavam&nbsp;k&otilde;rvad p&auml;he panna.
+

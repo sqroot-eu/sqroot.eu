@@ -18,7 +18,7 @@ wordpress_id: 1366
 wordpress_url: http://sqroot.eu/?p=1366
 date: '2012-03-17 21:32:03 +0200'
 date_gmt: '2012-03-17 19:32:03 +0200'
-categories:
+category:
 - Coding
 tags:
 - mmorpg
@@ -29,10 +29,15 @@ tags:
 - open source
 comments: []
 ---
-<p><img class="alignleft" style="margin: 4px" src="http://sqroot.eu/wp-content/uploads/2012/04/logo1.gif" alt="" width="409" height="108" /></p>
-<p style="text-align: justify">With the past two years, there's been an incredible development in my experience and knowledge as a software developer. Still, it's important to look back at ones mistakes and learn from them.</p>
-<p style="text-align: justify">I still have the complete source code and database of my very first large scale program.  The year was 2007 (I think) when I first discovered the <a href="http://dragon.se7enet.com/dev.php">Dragon Knight open source MMORPG project</a>. In no time at all I had the system up and running in localhost and the next summer (or two) went into learning web technologies, programming and CS in general.</p>
-<p style="text-align: justify">Now, as part of a software testing course assignment, I had the incentive to look back and write down some notes.</p>
+
+<img class="alignleft" style="margin: 4px" src="http://sqroot.eu/wp-content/uploads/2012/04/logo1.gif" alt="" width="409" height="108" />
+
+<p style="text-align: justify">With the past two years, there's been an incredible development in my experience and knowledge as a software developer. Still, it's important to look back at ones mistakes and learn from them.
+
+<p style="text-align: justify">I still have the complete source code and database of my very first large scale program.  The year was 2007 (I think) when I first discovered the <a href="http://dragon.se7enet.com/dev.php">Dragon Knight open source MMORPG project</a>. In no time at all I had the system up and running in localhost and the next summer (or two) went into learning web technologies, programming and CS in general.
+
+<p style="text-align: justify">Now, as part of a software testing course assignment, I had the incentive to look back and write down some notes.
+
 <ul>
 <li>Don't use PHP closing tags in php-only files</li>
 <li>If you have a single entry point (framework index.php), do a check in the first line of every file that the entry point is used. Kohana does that with a constant defined check that dies on failure.</li>

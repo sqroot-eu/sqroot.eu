@@ -16,7 +16,7 @@ wordpress_id: 2574
 wordpress_url: http://sqroot.eu/?p=2574
 date: '2012-07-10 03:01:27 +0300'
 date_gmt: '2012-07-10 00:01:27 +0300'
-categories:
+category:
 - Coding
 tags:
 - development
@@ -33,7 +33,9 @@ comments:
   content: "[...] http://sqroot.eu/2012/07/web-development-resources/ - List of links
     to tools / resources for PHP developers [...]"
 ---
-<p>The main purpose of this post is to serve as a reference to myself. Covers sites of learning, tools, assets and manuals. Main language: PHP.</p>
+
+The main purpose of this post is to serve as a reference to myself. Covers sites of learning, tools, assets and manuals. Main language: PHP.
+
 <h1>Setting up</h1>
 <ul>
 <li>Package manager for PHP: <a href="http://getcomposer.org/">Composer</a></li>

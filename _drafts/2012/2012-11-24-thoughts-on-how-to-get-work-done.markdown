@@ -17,7 +17,7 @@ wordpress_id: 2741
 wordpress_url: http://sqroot.eu/?p=2741
 date: '2012-11-24 23:23:46 +0200'
 date_gmt: '2012-11-24 21:23:46 +0200'
-categories:
+category:
 - Work
 tags:
 - development
@@ -54,8 +54,12 @@ comments:
 
     I hope that my comment is helpful. Thank You for reading.
 ---
-<p>I have been working as a Software Developer for nearly exactly two years now. During that time I have learned <span style="text-decoration: underline;">a lot</span>. Seriously, I used to write spaghetti code, but now I am all wrapped up in good architecture, continuous integration, separation of concerns and testing, to mention a few.</p>
-<p>For the longest time I did what I do alone - but at long last there is some hope on the horizon. This post serves as a collection of knowledge / a list of guidelines to my future colleagues.</p>
+
+I have been working as a Software Developer for nearly exactly two years now. During that time I have learned <span style="text-decoration: underline;">a lot</span>. Seriously, I used to write spaghetti code, but now I am all wrapped up in good architecture, continuous integration, separation of concerns and testing, to mention a few.
+
+
+For the longest time I did what I do alone - but at long last there is some hope on the horizon. This post serves as a collection of knowledge / a list of guidelines to my future colleagues.
+
 <h1>Be Proud Of Your Work</h1>
 <ul>
 <li><strong>Produce quality</strong>. Your code should be well-crafted, conform to standards (whenever possible) and make you want to sigh happily once you commit it. Instantly attack any function that looks like a mess and make it better. Challenge yourself by asking whether what you just did could be done better.</li>
@@ -80,5 +84,9 @@ comments:
 <li><strong>Refactor</strong>. Legacy code is nightmare-ish - and when do the clients ever pay for maintenance? Refactor and improve old systems whenever possible with baby steps. Optimize a long SQL query while working on something unrelated. Run "auto-format" when opening a spaghetti file.</li>
 <li><strong>Don't overspend.</strong> Sadly, you can not rebuild the entire system unless the customer agrees to pay. Do what is necessary and some more, but do keep it contained.</li>
 </ul>
-<p>Be passionate about what you do and try to do it well. <a href="http://workisnotajob.com/en">Work is not a job</a> - and software developers have one of the best jobs on the planet.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2012/11/Modern-Day-Software-Development.jpg"><img class="aligncenter size-medium wp-image-2751" title="Modern Day Software Development" src="http://sqroot.eu/wp-content/uploads/2012/11/Modern-Day-Software-Development-300x190.jpg" alt="Modern Day Software Development" width="300" height="190" /></a></p>
+
+Be passionate about what you do and try to do it well. <a href="http://workisnotajob.com/en">Work is not a job</a> - and software developers have one of the best jobs on the planet.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2012/11/Modern-Day-Software-Development.jpg"><img class="aligncenter size-medium wp-image-2751" title="Modern Day Software Development" src="http://sqroot.eu/wp-content/uploads/2012/11/Modern-Day-Software-Development-300x190.jpg" alt="Modern Day Software Development" width="300" height="190" /></a>
+

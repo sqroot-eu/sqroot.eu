@@ -15,7 +15,7 @@ wordpress_id: 669
 wordpress_url: http://sqroot.eu/?p=669
 date: '2011-04-06 14:52:40 +0300'
 date_gmt: '2011-04-06 12:52:40 +0300'
-categories:
+category:
 - Coding
 tags:
 - Microsoft
@@ -33,7 +33,15 @@ comments:
   date_gmt: '2011-05-09 21:22:57 +0300'
   content: q oleks v&otilde;inud programm ise arvutada&nbsp;;)
 ---
-<p>ENETA korraldab ITK-s <a href="http://www.eneta.ee/uudised/blogid/Lehed/6-osaline-tasuta-net-arenduse-luhikursus.aspx">.NET lühikursuse</a>. Käisin ka kohal, alguses mõttega "know your enemy", aga asi ei olnudki nii hull. Kolme tunniga sain nullist valmis töötava rakenduse (tõsi, kasuks tuli varasem kokkupuude Delphi7 ja Javaga) ning praktikaga segatud loeng oli ka täitsa OK. Keelest endast, .NET raamistikust ja Visual Studiost mingeid arvamusi veel pole.</p>
-<p>Minu tehtud rakendus: Bernoulli valemi lahendaja.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/file/Capture.PNG"><img style="border-width: 1px; border-style: solid; margin: 10px; width: 250px; height: 133px;" alt="Programm" src="http://sqroot.eu/wp-content/uploads/file/Capture.PNG" /></a></p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2011/04/Bernoull.zip">Download source</a></p>
+
+ENETA korraldab ITK-s <a href="http://www.eneta.ee/uudised/blogid/Lehed/6-osaline-tasuta-net-arenduse-luhikursus.aspx">.NET lühikursuse</a>. Käisin ka kohal, alguses mõttega "know your enemy", aga asi ei olnudki nii hull. Kolme tunniga sain nullist valmis töötava rakenduse (tõsi, kasuks tuli varasem kokkupuude Delphi7 ja Javaga) ning praktikaga segatud loeng oli ka täitsa OK. Keelest endast, .NET raamistikust ja Visual Studiost mingeid arvamusi veel pole.
+
+
+Minu tehtud rakendus: Bernoulli valemi lahendaja.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/file/Capture.PNG"><img style="border-width: 1px; border-style: solid; margin: 10px; width: 250px; height: 133px;" alt="Programm" src="http://sqroot.eu/wp-content/uploads/file/Capture.PNG" /></a>
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2011/04/Bernoull.zip">Download source</a>
+

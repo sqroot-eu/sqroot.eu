@@ -16,7 +16,7 @@ wordpress_id: 2809
 wordpress_url: http://sqroot.eu/?p=2809
 date: '2012-12-15 10:19:07 +0200'
 date_gmt: '2012-12-15 08:19:07 +0200'
-categories:
+category:
 - PHP
 - Work
 tags:
@@ -26,7 +26,9 @@ tags:
 - twitter.php
 comments: []
 ---
-<p>These are the main steps in "Building Twitter With Kohana HMVC Framework" workshop.</p>
+
+These are the main steps in "Building Twitter With Kohana HMVC Framework" workshop.
+
 <h1>1. Setting Up The Development Environment</h1>
 <ol>
 <li>Introduction to what we are building</li>
@@ -70,4 +72,6 @@ comments: []
 <li>Deploy / push to github / server</li>
 <li>Thoughts and feedback</li>
 </ol>
-<p>david@sqroot.eu</p>
+
+david@sqroot.eu
+

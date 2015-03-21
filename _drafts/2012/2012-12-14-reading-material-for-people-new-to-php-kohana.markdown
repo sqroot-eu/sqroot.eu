@@ -18,7 +18,7 @@ wordpress_id: 2777
 wordpress_url: http://sqroot.eu/?p=2777
 date: '2012-12-14 01:15:24 +0200'
 date_gmt: '2012-12-13 23:15:24 +0200'
-categories:
+category:
 - PHP
 - Work
 tags:
@@ -30,7 +30,9 @@ tags:
 - web development
 comments: []
 ---
-<p>I've had to refer to different PHP / Kohana related learning materials a lot recently. This post serves as the collection to some of those, mainly resources for introducing new technology and methodologies. Bear in mind that the list is very small and finite, you can find lots more from Google. I'd also recommend you to browse the Coding category for opinion / informative articles.</p>
+
+I've had to refer to different PHP / Kohana related learning materials a lot recently. This post serves as the collection to some of those, mainly resources for introducing new technology and methodologies. Bear in mind that the list is very small and finite, you can find lots more from Google. I'd also recommend you to browse the Coding category for opinion / informative articles.
+
 <h1>Stuff You Absolutely Need To Know</h1>
 <ol>
 <li><a href="http://kohanaframework.org/">http://kohanaframework.org/</a> - The Kohana Framework</li>

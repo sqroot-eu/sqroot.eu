@@ -15,7 +15,7 @@ wordpress_id: 639
 wordpress_url: http://sqroot.eu/?p=639
 date: '2011-03-22 00:09:02 +0200'
 date_gmt: '2011-03-21 22:09:02 +0200'
-categories:
+category:
 - PHP
 tags:
 - php

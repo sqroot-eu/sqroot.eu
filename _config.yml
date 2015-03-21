@@ -14,7 +14,7 @@ timezone: Europe/Tallinn
 markdown: kramdown
 highlighter: rouge
 permalink: "/:year/:month/:title"
-paginate: 5
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 kramdown:

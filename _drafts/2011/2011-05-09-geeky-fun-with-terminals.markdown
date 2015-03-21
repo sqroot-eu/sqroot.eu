@@ -15,7 +15,7 @@ wordpress_id: 771
 wordpress_url: http://sqroot.eu/?p=771
 date: '2011-05-09 12:36:12 +0300'
 date_gmt: '2011-05-09 10:36:12 +0300'
-categories:
+category:
 - Linux
 tags:
 - bash
@@ -23,13 +23,27 @@ tags:
 - shell
 comments: []
 ---
-<p><a class="zem_slink" href="http://en.wikipedia.org/wiki/Linux_Mint" rel="wikipedia" title="Linux Mint">Linux Mint</a> prints out an awesome fortune-greeting message every time a new <a class="zem_slink" href="http://en.wikipedia.org/wiki/Terminal_emulator" rel="wikipedia" title="Terminal emulator">terminal window</a> is opened.</p>
-<p>However, being a big fan of books, but not really M. Twain, I decided to swap my fortunes to quotes from S. Meyer&#039;s books.</p>
-<p>For that, I created a new file based on /usr/bin/mint-fortune that grabs a random line from my textfile with Twilight quotes.</p>
-<p>I replaced the default mint command in /etc/bash.bashrc&nbsp; with my own, installed the quotes and printer files and... voila!</p>
-<p>So now you know what I do in lectures when it gets especially boring.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2011/05/snapshot1.png"><img alt="" class="aligncenter size-medium wp-image-772" src="http://sqroot.eu/wp-content/uploads/2011/05/snapshot1-300x145.png" style="width: 300px;height: 145px" /></a></p>
-<p><strong>/usr/bin/twilight-greeter identical to /usr/bin/mint-fortune except the last line.</strong></p>
+
+<a class="zem_slink" href="http://en.wikipedia.org/wiki/Linux_Mint" rel="wikipedia" title="Linux Mint">Linux Mint</a> prints out an awesome fortune-greeting message every time a new <a class="zem_slink" href="http://en.wikipedia.org/wiki/Terminal_emulator" rel="wikipedia" title="Terminal emulator">terminal window</a> is opened.
+
+
+However, being a big fan of books, but not really M. Twain, I decided to swap my fortunes to quotes from S. Meyer&#039;s books.
+
+
+For that, I created a new file based on /usr/bin/mint-fortune that grabs a random line from my textfile with Twilight quotes.
+
+
+I replaced the default mint command in /etc/bash.bashrc&nbsp; with my own, installed the quotes and printer files and... voila!
+
+
+So now you know what I do in lectures when it gets especially boring.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2011/05/snapshot1.png"><img alt="" class="aligncenter size-medium wp-image-772" src="http://sqroot.eu/wp-content/uploads/2011/05/snapshot1-300x145.png" style="width: 300px;height: 145px" /></a>
+
+
+<strong>/usr/bin/twilight-greeter identical to /usr/bin/mint-fortune except the last line.</strong>
+
 <pre>#!/bin/bash
 RANGE=3
 number=$RANDOM

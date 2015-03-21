@@ -19,7 +19,7 @@ wordpress_id: 3078
 wordpress_url: http://sqroot.eu/?p=3078
 date: '2013-06-17 04:10:31 +0300'
 date_gmt: '2013-06-17 01:10:31 +0300'
-categories:
+category:
 - Friday Night Project
 - Featured
 tags:
@@ -45,20 +45,36 @@ comments:
     robotics club (HAL vol 2):\"We hope to see you here again with your new cool projects
     as well! :)\""
 ---
-<p>A <a href="http://waher.net">good friend of mine</a> had a birthday coming up and I found myself socially obligated to do something about that. The idea - use my skills as a developer to <a href="http://makershed.com">MAKE</a> something developer-ish. This was a collaborative project with <a href="http://sokeri.org/">Valeria</a>.</p>
-<blockquote><p>
+
+A <a href="http://waher.net">good friend of mine</a> had a birthday coming up and I found myself socially obligated to do something about that. The idea - use my skills as a developer to <a href="http://makershed.com">MAKE</a> something developer-ish. This was a collaborative project with <a href="http://sokeri.org/">Valeria</a>.
+
+<blockquote>
+
   I buy more things than I make. I used to think it was a sign of some kind of capitalistic progress to be able to buy food and gifts instead of making them myself, but I’m not sure anymore. When it comes to difference making there is a different trend line. Money can come and go, but my time on this planet is finite. How I spend my time, or who I spend it with means more than anything else in my universe. From at least the selfish view, giving my time is the most valuable gift I can give.<br />
   <a href="http://scottberkun.com/essays/49-how-to-make-a-difference/">Scott Berkun, essay #49 - How to make a difference</a>
-</p></blockquote>
-<p><a id="more"></a><a id="more-3078"></a></p>
+
+</blockquote>
+
+<a id="more"></a><a id="more-3078"></a>
+
 <h1>Idea</h1>
-<p>Build hardware that can interface with a computer (via the USB port) and send input commands to the PC that can be detected and processed. As a bonus, include output devices such as LED-s that could be activated from code.</p>
-<p>The idea came from the fact that I found myself typing PHPUnit commands for different test suites manually way too often. Wouldn't it be great to activate a test suite with a press of a button and have a green LED light up when everything is done? (or a red on in case of a failure). "Normal" people would go "???" about this, but trust me, for a developer, this is good stuff.</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2013/04/ui-draft.jpg"><br />
+
+Build hardware that can interface with a computer (via the USB port) and send input commands to the PC that can be detected and processed. As a bonus, include output devices such as LED-s that could be activated from code.
+
+
+The idea came from the fact that I found myself typing PHPUnit commands for different test suites manually way too often. Wouldn't it be great to activate a test suite with a press of a button and have a green LED light up when everything is done? (or a red on in case of a failure). "Normal" people would go "???" about this, but trust me, for a developer, this is good stuff.
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2013/04/ui-draft.jpg"><br />
 <img src="http://sqroot.eu/wp-content/uploads/2013/04/ui-draft.jpg" alt="First UI draft" width="400" /><br />
-</a></p>
-<p>I came up with a rectangular-shaped control panel. Really fancy stuff, like you see in sci-fi movies or airplanes. Excited, I got in touch with a mutual friend who also happens to be a designer. A brainstorming session and a couple of hours later and the original idea had been morphed into a much cuddlier version - a USB soft toy.</p>
-<p>The toy would be an octopus with eight legs, each leg would act as a switch. I was to build the electronics innards while she'd do the sewing part.</p>
+</a>
+
+
+I came up with a rectangular-shaped control panel. Really fancy stuff, like you see in sci-fi movies or airplanes. Excited, I got in touch with a mutual friend who also happens to be a designer. A brainstorming session and a couple of hours later and the original idea had been morphed into a much cuddlier version - a USB soft toy.
+
+
+The toy would be an octopus with eight legs, each leg would act as a switch. I was to build the electronics innards while she'd do the sewing part.
+
 <h2>Parts</h2>
 <ul>
 <li><a href="http://www.pjrc.com/teensy/index.html">Teensy 2.0 Microcontroller (with pins)</a></li>
@@ -81,16 +97,32 @@ comments:
 <li>Helping Hands</li>
 </ul>
 <h1>The Build</h1>
-<p><a href="http://sqroot.eu/wp-content/uploads/2013/06/2013-04-06-18.jpg"><img src="http://sqroot.eu/wp-content/uploads/2013/06/2013-04-06-18.jpg" alt="Breadboard" /></a></p>
-<p>Prototyping was quite fast. This was my first bigger build and I had to figure out how to use PWM to control the buzzer and LED brightness. In no time at all, the circuit was assembled on my breadboard. I used the equipment of the robotics lab of EIK to assemble and solder the circuit.</p>
-<p>Software was a bit trickier. A lot of hours went into refactoring and documentation. The most complex part was serial communication. Initially, I tried to be verbose, sending button events as long strings ("Button 1 pressed") and parsing the string in Python. Then I saw <a href="http://www.youtube.com/watch?v=Cy9MIoG5z4s">Saying a Lot with Very Little (Arduino Digital Input to Python</a> and refactored the code to send all button states as one byte - much more efficient way of communication.</p>
+
+<a href="http://sqroot.eu/wp-content/uploads/2013/06/2013-04-06-18.jpg"><img src="http://sqroot.eu/wp-content/uploads/2013/06/2013-04-06-18.jpg" alt="Breadboard" /></a>
+
+
+Prototyping was quite fast. This was my first bigger build and I had to figure out how to use PWM to control the buzzer and LED brightness. In no time at all, the circuit was assembled on my breadboard. I used the equipment of the robotics lab of EIK to assemble and solder the circuit.
+
+
+Software was a bit trickier. A lot of hours went into refactoring and documentation. The most complex part was serial communication. Initially, I tried to be verbose, sending button events as long strings ("Button 1 pressed") and parsing the string in Python. Then I saw <a href="http://www.youtube.com/watch?v=Cy9MIoG5z4s">Saying a Lot with Very Little (Arduino Digital Input to Python</a> and refactored the code to send all button states as one byte - much more efficient way of communication.
+
 <h2>Oops!</h2>
-<p>We - me and Val - had hacking evenings on several occasions. During the last one, an accident happened. It turns out that the contacts of microswitches are actually quite fragile (go figure) and do not like to be abused. I managed to break one of the already assembled switches which meant no joy for that evening. All of the switches needed replacement by a stronger version (and also where the solder connections were made at a correct angle to begin with). Adafruit's tactile square buttons fit the build and replaced the less durable buttons.</p>
+
+We - me and Val - had hacking evenings on several occasions. During the last one, an accident happened. It turns out that the contacts of microswitches are actually quite fragile (go figure) and do not like to be abused. I managed to break one of the already assembled switches which meant no joy for that evening. All of the switches needed replacement by a stronger version (and also where the solder connections were made at a correct angle to begin with). Adafruit's tactile square buttons fit the build and replaced the less durable buttons.
+
 <h1>Finale</h1>
-<p>Moonica - the name of our animal - was stuffed and wrapped and given to the birthday boy (although by the time the project was finished the actual birthday was two months into the past).</p>
-<p><a href="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130614_230140.jpg"><img src="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130614_230140.jpg" alt="Moonica" /></a></p>
-<p>The project was great fun to do and also taught us a lot. I got into electronics in January 2013 and this was the first "official", non-prototype build. I learned to program in C / Arduino, got to try out PWM and implement serial interfacing.</p>
-<p><iframe width="560" height="315" src="http://www.youtube.com/embed/a_wgeVvpjbw" frameborder="0" allowfullscreen></iframe></p>
+
+Moonica - the name of our animal - was stuffed and wrapped and given to the birthday boy (although by the time the project was finished the actual birthday was two months into the past).
+
+
+<a href="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130614_230140.jpg"><img src="http://sqroot.eu/wp-content/uploads/2013/06/IMG_20130614_230140.jpg" alt="Moonica" /></a>
+
+
+The project was great fun to do and also taught us a lot. I got into electronics in January 2013 and this was the first "official", non-prototype build. I learned to program in C / Arduino, got to try out PWM and implement serial interfacing.
+
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/a_wgeVvpjbw" frameborder="0" allowfullscreen></iframe>
+
 <h1>Links</h1>
 <ul>
 <li><a href="https://plus.google.com/photos/110367256187822089038/albums/5889699940176485425">Build photos</a></li>
