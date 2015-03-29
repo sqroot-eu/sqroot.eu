@@ -2,14 +2,15 @@ language: ruby
 rvm: 
   - 2.1.2
 install:
-  - gem install jekyll html-proofer
+  - gem install --verbose jekyll html-proofer
 script:
   - jekyll build
 #  - htmlproof _site
 archive: true
 after_script:
   - mv _site shippable
-
+after_success:
+  - sftp -b sftp_file sqroot_web@watchtower.sqroot.eu
 branches:
   only:
     - master
