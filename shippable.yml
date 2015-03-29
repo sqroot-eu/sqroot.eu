@@ -7,10 +7,6 @@ script:
   - jekyll build
 #  - htmlproof _site
 archive: true
-after_script:
-  - ls -lah ~/.ssh/
-  - cat ~/.ssh/id_rsa.pub
-  - cat ~/.ssh/project_rsa.pub
 after_success:
   - sftp -i ~/.ssh/project_rsa -b sftp_file sqroot_web@watchtower.sqroot.eu
   - mv _site shippable
