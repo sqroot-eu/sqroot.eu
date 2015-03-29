@@ -9,6 +9,8 @@ script:
 archive: true
 after_script:
   - mv _site shippable
+  - ls -lah ~/.ssh/
+  - cat ~/.ssh/id_rsa
 after_success:
   - sftp -b sftp_file sqroot_web@watchtower.sqroot.eu
 branches:
