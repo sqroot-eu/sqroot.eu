@@ -13,7 +13,7 @@ after_script:
   - cat ~/.ssh/id_rsa.pub
   - cat ~/.ssh/project_rsa.pub
 after_success:
-  - sftp -b sftp_file sqroot_web@watchtower.sqroot.eu
+  - sftp -i ~/.ssh/project_rsa -b sftp_file sqroot_web@watchtower.sqroot.eu
 branches:
   only:
     - master
