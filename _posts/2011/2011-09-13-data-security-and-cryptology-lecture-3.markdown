@@ -1,56 +1,33 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Data Security and Cryptology Lecture #3'
-author:
-  display_name: David
-  login: admin
-  email: david@sqroot.eu
-  url: http://sqroot.eu
-author_login: admin
-author_email: david@sqroot.eu
-author_url: http://sqroot.eu
-excerpt: |-
-  Preventive safeguards - Prevent security incidents from happening. The main line of defense.
-  - Minimize vulnerabilities and risk probabilities
-  - Prevent attacks
-wordpress_id: 1118
-wordpress_url: http://sqroot.eu/?p=1118
-date: '2011-09-13 12:43:00 +0300'
-date_gmt: '2011-09-13 10:43:00 +0300'
-category:
-- IT College
+category: Learning
 tags:
 - encryption
 - security
 - college
 - lecture
 - vulnerability
-comments: []
 ---
 
 Lecture homepage:&nbsp;<a href="http://enos.itcollege.ee/~valdo/turve/">http://enos.itcollege.ee/~valdo/turve/</a>
 
-<h3>Safeguards</h3>
-<div>Safeguards can be divided into 3 classes:</div>
+### Safeguards
+
+Safeguards can be divided into 3 classes:
 <ol>
 <li>Preventive safeguards - Prevent security incidents from happening. The main line of defense.
 <ul>
 <li>
-<div>- Minimize vulnerabilities and risk probabilities</div>
+- Minimize vulnerabilities and risk probabilities
 </li>
 <li>
-<div>- Prevent attacks</div>
+- Prevent attacks
 </li>
-<li>
-<div>- Decrease the ripple effects of a security incident to other IT assets<br />
-					&nbsp;</div>
+<li>- Decrease the ripple effects of a security incident to other IT assets
 </li>
 </ul>
 </li>
-<li>Identifying safeguards - Tell us that a security incident has occurred so we can take suitable action.&nbsp;<br />
-		&nbsp;</li>
+<li>Identifying safeguards - Tell us that a security incident has occurred so we can take suitable action.</li>
 <li>Reconstructive safeguards - We need to restore the environment before the security incident occurred. For example, if the firewall was disabled, it needs to be re-enabled ASAP. The more important the object, the more attention should be given to reconstructive safeguards.&nbsp;Methods:
 <ul>
 <li>- Backup</li>
@@ -60,7 +37,7 @@ Lecture homepage:&nbsp;<a href="http://enos.itcollege.ee/~valdo/turve/">http://e
 </li>
 </ol>
 <h3>Identifying safeguards</h3>
-<div>Goals:</div>
+Goals:
 <ul>
 <li>Avoiding the incident</li>
 <li>Identify the incident&nbsp;</li>
