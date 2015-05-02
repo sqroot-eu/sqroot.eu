@@ -1,39 +1,13 @@
 ---
-layout: post
-status: publish
-published: true
 title: "(Web) development resources"
-author:
-  display_name: David
-  login: admin
-  email: david@sqroot.eu
-  url: http://sqroot.eu
-author_login: admin
-author_email: david@sqroot.eu
-author_url: http://sqroot.eu
-excerpt: A list of online resources for web developers.
-wordpress_id: 2574
-wordpress_url: http://sqroot.eu/?p=2574
-date: '2012-07-10 03:01:27 +0300'
-date_gmt: '2012-07-10 00:01:27 +0300'
-category:
-- Coding
+category: Software Development
 tags:
 - development
 - web
 - resources
-comments:
-- id: 622
-  author: 'Reading Material For People New To PHP / Kohana | SQroot :: Don&#039;t
-    be negative!'
-  author_email: ''
-  author_url: http://sqroot.eu/2012/12/reading-material-for-people-new-to-php-kohana/
-  date: '2012-12-14 01:16:10 +0200'
-  date_gmt: '2012-12-13 23:16:10 +0200'
-  content: "[...] http://sqroot.eu/2012/07/web-development-resources/ - List of links
-    to tools / resources for PHP developers [...]"
 ---
 The main purpose of this post is to serve as a reference to myself. Covers sites of learning, tools, assets and manuals. Main language: PHP.
+
 <h1>Setting up</h1>
 <ul>
 <li>Package manager for PHP: <a href="http://getcomposer.org/">Composer</a></li>

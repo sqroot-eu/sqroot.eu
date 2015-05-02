@@ -1,26 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Reading Material For People New To PHP / Kohana
-author:
-  display_name: David
-  login: admin
-  email: david@sqroot.eu
-  url: http://sqroot.eu
-author_login: admin
-author_email: david@sqroot.eu
-author_url: http://sqroot.eu
-excerpt: 'I''ve had to refer to different PHP / Kohana related learning materials
-  a lot recently. This post serves as the collection to some of those, mainly resources
-  for introducing new technology and methodologies. '
-wordpress_id: 2777
-wordpress_url: http://sqroot.eu/?p=2777
-date: '2012-12-14 01:15:24 +0200'
-date_gmt: '2012-12-13 23:15:24 +0200'
-category:
-- PHP
-- Work
+category: Software Development
 tags:
 - programming
 - php
@@ -28,9 +8,9 @@ tags:
 - kohana
 - developer
 - web development
-comments: []
 ---
 I've had to refer to different PHP / Kohana related learning materials a lot recently. This post serves as the collection to some of those, mainly resources for introducing new technology and methodologies. Bear in mind that the list is very small and finite, you can find lots more from Google. I'd also recommend you to browse the Coding category for opinion / informative articles.
+
 <h1>Stuff You Absolutely Need To Know</h1>
 <ol>
 <li><a href="http://kohanaframework.org/">http://kohanaframework.org/</a> - The Kohana Framework</li>
@@ -42,7 +22,9 @@ I've had to refer to different PHP / Kohana related learning materials a lot rec
 <li><a href="http://twitter.github.com/bootstrap/">http://twitter.github.com/bootstrap/</a>  (or <a href="http://foundation.zurb.com/">http://foundation.zurb.com/</a>) - Don't write your own CSS components. Use frameworks instead. In 95% of cases this is a good idea.</li>
 <li><a href="http://git-scm.com/book">http://git-scm.com/book</a> - You either use Version Control or you go work somewhere alone. I will not play nice with you if you ignore VCS-s.</li>
 </ol>
+
 <h1>Stuff That Is Probably Quite Useful</h1>
+
 <ol>
 <li><a href="http://www.mysql.com/products/workbench/">http://www.mysql.com/products/workbench/</a> - Design databases in a more visual way</li>
 <li><a href="http://sass-lang.com/">http://sass-lang.com/</a> - CSS, but more... sassy</li>
@@ -55,7 +37,9 @@ I've had to refer to different PHP / Kohana related learning materials a lot rec
 <li><a href="http://www.thetoolbox.cc/">http://www.thetoolbox.cc/</a> - Links to useful resources like CSS3 generators and page speed test tools</li>
 <li><a href="http://www.jetbrains.com/phpstorm/">http://www.jetbrains.com/phpstorm/</a> - Lightweight and smart PHP IDE</li>
 </ol>
+
 <h1>Stuff For When You Want To Learn More</h1>
+
 <ol>
 <li><span style="line-height: 13px;"><a href="http://www.webplatform.org/">http://www.webplatform.org/</a> - Community of Web Developers and a great resource of knowledge<br />
 </span></li>

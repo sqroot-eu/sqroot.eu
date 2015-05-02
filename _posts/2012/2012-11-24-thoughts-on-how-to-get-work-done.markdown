@@ -1,24 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Thoughts On How To Get Work Done
-author:
-  display_name: David
-  login: admin
-  email: david@sqroot.eu
-  url: http://sqroot.eu
-author_login: admin
-author_email: david@sqroot.eu
-author_url: http://sqroot.eu
-excerpt: A list of ideas and thoughts to my (new) colleagues about software development
-  - collected over a period of two years.
-wordpress_id: 2741
-wordpress_url: http://sqroot.eu/?p=2741
-date: '2012-11-24 23:23:46 +0200'
-date_gmt: '2012-11-24 21:23:46 +0200'
-category:
-- Work
+category: Software Development
 tags:
 - development
 - developer
@@ -26,15 +8,6 @@ tags:
 - work
 - process
 comments:
-- id: 755
-  author: 'Reading Material For People New To PHP / Kohana | SQroot :: Don&#039;t
-    be negative!'
-  author_email: ''
-  author_url: http://sqroot.eu/2012/12/reading-material-for-people-new-to-php-kohana/
-  date: '2013-01-03 16:53:57 +0200'
-  date_gmt: '2013-01-03 14:53:57 +0200'
-  content: "[...] http://sqroot.eu/2012/11/thoughts-on-how-to-get-work-done/ - Guidelines
-    for your everyday life as a developer [...]"
 - id: 2712
   author: Martin Vahi
   author_email: sininetulnukas@gmail.com
@@ -50,15 +23,20 @@ comments:
     I hope that my comment is helpful. Thank You for reading.
 ---
 I have been working as a Software Developer for nearly exactly two years now. During that time I have learned <span style="text-decoration: underline;">a lot</span>. Seriously, I used to write spaghetti code, but now I am all wrapped up in good architecture, continuous integration, separation of concerns and testing, to mention a few.
+
 For the longest time I did what I do alone - but at long last there is some hope on the horizon. This post serves as a collection of knowledge / a list of guidelines to my future colleagues.
+
 <h1>Be Proud Of Your Work</h1>
+
 <ul>
 <li><strong>Produce quality</strong>. Your code should be well-crafted, conform to standards (whenever possible) and make you want to sigh happily once you commit it. Instantly attack any function that looks like a mess and make it better. Challenge yourself by asking whether what you just did could be done better.</li>
 <li><strong>Test your changes</strong>. Whether this means automated tests (PHPUnit) or even manual point-and-click - you should be testing your stuff. Claims like "works for me" leave you in a bad light and make you feel like crap later.</li>
 <li><strong>Accept constructive criticism.</strong> Code reviews are important. Be smart enough to accept / give out code review comments without taking it personally. Learn from experience.</li>
 <li><strong>Respect the client.</strong> Customers are our bread. Treat them respectfully, explain things, communicate on a timely fashion.</li>
 </ul>
+
 <h1>Play Well With Others</h1>
+
 <ul>
 <li><strong>Document concisely</strong>. PHPDoc is your friend - write a short summary to all of your functions, classes, logic that is not immediately obvious. Keep in mind that the person reading your comments is a developer too - have some respect for their intelligence and do not waste time with needless lines of text.</li>
 <li><strong>Share ideas</strong>. Programming is a collaborative business. Pair program for an hour or two with a buddy (more, if possible). Debate over best approaches to a particular problem. Introduce new technology to team-members.</li>
@@ -67,7 +45,9 @@ For the longest time I did what I do alone - but at long last there is some hope
 <li><strong>Commit often</strong>. Use version control. Seriously. Just do it. Every discrete change should have its own commit and a meaningful commit message (with a reference to the issue ID). Review the diff of other commits (code review).</li>
 <li><strong>Be ready to help.</strong> Accept pair programming invitations. Explain unfamiliar concepts without malice or judgement.</li>
 </ul>
+
 <h1>Keep The Ball Rolling</h1>
+
 <ul>
 <li><strong>Keep learning.</strong> Developers learn something new as often as possible. Programmers just blunder along with their baggage of knowledge as long as possible. Browse <a href="http://news.ycombinator.com/">hackernews</a> / <a href="http://reddit.com/r/programming">reddit</a> / etc before / after work. Read technical blogs. Experiment with ideas and take risks.</li>
 <li><strong>Participate in community events</strong>. <a href="http://sqroot.eu/2012/03/garage48-2012-tallinn-impressions/">Garage48</a> is a pride to the Estonian startup community, <a href="http://devclub.ee/">Devclub</a> brings together the best and brightest. Meet new people. Gain new experience. Learn new stuff.</li>
@@ -75,5 +55,7 @@ For the longest time I did what I do alone - but at long last there is some hope
 <li><strong>Refactor</strong>. Legacy code is nightmare-ish - and when do the clients ever pay for maintenance? Refactor and improve old systems whenever possible with baby steps. Optimize a long SQL query while working on something unrelated. Run "auto-format" when opening a spaghetti file.</li>
 <li><strong>Don't overspend.</strong> Sadly, you can not rebuild the entire system unless the customer agrees to pay. Do what is necessary and some more, but do keep it contained.</li>
 </ul>
+
 Be passionate about what you do and try to do it well. <a href="http://workisnotajob.com/en">Work is not a job</a> - and software developers have one of the best jobs on the planet.
-<a href="http://sqroot.eu/wp-content/uploads/2012/11/Modern-Day-Software-Development.jpg"><img class="aligncenter size-medium wp-image-2751" title="Modern Day Software Development" src="http://sqroot.eu/wp-content/uploads/2012/11/Modern-Day-Software-Development-300x190.jpg" alt="Modern Day Software Development" width="300" height="190" /></a>
+
+![Modern day software development comics]({{ site.url }}/content/2012/11/software.jpg)

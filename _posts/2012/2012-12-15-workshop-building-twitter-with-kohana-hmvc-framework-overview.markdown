@@ -1,32 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
-title: 'Workshop: Building Twitter With Kohana HMVC Framework - Overview'
-author:
-  display_name: David
-  login: admin
-  email: david@sqroot.eu
-  url: http://sqroot.eu
-author_login: admin
-author_email: david@sqroot.eu
-author_url: http://sqroot.eu
-excerpt: A list of chapter topics for the Kohana Twitter workshop.
-wordpress_id: 2809
-wordpress_url: http://sqroot.eu/?p=2809
-date: '2012-12-15 10:19:07 +0200'
-date_gmt: '2012-12-15 08:19:07 +0200'
-category:
-- PHP
-- Work
+title: 'Building Twitter With Kohana HMVC Framework'
+subtitle: Workshop Overview
+category: Software Development
 tags:
 - kohana
 - Workshop
 - development
 - twitter.php
-comments: []
 ---
 These are the main steps in "Building Twitter With Kohana HMVC Framework" workshop.
+
 <h1>1. Setting Up The Development Environment</h1>
 <ol>
 <li>Introduction to what we are building</li>
@@ -35,6 +18,7 @@ These are the main steps in "Building Twitter With Kohana HMVC Framework" worksh
 <li>Putting the project under VCS + GitHub</li>
 <li>Familiarizing oneself with PhpStorm</li>
 </ol>
+
 <h1>2. Baby Steps</h1>
 <ol>
 <li>Seeing the "Hello World" message</li>
@@ -42,6 +26,7 @@ These are the main steps in "Building Twitter With Kohana HMVC Framework" worksh
 <li>Adding template support to the project using Twitter Bootstrap</li>
 <li>Designing the HTML form</li>
 </ol>
+
 <h1>3. Basic Interactivity</h1>
 <ol>
 <li>Catching posted data in the controller</li>
@@ -49,6 +34,7 @@ These are the main steps in "Building Twitter With Kohana HMVC Framework" worksh
 <li>Passing data to the model</li>
 <li>Indicating success / failure to the user</li>
 </ol>
+
 <h1>4. The Database</h1>
 <ol>
 <li>Designing the Database EER with MySQL Workbench</li>
@@ -58,16 +44,19 @@ These are the main steps in "Building Twitter With Kohana HMVC Framework" worksh
 <li>Setting up the ORM model</li>
 <li>Displaying results from the database</li>
 </ol>
+
 <h1>5. If We Have Time...</h1>
 <ol>
-<li><span style="line-height: 13px;">Refactoring existing code: why it is important and how to do it?</span></li>
+<li>Refactoring existing code: why it is important and how to do it?</li>
 <li>Adding validation rules / filters / logging functions</li>
 <li>Protecting the application with the auth module</li>
 </ol>
+
 <h1>6. Finishing Up</h1>
 <ol>
 <li>Final touches and tweaks to make everything pretty</li>
 <li>Deploy / push to github / server</li>
 <li>Thoughts and feedback</li>
 </ol>
-david@sqroot.eu
+
+ando -at- sqroot.eu
