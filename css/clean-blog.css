@@ -395,3 +395,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+
+/* Custom styles */
+
+.post-heading h1 {
+  text-shadow: 1px 1px 0 #000000;
+}
