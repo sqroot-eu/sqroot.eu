@@ -31,3 +31,26 @@ defaults:
       author: "Ando"
       comments: false
       layout: "post"
+picture:
+  source: "content"
+  output: "content/generated"
+  markup: "picture"
+  presets:
+    gallery:
+      attr:
+        class: "gallery img-thumbnail"
+      source_default:
+        width: 300
+    default:
+      ppi: [1, 1.5]
+      source_large:
+        media: "(min-width: 60em)"
+        width: 1200
+      source_medium:
+        media: "(min-width: 40em) and (max-width: 60em)"
+        width: 960
+      source_small:
+        media: "(min-width: 20em) and (max-width: 40em)"
+        width: 600
+      source_default: 
+        width: 300
