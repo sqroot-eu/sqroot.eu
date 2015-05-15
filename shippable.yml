@@ -3,7 +3,6 @@ rvm:
   - 2.1.2
 install:
   - bundle install
-  - npm install
   - cd content; bower install ; cd ..
 script:
   - jekyll build
