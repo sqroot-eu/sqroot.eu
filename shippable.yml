@@ -2,7 +2,9 @@ language: ruby
 rvm: 
   - 2.1.2
 install:
-  - gem install
+  - bundle install
+  - npm install
+  - cd content; bower install ; cd ..
 script:
   - jekyll build
 #  - htmlproof _site
