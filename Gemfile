@@ -7,4 +7,5 @@ gem 'redcarpet'
 group :jekyll_plugins do
   gem 'jekyll-picture-tag', '~> 0.2.3'
   gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
 end
