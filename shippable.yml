@@ -6,7 +6,6 @@ install:
   - npm install
   - cd content; bower install ; cd ..
 script:
-  - grunt
   - jekyll build
 #  - htmlproof _site
 archive: true

@@ -17,6 +17,14 @@ permalink: "/:year/:month/:title"
 paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
+assets:
+  sources:
+    - _assets/js
+    - _assets/css
+    - _assets/lib
+  js_compressor: uglifier
+  css_compressor: sass
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
