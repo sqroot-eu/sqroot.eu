@@ -1,0 +1,10 @@
+---
+layout: page
+title: 404
+visible: false
+description: Page Not Found
+---
+
+Sorry - no such page here.
+
+[Back to the front page](https://sqroot.eu)

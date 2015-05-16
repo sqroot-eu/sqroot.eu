@@ -36,6 +36,12 @@ defaults:
       author: "Ando"
       comments: false
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      visible: true
 picture:
   source: "content"
   output: "content/generated"
