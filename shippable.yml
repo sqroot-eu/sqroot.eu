@@ -1,14 +1,14 @@
 language: ruby
+cache: true
+archive: true
 rvm: 
   - 2.1.2
 install:
   - bundle install
   - cd _assets; bower install ; cd ..
 script:
-  - jekyll build
-  - jekyll serve --detach
-  - htmlproof --verbose --checks-to-ignore=LinkCheck _site
-archive: true
+  - jekyll serve --full-rebuild --detach
+  - htmlproof --checks-to-ignore=LinkCheck --check-favicon _site
 after_script:
   - pkill -f jekyll
 after_success:
@@ -18,4 +18,3 @@ branches:
   only:
     - master
     - develop
-cache: true
