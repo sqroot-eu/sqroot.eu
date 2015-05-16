@@ -72,3 +72,15 @@ $gray-light: #eee;
 		text-align: center;
 	}
 }
+
+
+@media only screen and (max-width: 800px) {
+	.blog-header {
+		.avatar {
+			width: 100px;
+			height: 100px;
+			top: -50px;
+			margin-right: -50px;
+		}
+	}
+}
