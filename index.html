@@ -3,6 +3,13 @@ layout: page
 description: "A personal blog about IT & life"
 ---
 
+<div class="blog-header">
+    <a class="avatar" href="https://about.me/andoroots"></a>
+    <h1>Ando Roots</h1>
+    <p>API developer at Bigbank, hardware hacker, improviser, founder of improv.ee, and in a "it's complicated" relationship with coffee.</p>
+    {% include social.html %}
+</div>
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

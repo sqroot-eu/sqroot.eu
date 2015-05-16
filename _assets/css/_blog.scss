@@ -1,13 +1,7 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
-  color: #404040;
+  color: $gray-dark;
 }
 p {
   line-height: 1.5;
@@ -26,18 +20,18 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #404040;
+  color: $gray-dark;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: $brand-primary;
 }
 a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #808080;
+  color: $gray;
   font-style: italic;
 }
 hr.small {
@@ -75,7 +69,7 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: $white-faded;
   }
   .navbar-custom .nav li a {
     color: white;
@@ -83,7 +77,7 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: $white-faded;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -111,18 +105,18 @@ hr.small {
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #404040;
+    color: $gray-dark;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #0085a1;
+    color: $brand-primary;
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #404040;
+    color: $gray-dark;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #0085a1;
+    color: $brand-primary;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -135,13 +129,12 @@ hr.small {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color: #808080;
+  background-color: $gray;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -160,6 +153,8 @@ hr.small {
 .intro-header .page-heading {
   text-align: center;
 }
+
+
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
   margin-top: 0;
@@ -212,12 +207,12 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: $gray-dark;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: $brand-primary;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -230,18 +225,18 @@ hr.small {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  color: #808080;
+  color: $gray;
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #404040;
+  color: $gray-dark;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085a1;
+  color: $brand-primary;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -281,7 +276,7 @@ footer .copyright {
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid $gray-light;
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -315,7 +310,7 @@ footer .copyright {
 /*
 .floating-label-form-group::not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #eeeeee;
+  border-left: 1px solid $gray-light;
 }
 */
 .floating-label-form-group-with-value label {
@@ -323,10 +318,10 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #0085a1;
+  color: $brand-primary;
 }
 form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid $gray-light;
 }
 .btn {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -343,8 +338,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: $brand-primary;
+  border: 1px solid $brand-primary;
   color: white;
 }
 .pager {
@@ -371,26 +366,26 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: $brand-primary;
+  border: 1px solid $brand-primary;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #808080;
-  background-color: #404040;
+  color: $gray;
+  background-color: $gray-dark;
   cursor: not-allowed;
 }
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: $brand-primary;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: $brand-primary;
 }
 img::selection {
   color: white;
@@ -401,5 +396,9 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: $brand-primary;
+}
+
+.content-container {
+  margin-top: 50px;
 }
