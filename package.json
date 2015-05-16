@@ -1,0 +1,14 @@
+{
+  "name": "sqroot.eu",
+  "version": "0.0.0",
+  "description": "Blog",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:anroots/sqroot.eu.git"
+  },
+  "author": "Ando Roots",
+  "license": "ISC",
+  "dependencies": {
+    "proofreader":"~0.6"
+  }
+}
