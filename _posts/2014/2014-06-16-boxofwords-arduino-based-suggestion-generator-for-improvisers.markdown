@@ -183,10 +183,10 @@ The first attempt of creating the enclosure was with a thick paper pencil holder
 
 The local electronics supply store stocked the perfect plastic box with thick walls, the right size and sleek look. It took some work and creative use of tools to create the openings for the LCD, SD and switches, but the result was satisfactory.
 
-{% picture gallery 2014/06/enclosure1.jpg alt="Enclosure %}
-{% picture gallery 2014/06/enclosure2.jpg alt="Enclosure %}
-{% picture gallery 2014/06/enclosure3.jpg alt="Enclosure %}
-{% picture gallery 2014/06/enclosure4.jpg alt="Enclosure %}
+{% picture gallery 2014/06/enclosure1.jpg alt="Enclosure" %}
+{% picture gallery 2014/06/enclosure2.jpg alt="Enclosure" %}
+{% picture gallery 2014/06/enclosure3.jpg alt="Enclosure" %}
+{% picture gallery 2014/06/enclosure4.jpg alt="Enclosure" %}
 
 <h2>Fixing the parts in place</h2>
 

@@ -6,8 +6,11 @@ install:
   - cd _assets; bower install ; cd ..
 script:
   - jekyll build
-#  - htmlproof _site
+  - jekyll serve --detach
+  - htmlproof --verbose --checks-to-ignore=LinkCheck _site
 archive: true
+after_script:
+  - pkill -f jekyll
 after_success:
   - sftp -i ~/.ssh/project_rsa -b sftp_file sqroot_web@watchtower.sqroot.eu
   - mv _site shippable

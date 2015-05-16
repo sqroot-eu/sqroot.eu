@@ -270,7 +270,9 @@ Theory lessons seem to be the only thing we do. Some are in the classroom, some 
 <ul>
 <li>We need to choose a new marching song, but all seem too lazy to learn it.</li>
 <li>Pvt Mk fixes the broken hot water dispenser with his pocket knife.</li>
-<li>I troll my bunkmate out of boredom. His name sign now reads Konstantin.<br /><a href="http://sqroot.eu/wp-content/uploads/2013/11/aek_new_room.jpg"><img src="http://sqroot.eu/wp-content/uploads/2013/11/aek_new_room.jpg" alt="Wall outlets" width="250" /></a></li>
+<li>I troll my bunkmate out of boredom. His name sign now reads Konstantin.<br />
+{% picture 2013/11/aek_new_room.jpg alt="AEK new room" %}
+</li>
 <li>Pvt Mk climbs on top of the closets and makes loud noises at unsuspecting victims who enter the room.</li>
 <li>Went through medical and was declared healthy enough to drive a truck.</li>
 <li>We can now visit the local shop / common room as often as we please. Bought a drink and reveled in the luxury.</li>
