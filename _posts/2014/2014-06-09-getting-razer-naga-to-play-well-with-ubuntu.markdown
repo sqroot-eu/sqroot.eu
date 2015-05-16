@@ -1,6 +1,6 @@
 ---
 title: Getting Razer Naga To Play Well With Ubuntu
-category: Linux
+category: Misc
 tags:
 - linux
 - mouse

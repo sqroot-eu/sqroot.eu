@@ -1,6 +1,6 @@
 ---
 title: Sidestepping Web Parental Controls With Sshuttle In Linux / Mac
-category: Uncategorized
+category: Misc
 tags:
 - VPN
 - sshuttle

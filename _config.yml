@@ -15,7 +15,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: "/:year/:month/:title"
 paginate: 15
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["Gemfile","Gemfile.lock","sftp_file","LICENCE","README.md","shippable.yml"]
 
 assets:
   sources:

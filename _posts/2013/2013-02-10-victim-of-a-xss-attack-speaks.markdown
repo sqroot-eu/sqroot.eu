@@ -1,6 +1,6 @@
 ---
 title: Victim of a XSS Attack Speaks
-category: Personal
+category: Misc
 tags:
 - security
 - vulnerability

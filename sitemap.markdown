@@ -4,13 +4,16 @@ title: "Sitemap"
 description: "Index of all posts"
 ---
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <h1>{{ category | first }}</h1>
+  <div>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% if post.url %}
+        <li><a href="{{ post.url }}">[{{ post.date | date: "%B %-d, %Y" }}] {{ post.title }}</a></li>
+        {% endif %}
       {% endfor %}
     {% endfor %}
     </ul>
-  </li>
+  </div>
 {% endfor %}

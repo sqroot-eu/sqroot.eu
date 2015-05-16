@@ -1,6 +1,6 @@
 ---
 title: Geeky fun with terminals
-category: Project
+category: Projects
 header-img: content/2011/05/terminal.png
 tags:
 - bash
