@@ -14,6 +14,9 @@ after_script:
 after_success:
   - sftp -i ~/.ssh/project_rsa -b sftp_file sqroot_web@watchtower.sqroot.eu
   - mv _site shippable
+  - curl -X POST "https://fleep.io/hook/u50gdD1kTPmCrsLzGDsrqA" -d 'message=Sqroot+deployed'
+after_failure:
+  - curl -X POST "https://fleep.io/hook/u50gdD1kTPmCrsLzGDsrqA" -d 'message=SQroot+deployment=failed'
 branches:
   only:
     - master
