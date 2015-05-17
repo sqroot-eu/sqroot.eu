@@ -18,6 +18,13 @@
     {% if page.tags %}{% for tag in page.tags %}<meta propery name="og:article:tag" content="{{ tag }}" />{% endfor %}{% endif %}
     <meta property="article:author" content="https://www.facebook.com/SQrooted" />
     
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@SQrooted" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    {% if page.excerpt %}<meta property="twitter:description" content="{{ page.excerpt | xml_escape }}" />{% endif %}
+    {% if page.header-img %}<meta name="twitter:image" content="{{site.url}}/{{ page.header-img }}" />{% endif %}
+
     <!-- Favicon config -->
     <link rel="apple-touch-icon" sizes="57x57" href="content/site/favicon/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="content/site/favicon/apple-touch-icon-60x60.png">
