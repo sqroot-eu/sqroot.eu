@@ -8,7 +8,7 @@ install:
   - cd _assets; bower install ; cd ..
 script:
   - jekyll serve --full-rebuild --detach
-  - htmlproof --checks-to-ignore=LinkCheck --check-favicon _site
+  #- htmlproof --checks-to-ignore=LinkCheck --check-favicon _site
 after_script:
   - pkill -f jekyll
 after_success:
