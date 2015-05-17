@@ -8,6 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
     
+    <!-- Opengraph tags for Facebook -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    {% if page.header-img %}<meta property="og:image" content="{{site.url}}/{{ page.header-img }}" />{% endif %}
+    <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}" />
+    {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | xml_escape }}" />{% endif %}
+    {% if page.category %}<meta property="og:article:section" content="{{ page.category }}"/>{% endif %}
+    {% if page.tags %}{% for tag in page.tags %}<meta propery name="og:article:tag" content="{{ tag }}" />{% endfor %}{% endif %}
+    <meta property="article:author" content="https://www.facebook.com/SQrooted" />
+    
     <!-- Favicon config -->
     <link rel="apple-touch-icon" sizes="57x57" href="content/site/favicon/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="content/site/favicon/apple-touch-icon-60x60.png">
