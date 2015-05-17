@@ -4,7 +4,7 @@ header-img: content/site/home-bg.jpg
 email: ando@sqroot.eu
 description: "A personal blog about IT & life"
 baseurl: ""
-url: "http://localhost:4000"
+url: "https://sqroot.eu"
 timezone: Europe/Tallinn
 
 # Build settings
