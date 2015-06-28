@@ -34,7 +34,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       author: "Ando"
-      comments: false
+      comments: true
       layout: "post"
   -
     scope:
