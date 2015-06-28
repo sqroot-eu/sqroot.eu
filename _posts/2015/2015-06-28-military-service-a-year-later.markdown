@@ -10,7 +10,7 @@ tags:
 - sõdur
 ---
 
-* « A Year Ago: [Military Service - Month #11 (May 2014)](http://sqroot.eu/2014/military-service-month-11-may-2014)
+* « A Year Ago: [Military Service - Month #11 (May 2014)]({{ site.url }}/2015/military-service-month-11-may-2014)
 
 29 of May, 2014, 0600 (290600May2014). Loud whistle from the hallway: "ÄÄÄRATUS!" (rouse yourselves). My room (~13 men) gets out of beds and puts on not their usual military uniforms but jeans, T-shirts and other elements of civilian clothing. This is it: today is our last day in the force.
 
