@@ -55,13 +55,4 @@ layout: default
 </article>
 </div>
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "NewsArticle",
-  "image": ["{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"],
-  "description": "{{ page.excerpt | strip_html | xml_escape }}"
-}
-</script>
-
 <hr>
