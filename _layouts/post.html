@@ -2,17 +2,18 @@
 layout: default
 ---
 
+<div itemscope itemtype="http://schema.org/NewsArticle">
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header" itemprop="image" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>{{ page.title }}</h1>
+                    <h1 itemprop="headline">{{ page.title }}</h1>
                     {% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    <h2 itemprop="alternativeHeadline" class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Published on {{ page.date | date: "%B %-d, %Y" }}. Takes {{ page.content | reading_time }} to read.</span>
+                    <span class="meta">Published on <span itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</span>. Takes {{ page.content | reading_time }} to read.</span>
                 </div>
             </div>
         </div>
@@ -20,12 +21,14 @@ layout: default
 </header>
 
 <!-- Post Content -->
-<article>
+<article >
     <div class="container content-container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				{{ content }}
+                <div itemprop="articleBody">
+				    {{ content }}
+                </div>
 
                 <hr>
 
@@ -50,5 +53,6 @@ layout: default
         </div>
     </div>
 </article>
+</div>
 
 <hr>
