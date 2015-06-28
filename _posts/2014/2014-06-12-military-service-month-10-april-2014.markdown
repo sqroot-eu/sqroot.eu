@@ -11,7 +11,7 @@ tags:
 
 <ul>
 <li>« The previous month: <a href="http://sqroot.eu/2014/05/military-service-month-9-march-2014/">Military Service - Month #9 (March 2014)</a></li>
-<li>» The next month: <a href="http://sqroot.eu/2014/05/military-service-month-11-may-2014">Military Service - Month #11 (May 2014)</a></li>
+<li>» The next month: <a href="{{ site.url }}/2015/military-service-month-11-may-2014">Military Service - Month #11 (May 2014)</a></li>
 </ul>
 <h1>Week #40 (01 - 06 of April)</h1>
 
