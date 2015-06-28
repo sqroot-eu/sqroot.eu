@@ -4,7 +4,7 @@ layout: default
 
 <div itemscope itemtype="http://schema.org/NewsArticle">
 <!-- Post Header -->
-<header class="intro-header" itemprop="image" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -54,5 +54,14 @@ layout: default
     </div>
 </article>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "image": ["{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"],
+  "description": "{{ page.excerpt | strip_html | xml_escape }}",
+}
+</script>
 
 <hr>
