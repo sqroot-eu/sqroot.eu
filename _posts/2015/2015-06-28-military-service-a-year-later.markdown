@@ -1,18 +1,30 @@
-* « The previous month: [Military Service - Month #11 (May 2014)](http://sqroot.eu/2014/06/military-service-month-11-may-2014)
+---
+title: 'Military Service - A Year Later'
+header-img: content/2015/06/army/11.jpg
+category: Army
+tags:
+- army
+- military
+- ajateenistus
+- military service
+- sõdur
+---
+
+* « A Year Ago: [Military Service - Month #11 (May 2014)](http://sqroot.eu/2014/military-service-month-11-may-2014)
 
 29 of May, 2014, 0600 (290600May2014). Loud whistle from the hallway: "ÄÄÄRATUS!" (rouse yourselves). My room (~13 men) gets out of beds and puts on not their usual military uniforms but jeans, T-shirts and other elements of civilian clothing. This is it: today is our last day in the force.
 
-We hand over the last of our gear and clear out the closets and beds. The rooms, hallways and the bathrooms are cleaned and we wait...
+We hand over the last of our gear and clear out the closets and beds. The rooms, hallways and the bathrooms are cleaned and we wait... Most sit on their beds or stools, their gym and/or backpacks with personal items packed and ready to go.
 
-Most sit on their beds or stools, their gym and/or backpacks with personal items packed and ready to go.
+Finally, the order comes to form up in front of the barracks - the same place we started our service eleven months ago. Like then, we're in civilian clothes, but there's a huge difference: now we stand in a proper military fashion with a year of training behind us.
 
-Finally, the order comes to form up in front of the barracks - the same place we started our service eleven months ago. Like then, we're in civilian clothes, but there's a huge difference: now we stand in a proper military fashion with a year of standing behind us.
-
-The higher officers speak for a while. Last minute praise is handed out. And then, then at last:
+The officers speak for a while. And then, then at last:
 
 > "Rühm, VALVEL! Seersant Pärnpuu, viige üksus reservi ära!" _("ATTENTION! Sergeant Pärnpuu, take the unit to the reserve!")_
 
 The officers send us to the front gate. There is laughter and joy, relief and in some cases, nostalgia.
+
+{% picture 2015/06/army/21.jpg alt="A lovely reunion" %}
 
 Many relatives and girlfriends wait in front of the gate and the men are not shy to greet them. I don't linger, say my goodbyes and walk away to start living my life.
 
@@ -42,48 +54,65 @@ I got through it only thanks to my friends. Whatever you do in life, value the p
 
 # A Brief Record Of Service
 
-My service lasted for eleven months. I started in July 2013 and finished in May 2014.
+My service lasted for eleven months in the Signal Battalion. I started in July 2013 and finished in May 2014.
 
 ## SBC
 
 The first two and a half months are always the SBC (Soldiers Basic Course), otherwise known as hell. Discipline is drilled on a daily bases. There's never time to "get bored", on principle. You run from one lesson to the next, study the basics of infantry, learn to obey orders. It's harsh, rigorous and both physically and mentally demanding. The officers treat you like crap and you're pushed to your breaking point - and sometimes, beyond. Get used to sweating and sleeplessness, the dark and running. It's a miserable time especially when you're a loner.
 
-Weekend passes: 1x52h
+- Weekend passes: 1x52h
+- Amount of fun: very little
+- Physical activity: high
+- Discomfort level: high
+- Free time: very little
 
 ## DSC
 
-After the SBC, I was assigned to the Drivers Speciality Course: learning to drive C (trucks) and CE (trucks with trailers) category machines. The SBC ended in September (I got to do all my crawling during the summer, to which I'm grateful) and now the weather started getting colder. This was 'the golden age'. I had only two major duties: study driving (theory and practice) and do maintenance tasks in the car park. This took at most 50% of the day, the rest was 'free time'. I read books, practiced theatre and spent time with my laptop. The officers left us to our own devices when we didn't cause trouble - most of their focus went elsewhere. We watched the new SBC crawl and be miserable and were smug about it.
+After the SBC, I was assigned to the Drivers Specialty Course: learning to drive C (trucks) and CE (trucks with trailers) category machines. The SBC ended in September (I got to do all my crawling during the summer, to which I'm grateful) and now the weather started getting colder. This was 'the golden age'. I had only two major duties: study driving (theory and practice) and do maintenance tasks in the car park. This took at most 50% of the day, the rest was 'free time'. I read books, practiced theatre and spent time with my laptop. The officers left us to our own devices when we didn't cause trouble - most of their focus went elsewhere. We watched the new SBC crawl and be miserable and were smug about it.
 
-Weekend passes: Once every two weeks (with some exceptions)
+- Weekend passes: Once every two weeks (with some exceptions)
+- Amount of fun: medium
+- Physical activity: low
+- Discomfort level: low
+- Free time: lots
 
 ## TBC
 
-The Tactics Basic Course came next, in January. We learned infantry tactics as a squad. The snow had arrived and it was Cold. We drove around in the woods, staging stakeouts and mock combat. We learnt to handle communication equipment - radios, masts, servers - in preparation to the Unit Course. It wasn't fun, but not as bad as the SBC, either. The drivers were treated a little bit better than the eight-month servicemen, which made life considerably easier.
+The Tactics Basic Course came next, in January. We learned infantry tactics as a squad. The snow had arrived and it was Cold. We drove around in the woods, staging stakeouts and mock combat. We learned to handle communication equipment - radios, masts, servers - in preparation to the Unit Course. It wasn't fun, but not as bad as the SBC, either. The drivers were treated a little bit better than the eight-month servicemen, which made life considerably easier.
 
-Weekend passes: Once every two weeks (with some exceptions)
+- Weekend passes: Once every two weeks (with some exceptions)
+- Amount of fun: medium
+- Physical activity: medium
+- Discomfort level: high
+- Free time: little
 
 ## UC
 
 The Unit Course involved learning to work together as a team of three and in a wider perspective, as many teams of three, fulfilling the same collaborative mission. We spent the majority of time handling our IT and radio equipment, having camp after camp after camp in different forests all over Estonia. The unit course ended with the Spring Storm exercise: three weeks in the middle of nowhere.
 
-Weekend passes: Three weekends out of four (with some exceptions)
+- Weekend passes: Three weekends out of four (with some exceptions)
+- Amount of fun: medium
+- Physical activity: medium
+- Discomfort level: medium
+- Free time: medium
 
-I finished my service as a driver in a communication unit with the rank of a 'private'.
+I finished my service as a driver / comms specialist in a communication unit with the rank of a 'private'.
 
 ## Service In Key-Value Pairs...
 
 * Location: Tallinn, Estonia
 * Duration: 10 months / 47 weeks / 332 days
 * Rank: Private
-* Job Title: Driver
+* Job Title: Driver / Communications Specialist
 * Temperature Range Experienced: -27&deg;C - + 31&deg;C (estimation), absolute difference: 58&deg;C
 * Drivers Licence Obtained: B, C, CE
 * Number of Explanatory Notes Written: 1
-* Times on Duty (24h): 30+ (lost count)
+* Times on Duty as the 'hallway' officer (24h): 30+ (lost count)
 * Disciplinary Punishments: 0
 * Official Praise Or Other Rewards: 0
 * Days Spent Off Duty (sick bay, bed regime): 0
 * Number of Serious Injuries: 0
+* Number of Minor Injuries: 2
 * QRF alarms: around 8
 * SBC final hike: 50km in two days
 * Vacation days: 15
@@ -92,20 +121,34 @@ I finished my service as a driver in a communication unit with the rank of a 'pr
 * Number of Times I Wanted To Hit A Fellow Serviceman: 60
 * Number of Times I Actually Hit A Fellow Serviceman: 0
 * Number of Times I Lost My Temper Completely: 5
-* Max Number of Push-Ups Performed: 66
+* Max Number of continuous Push-Ups Performed: 66
 
 # How The Service Changed Me
 
-I didn't go to serve willingly, fearing the psychological effects of the enviornment. The service was tough for me, with some rare awesome exceptions where I felt proud for my country, the officers and fellow privates. Through the service, I was in near constant state of melanchony and at times, deeply depressed with two-three lowpoints of being reduced to tears and thinking how easy it would be to acuire a live 5.56x45 round to end it all.
+I didn't go to serve willingly, fearing the psychological effects of the environment. The service was tough for me, with some rare awesome exceptions where I felt proud for my country, the officers and fellow privates. Through the service, I was in near constant state of melancholy and at times, deeply depressed with two-three low-points.
 
-I feared the depression would stay with me when I was released. Luckily, I was wrong. The human brain
-&nbsp;
+I feared the depression would stay with me when I was released. Luckily, I was wrong.
 
-Changes
+The year in the army has changed me in small, but noticeable ways.
 
-Kõnnin robustsemalt, kindlamalt. Mütsiga ruumis käia tundub imelik, mütsita tänaval samuti. Võimalusel võtan mütsi ruumis ära. Kannan endiselt kaelaketti, jäängi kandma. Panen linnas liikudes tähele vormikandjaid ja autosid. Hindan mil esemeid.
+- I walk with a more robust, military stride
+- It feels odd to be in a room while wearing a hat and on the street without a hat
+- I wear and will be wearing my dog tags. Sentimental + practical
+- I notice army cars (both green and civil) and men in uniform while moving in the city
+- I appreciate military items: quality material, very practical in design
+- I travel with more practicality, leaving behind items I don't use, appreciating quality gear
+- I've acquired items such as combat boots and an army rucksack which I use regularly
+- I like to talk about the army, though it annoys my non-army friends
+- The service made me more of a patriot. I'd probably go when they call
+- Whenever I travel, I make sure to have some water and dry food with me as well as other practical items
+- I can estimate the distance I'm able to cover within a given timeframe. Walking 10k does not sound scary at all
+- I love being in the outdoors more
+- I am more conscious of time and how much of it do I need to do something
+- ...
 
-## Things To Take
+## Shopping List to New Recruits
+
+Here are the things you might find beneficial to take with you when you go to serve. Go for quality, I found it very much worth my while to buy a pair of socks for 20€. Yes, it's 10x as expensive as "normal" socks, but a year later they're still the best pair of socks I own.
 
 ### Must Have
 
@@ -152,7 +195,13 @@ Kõnnin robustsemalt, kindlamalt. Mütsiga ruumis käia tundub imelik, mütsita 
 - Smaller and bigger band aids
 - Batteries (AAA)
 - Work gloves
+- Garbage bags
 - Matches
 - Pens, paper
+- Anything you need if it's justified enough
 
-Remember: they search your things when you first arrive. Always go for minimalism: it helps to keep your closet in order and you really don't want those extra pounds in  your backpack.
+Remember: they search your things when you first arrive. Always go for minimalism: it helps to keep your closet in order and you really don't want those extra pounds in your backpack.
+
+# Final Thoughts
+
+I'm glad I went through the army, but I'm also glad I don't have to go back for (hopefully) some years. The Estonian Army is not a bad place to be... It's more of like a high-school for men only, with all the relating aspects and without the balancing power of women and escaping from other people after classes.

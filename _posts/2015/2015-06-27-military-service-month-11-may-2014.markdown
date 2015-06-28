@@ -11,7 +11,7 @@ tags:
 - sõdur
 ---
 
-* » A Year Later: [Military Service - Afterwards (June 2015)]({{ site.url }}/2014/military-service-afterwards)
+* » Afterwards: [Military Service - A Year Later (June 2015)]({{ site.url }}/2015/military-service-a-year-later)
 * « The previous month: [Military Service - Month #10 (April 2014)]({{ site.url }}/2014/military-service-month-10-april-2014)
 
 # Week #44 (01 - 04 of May)
