@@ -23,7 +23,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@SQrooted" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title }}{% endif %}" />
-    {% if page.excerpt %}<meta property="twitter:description" content="{{ page.excerpt | strip_html | xml_escape }}" />{% endif %}
+    <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | xml_escape }}{% else %}{{site.description}}{% endif %}" />
     {% if page.header-img %}<meta name="twitter:image" content="{{site.url}}/{{ page.header-img }}" />{% endif %}
 
     <!-- Favicon config -->
