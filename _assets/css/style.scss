@@ -1,72 +1,74 @@
 //= require bootstrap/dist/css/bootstrap.min
 
-$brand-primary: #0085A1;
-$gray-dark: lighten(black, 25%);
-$gray: lighten(black, 50%);
-$white-faded: fade(white, 80%);
-$gray-light: #eee;
+$black: #000;
+$black1: #333;
 $white: #fff;
+$brand-primary: #0085a1;
+$gray-dark: lighten($black, 25%);
+$gray: lighten($black, 50%);
+$white-faded: fade($white, 80%);
+$gray-light: #eee;
 
-@import "blog";
+@import 'blog';
 
 .blog-header {
-	width: 100%;
-	max-width: 640px;
-	margin: 0 auto;
-	margin-bottom: 80px;
-	position: relative;
-	padding: 0;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 auto;
+  margin-bottom: 80px;
+  max-width: 640px;
+  padding: 0;
+  position: relative;
+  width: 100%;
 
-    .avatar {
-		background-image: url(../../content/site/avatar.jpg);
-		width: 160px;
-		height: 160px;
-		position: absolute;
-		top: -80px;
-		right: 50%;
-		margin-right: -80px;
-		background-size: cover;
-		border-radius: 50%;
-		z-index: 99;
-		text-indent: -9999px;
-		border: 3px solid $white;
-		background-color: $white;
-		-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-		-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-		box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-	}
+  .avatar {
+    background-color: $white;
+    background-image: url('../../content/site/avatar.jpg');
+    background-size: cover;
+    border: 3px solid $white;
+    border-radius: 50%;
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+    height: 160px;
+    margin-right: -80px;
+    position: absolute;
+    right: 50%;
+    text-indent: -9999px;
+    top: -80px;
+    width: 160px;
+    z-index: 99;
+  }
 
-	h1 {
-		margin: 0;
-  		padding: 84px 16px 8px;
-  		font-size: 50px;
-  		text-align: center;
-  		font-weight: 700;
-  		letter-spacing: -2px;
-  		outline: 0;
-  		line-height: 50px;
-  		word-break: break-word;
-  		color: #333;
-	}
+  h1 {
+    color: $black1;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    line-height: 50px;
+    margin: 0;
+    outline: 0;
+    padding: 84px 16px 8px;
+    text-align: center;
+    word-break: break-word;
+  }
 
-	p {
-		margin: 10px auto;
-		font-size: 1.1em;
-		text-align: center;
-	}
+  p {
+    font-size: 1.1em;
+    margin: 10px auto;
+    text-align: center;
+  }
 }
 
 
 @media only screen and (max-width: 800px) {
-	.blog-header {
-		.avatar {
-			width: 100px;
-			height: 100px;
-			top: -50px;
-			margin-right: -50px;
-		}
-	}
+  .blog-header {
+    .avatar {
+      height: 100px;
+      margin-right: -50px;
+      top: -50px;
+      width: 100px;
+    }
+  }
 }
