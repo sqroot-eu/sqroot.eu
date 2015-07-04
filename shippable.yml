@@ -9,7 +9,7 @@ install:
   - cd _assets; bower install ; cd ..
 script:
   - jekyll serve --full-rebuild --detach
-  - jshint _assets/js/
+  - node_modules/jshint/bin/jshint _assets/js/
   # Run scss check, but do not fail the build on warnings
   - scss-lint _assets/css/*.scss ; true
   #- htmlproof --checks-to-ignore=LinkCheck --check-favicon _site
