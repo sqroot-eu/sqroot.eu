@@ -11,8 +11,8 @@ tags:
 ---
 
 <ul>
-<li>&laquo; The previous month: <a href="http://sqroot.eu/2013/12/military-service-month-4-october-2013/">Military Service - Month #4 (October 2013)</a></li>
-<li>&raquo; The next month: <a href="http://sqroot.eu/2014/03/military-service-month-6-december-2013/">Military Service - Month #6 (December 2013)</a></li>
+<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/military-service-month-4-october-2013/">Military Service - Month #4 (October 2013)</a></li>
+<li>&raquo; The next month: <a href="https://sqroot.eu/2014/military-service-month-6-december-2013/">Military Service - Month #6 (December 2013)</a></li>
 </ul>
 
 <blockquote>
@@ -123,7 +123,7 @@ We go to the stage, I introduce improv, get a suggestion and we perform a five m
 {% picture gallery 2014/01/improv5.jpg alt="Improv" %}
 {% picture gallery 2014/01/improv6.jpg alt="Improv" %}
 
-See also: <a href="http://sqroot.eu/2014/01/improvisational-theater-in-the-estonian-army/">Improvisational Theater in the Estonian Army</a>
+See also: <a href="https://sqroot.eu/2014/improvisational-theater-in-the-estonian-army/">Improvisational Theater in the Estonian Army</a>
 
 Kairit Tuhkanen and dance girls in revealing clothes perform. Men are invited to dance and mingle. I think it a bit cruel that some (the single ones) who haven't been with a girl in god knows how long get this meaningless moment of teasing. I retreat to a nearby coffee shop. Pvt Pr - our medic(s aide) - notices my fever and gets me a place in a warm car for the ride back. He cares.
 

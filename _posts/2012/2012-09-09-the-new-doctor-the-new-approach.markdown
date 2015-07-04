@@ -15,7 +15,7 @@ comments:
 - id: 2706
   author: The Fall of the Eleventh &mdash; SQRoot
   author_email: ''
-  author_url: http://sqroot.eu/2013/12/the-fall-of-the-eleventh/
+  author_url: https://sqroot.eu/2013/the-fall-of-the-eleventh/
   date: '2013-12-26 17:11:01 +0200'
   date_gmt: '2013-12-26 15:11:01 +0200'
   content: "[&#8230;] It was good&#8230; and the quotes&#8230; you can&#8217;t get

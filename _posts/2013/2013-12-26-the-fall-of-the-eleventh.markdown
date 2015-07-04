@@ -28,7 +28,7 @@ The Eleventh Doctor is gone.
 
 </blockquote>
 
-True to the series, the end of the eleventh was very emotional. Both the tenth and eleventh doctors have had wise and tragic and emotional endings. It was good... and the quotes... you can't get around the quotes. Smith was more of a <a href="http://sqroot.eu/2012/09/the-new-doctor-the-new-approach/">for-the-kids</a> type of a doctor, but his last moments... let it not be said kids of today can't learn emotion from TV.
+True to the series, the end of the eleventh was very emotional. Both the tenth and eleventh doctors have had wise and tragic and emotional endings. It was good... and the quotes... you can't get around the quotes. Smith was more of a <a href="https://sqroot.eu/2012/the-new-doctor-the-new-approach/">for-the-kids</a> type of a doctor, but his last moments... let it not be said kids of today can't learn emotion from TV.
 
 The special was great, tied up lots of unanswered questions (and created new ones), brought lots of Who into Christmas (quite literally, Mr. Santa!) and made many weep in sorrow for another fallen man with a big heart. Thank you, Who team, Moffat, Smith, Coleman, Gillan. Raggedy man... goodnight.
 

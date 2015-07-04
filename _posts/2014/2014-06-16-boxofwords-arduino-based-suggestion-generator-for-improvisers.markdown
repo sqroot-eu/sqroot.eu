@@ -51,7 +51,7 @@ comments:
 
     However, I'd like to clarify the purposes of the project. The goal wasn't to earn money, fame or distribute it to a wider audience. I took those factors into account when planning this. I wanted to create something unique, something that took considerable effort to create, something 'real' in the sense that you could hold it in your hand and think, "damn, there's some affection right there".
 
-    Quoting from the [Teensy Moonica](http://sqroot.eu/2013/06/teensy-moonica-the-8-legged-gift-for-a-developer/) project:
+    Quoting from the [Teensy Moonica](https://sqroot.eu/2013/teensy-moonica-the-8-legged-gift-for-a-developer/) project:
 
     "Money can come and go, but my time on this planet is finite. How I spend my time, or who I spend it with means more than anything else in my universe. From at least the selfish view, giving my time is the most valuable gift I can give." (S. Berkun)
 
@@ -167,7 +167,7 @@ The file contains two runtime settings and human-readable titles for all of the 
 
 <h2>The PCB</h2>
 
-Soldering the PCB was a challenge on its own. I've tried to make a PCB before, failed twice, <a href="http://sqroot.eu/2014/02/attiny85-melody-module/">succeeded once</a>. The task involves working with delicate parts, lots of small wires and tin. There's always a chance for something shorting.
+Soldering the PCB was a challenge on its own. I've tried to make a PCB before, failed twice, <a href="https://sqroot.eu/2014/attiny85-melody-module/">succeeded once</a>. The task involves working with delicate parts, lots of small wires and tin. There's always a chance for something shorting.
 
 I spent a whole day with preparing the wires (instead of soldering ribbon cable directly to the board I opted for a more modular, but complex solution and used headers) and soldering the parts together. At the end of the day, I was spent but victorious: all of the connections worked, there were no shorts and I had my spiders-nest of a PCB, ready for action.
 

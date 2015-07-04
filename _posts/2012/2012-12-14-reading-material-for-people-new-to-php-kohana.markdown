@@ -31,9 +31,9 @@ I've had to refer to different PHP / Kohana related learning materials a lot rec
 <li><a href="http://coffeescript.org/">http://coffeescript.org/</a> - JavaScript, but more... steamy</li>
 <li><a href="http://www.phpunit.de/manual/current/en/automating-tests.html">http://www.phpunit.de/manual/current/en/automating-tests.html</a> - Unittests in PHP</li>
 <li><a href="http://seleniumhq.org/">http://seleniumhq.org/</a> - Automated testing using the browser</li>
-<li><a href="http://sqroot.eu/2012/08/web-app-pre-launch-checklist/">http://sqroot.eu/2012/08/web-app-pre-launch-checklist/</a> - Before deploying your next project...</li>
-<li><a href="http://sqroot.eu/2012/11/thoughts-on-how-to-get-work-done/">http://sqroot.eu/2012/11/thoughts-on-how-to-get-work-done/</a> - Guidelines for your everyday life as a developer</li>
-<li><a href="http://sqroot.eu/2012/07/web-development-resources/">http://sqroot.eu/2012/07/web-development-resources/</a> - List of links to tools / resources for PHP developers</li>
+<li><a href="https://sqroot.eu/2012/web-app-pre-launch-checklist/">https://sqroot.eu/2012/web-app-pre-launch-checklist/</a> - Before deploying your next project...</li>
+<li><a href="https://sqroot.eu/2012/thoughts-on-how-to-get-work-done/">https://sqroot.eu/2012/thoughts-on-how-to-get-work-done/</a> - Guidelines for your everyday life as a developer</li>
+<li><a href="https://sqroot.eu/2012/web-development-resources/">https://sqroot.eu/2012/web-development-resources/</a> - List of links to tools / resources for PHP developers</li>
 <li><a href="http://www.thetoolbox.cc/">http://www.thetoolbox.cc/</a> - Links to useful resources like CSS3 generators and page speed test tools</li>
 <li><a href="http://www.jetbrains.com/phpstorm/">http://www.jetbrains.com/phpstorm/</a> - Lightweight and smart PHP IDE</li>
 </ol>

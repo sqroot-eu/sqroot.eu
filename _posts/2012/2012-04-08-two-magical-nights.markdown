@@ -33,7 +33,7 @@ comments:
 
 ![JadaJada poster]({{ site.url }}/content/2012/04/poster.png)
 
-Trent, the awesome Chicago / Finland improviser, contacted Improgrupp Jaa! a month or two back and made a suggestion that made me giddy: namely, another workshop (<a href="http://sqroot.eu/2011/08/inspiring-improv-with-improgrupp-jaa-and-trent-pancy/">read about the previous one here</a>) for our actors and his teams - <a href="http://www.jadajadaimprov.com/">JadaJada</a> - first international improv show.
+Trent, the awesome Chicago / Finland improviser, contacted Improgrupp Jaa! a month or two back and made a suggestion that made me giddy: namely, another workshop (<a href="https://sqroot.eu/2011/inspiring-improv-with-improgrupp-jaa-and-trent-pancy/">read about the previous one here</a>) for our actors and his teams - <a href="http://www.jadajadaimprov.com/">JadaJada</a> - first international improv show.
 
 > Trent Pancy is an American Actor and Improviser living in Tampere, Finland. Trent teaches and performs Improv in Professional and Recreational settings throughout Northern Europe and the US. - [trentasaurus.com](http://www.trentasaurus.com)
 

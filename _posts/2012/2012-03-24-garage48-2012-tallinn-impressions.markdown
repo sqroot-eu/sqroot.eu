@@ -18,7 +18,7 @@ Garage48 Tallinn Music 2012 - my third participation in the foundation's startup
 <strong>What is Garage48 Tallinn Music 2012?</strong>
 > Garage48 is a weekend hackathon, where people pitch ideas, form teams and build prototypes or sometimes full service over the weekend. This time we partnered with <a href="http://www.tallinnmusicweek.ee/" target="_blank">Tallinn Music Week</a>, so we have a bigger focus on Music related ideas and our mentors are mostly from Music industry. But you can pitch all kinds of ideas, also outside of music industry. - <a href="http://garage48.org/tallinn/faq">http://garage48.org/tallinn/faq</a>
 <h2>Friday, 23. March (23:50)</h2>
-Arrived at the venue (Tehnopolis Ülemiste, also the host of Garage48 Tallinn 2011 - <a href="http://sqroot.eu/2011/04/garage48-2011-tallinn-recap-reflection/">read my post about THAT weekend</a>) right after work. Deadlines with school and work are both tight at the moment and I decided to cram in a weekend of sleeplessness. Oh, well...
+Arrived at the venue (Tehnopolis Ülemiste, also the host of Garage48 Tallinn 2011 - <a href="https://sqroot.eu/2011/garage48-2011-tallinn-recap-reflection/">read my post about THAT weekend</a>) right after work. Deadlines with school and work are both tight at the moment and I decided to cram in a weekend of sleeplessness. Oh, well...
 The venue looked emptier than a year ago, with some vacant seats - I guess many of the previous startups really did start up and the authors are now busy conquering the world. Traditional intro, traditional, brutal pitching rounds with 90 seconds to convince the audience of the success of the idea.
 The usual story - some pitchers did it well, some not so much.
 <blockquote>

@@ -39,7 +39,7 @@ comments:
 - id: 2700
   author: 'Military Service &#8211; Month #2 (August 2013) &mdash; SQRoot'
   author_email: ''
-  author_url: http://sqroot.eu/2013/10/military-service-month-2-august-2013/
+  author_url: https://sqroot.eu/2013/military-service-month-2-august-2013/
   date: '2013-10-09 14:28:46 +0300'
   date_gmt: '2013-10-09 11:28:46 +0300'
   content: "[&#8230;] Pingback: First Month In The Service (July 2013) &mdash; SQRoot
@@ -47,7 +47,7 @@ comments:
 - id: 2702
   author: On Compulsory Military Service I &mdash; SQRoot
   author_email: ''
-  author_url: http://sqroot.eu/2013/06/on-compulsory-military-service-i/
+  author_url: https://sqroot.eu/2013/on-compulsory-military-service-i/
   date: '2013-10-09 14:33:38 +0300'
   date_gmt: '2013-10-09 11:33:38 +0300'
   content: "[&#8230;] &raquo; The next month: Military Service &#8211; Month #1 (July
@@ -55,7 +55,7 @@ comments:
 - id: 2708
   author: Improvisational Theater in the Estonian Army &mdash; SQRoot
   author_email: ''
-  author_url: http://sqroot.eu/2014/01/improvisational-theater-in-the-estonian-army/
+  author_url: https://sqroot.eu/2014/improvisational-theater-in-the-estonian-army/
   date: '2014-01-02 03:29:36 +0200'
   date_gmt: '2014-01-02 01:29:36 +0200'
   content: "[&#8230;] mandatory eleven months in the military began in July, 2013.
@@ -70,8 +70,8 @@ My first month in the army is over, I'm still alive and sane enough to write. I 
 <em>I am a pessimist by nature; all is not as dark as I seem to indicate. Indeed, the situation here is quite good compared to what it is/was elsewhere. Most negative experiences are due to my personality and should not be seen as damaging to the reputation or morale of the army.</em>
 
 <ul>
-<li>&laquo; The previous month: <a href="http://sqroot.eu/2013/06/on-compulsory-military-service-i">On Compulsory Military Service I</a></li>
-<li>&raquo; The next month: <a href="http://sqroot.eu/2013/10/military-service-month-2-august-2013">Military Service - Month #2 (August 2013)</a></li>
+<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/on-compulsory-military-service-i">On Compulsory Military Service I</a></li>
+<li>&raquo; The next month: <a href="https://sqroot.eu/2013/military-service-month-2-august-2013">Military Service - Month #2 (August 2013)</a></li>
 </ul>
 
 <h1>Week #1 (30th of June - 7th of July)</h1>

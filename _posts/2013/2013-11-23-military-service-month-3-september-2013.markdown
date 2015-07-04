@@ -35,8 +35,8 @@ comments:
 ---
 
 <ul>
-<li>« The previous month: <a href="http://sqroot.eu/2013/10/military-service-month-2-august-2013/">Military Service - Month #2 (August 2013)</a></li>
-<li>» Next month: <a href="http://sqroot.eu/2013/12/military-service-month-4-october-2013">Military Service - Month #4 (October 2013)</a></li>
+<li>« The previous month: <a href="https://sqroot.eu/2013/military-service-month-2-august-2013/">Military Service - Month #2 (August 2013)</a></li>
+<li>» Next month: <a href="https://sqroot.eu/2013/military-service-month-4-october-2013">Military Service - Month #4 (October 2013)</a></li>
 </ul>
 <h1>Week #10 (02 - 08 September)</h1>
 

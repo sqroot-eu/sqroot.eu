@@ -41,7 +41,7 @@ Such complex projects need a level of modularity and abstraction. OO concepts su
 
 Speaking of larger systems (in terms of load): functional software tends to be (but not always!) faster and able to handle more load. An example: frameworks are often object-orientated (Kohana, CodeIgniter, .NET...), but the drawback is memory usage.
 
-> I may lose out in development time up to 50% compared to someone developing the same solution without Framework, but I will end up with a system that can easily be hundred times as fast, if not more. - <a href="http://sqroot.eu/2011/09/be-a-developer-not-a-programmer/">Kristo Vaher</a>
+> I may lose out in development time up to 50% compared to someone developing the same solution without Framework, but I will end up with a system that can easily be hundred times as fast, if not more. - <a href="https://sqroot.eu/2011/be-a-developer-not-a-programmer/">Kristo Vaher</a>
 
 <em>[Interesting video lecture (in Estonian): <a href="http://devclub.ee/lugu/video/erlang-taavi-talvik">Taavi Talvik speaks about Erlang</a>, a resiliant and fast functional programming language.]</em>
 
@@ -70,5 +70,5 @@ Both object-orientated and functional paradigms have their strengths and weaknes
 <li><a href="http://www.catb.org/~esr/faqs/hacker-howto.html#believe2">http://www.catb.org/~esr/faqs/hacker-howto.html#believe2</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Functional_programming">http://en.wikipedia.org/wiki/Functional_programming</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Object-oriented_programming">http://en.wikipedia.org/wiki/Object-oriented_programming</a></li>
-<li><a href="http://sqroot.eu/2011/09/be-a-developer-not-a-programmer/">http://sqroot.eu/2011/09/be-a-developer-not-a-programmer/</a></li>
+<li><a href="https://sqroot.eu/2011/be-a-developer-not-a-programmer/">https://sqroot.eu/2011/be-a-developer-not-a-programmer/</a></li>
 </ol>

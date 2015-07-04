@@ -14,8 +14,8 @@ tags:
 ---
 
 <ul>
-<li>&laquo; The previous month: <a href="http://sqroot.eu/2013/11/military-service-month-3-september-2013">Military Service - Month #3 (September 2013)</a></li>
-<li>&raquo; The next month: <a href="http://sqroot.eu/2014/01/military-service-month-5-november-2013/">Military Service - Month #5 (November 2013)</a></li>
+<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/military-service-month-3-september-2013">Military Service - Month #3 (September 2013)</a></li>
+<li>&raquo; The next month: <a href="https://sqroot.eu/2014/military-service-month-5-november-2013/">Military Service - Month #5 (November 2013)</a></li>
 </ul>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6TbJb7XcP1JtB7NOy3AL46" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

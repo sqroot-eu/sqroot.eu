@@ -31,7 +31,7 @@ comments:
   author: BoxOfWords &#8211; Arduino-Based Suggestion Generator for Improvisers &mdash;
     SQRoot
   author_email: ''
-  author_url: http://sqroot.eu/2014/06/boxofwords-arduino-based-suggestion-generator-for-improvisers/
+  author_url: https://sqroot.eu/2014/boxofwords-arduino-based-suggestion-generator-for-improvisers/
   date: '2014-06-19 08:53:06 +0300'
   date_gmt: '2014-06-19 05:53:06 +0300'
   content: "[&#8230;] the PCB was a challenge on its own. I&#8217;ve tried to make

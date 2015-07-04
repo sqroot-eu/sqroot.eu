@@ -16,10 +16,10 @@ comments:
 - id: 2017
   author: "Öös on IT-d"
   author_email: ''
-  author_url: http://sqroot.eu/2012/03/oos-on-it-d/
+  author_url: https://sqroot.eu/2012/oos-on-it-d/
   date: '2013-03-17 06:15:35 +0200'
   date_gmt: '2013-03-17 04:15:35 +0200'
-  content: "[...] IT ÖÖ 2013, Roela: http://sqroot.eu/2013/03/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-ro...
+  content: "[...] IT ÖÖ 2013, Roela: https://sqroot.eu/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-ro...
     [...]"
 - id: 2710
   author: Martin Vahi
@@ -46,14 +46,14 @@ comments:
 - id: 2715
   author: 'Military Service – Month #9 (March 2014) &mdash; SQRoot'
   author_email: ''
-  author_url: http://sqroot.eu/2014/05/military-service-month-9-march-2014/
+  author_url: https://sqroot.eu/2014/military-service-month-9-march-2014/
   date: '2014-05-11 20:17:18 +0300'
   date_gmt: '2014-05-11 17:17:18 +0300'
   content: "[&#8230;] passes since four. I spend Friday / Saturday night at IT Night
     2014 as a technical [&#8230;]"
 ---
 
-IT-ÖÖ (IT Night) is a fun, statewide event where kids and teenagers gather in youth centers all over Estonia for one night (06pm - 08am) to spend time with each other, the mentors (IT students) and other centers via a video / radio link with the goal of learning about Information Technology. The event happens for the third time and this is my <a href="http://sqroot.eu/2012/03/oos-on-it-d">second time participating</a>. The topic for this year: prepare a video / audio / poster advertisement as to why IT is the best calling to choose.
+IT-ÖÖ (IT Night) is a fun, statewide event where kids and teenagers gather in youth centers all over Estonia for one night (06pm - 08am) to spend time with each other, the mentors (IT students) and other centers via a video / radio link with the goal of learning about Information Technology. The event happens for the third time and this is my <a href="https://sqroot.eu/2012/oos-on-it-d">second time participating</a>. The topic for this year: prepare a video / audio / poster advertisement as to why IT is the best calling to choose.
 
 The event is a joint effort by the <a href="http://itl.ee/?setlang=eng">Association of Information Technology and Telecommunications</a> and <a href="http://www.ank.ee/?p=p_157&amp;sName=in-english">Association of Estonian Open Youth Centers</a>, with help from <a href="http://www.eitsa.ee/en">Estonian Information Technology Foundation</a> and <a href="http://www.itcollege.ee/en">The Estonian Information Technology College</a>.
 
@@ -117,7 +117,7 @@ We used the large-screen TV on the wall as an indicator for the internet-connect
 $ ping -t startit.ee
 ```
 
-The internet was a bit jumpy (we actually missed our first scheduled live-broadcast window because of this) and it was amusing to see the ping output fail and the video stream falter a second later, only to be restored in a few moments. Maire called the local ISP at 8pm and things got better. For the record, dear ISP - you now have two experts to validate that everything is not quite right and the matter should be investigated further. To your compliment, however, the network did not fail completely and we didn't have to resort to emergency measures (unlike <a href="http://sqroot.eu/2012/03/oos-on-it-d">last year at Kambja</a>) to stay broadcasting.
+The internet was a bit jumpy (we actually missed our first scheduled live-broadcast window because of this) and it was amusing to see the ping output fail and the video stream falter a second later, only to be restored in a few moments. Maire called the local ISP at 8pm and things got better. For the record, dear ISP - you now have two experts to validate that everything is not quite right and the matter should be investigated further. To your compliment, however, the network did not fail completely and we didn't have to resort to emergency measures (unlike <a href="https://sqroot.eu/2012/oos-on-it-d">last year at Kambja</a>) to stay broadcasting.
 
 ![Ping monitor]({{ site.url }}/content/2013/03/roela/ping.jpg)
 

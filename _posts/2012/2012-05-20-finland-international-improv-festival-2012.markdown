@@ -41,7 +41,7 @@ The first to perform were <a href="http://www.ilkkavanhapelto.fi/improvisaatiote
 
 ![JadaJada]({{ site.url }}/content/2012/05/fiif/4.jpg)
 
-There is not much to say about <a href="http://jadajadaimprov.com">JadaJada</a> that <a href="http://sqroot.eu/2012/04/two-magical-nights/">I haven't already said</a>, the same praise still applies. The story was of Mike &amp; Mike, a gay couple who adopted a boy, John. The tale had integrity and emotion and it drew me in to the point that I missed a queue to dim the lights (I was on the light board during their show). There was a song of course and I have to say, I'm addicted to improv songs, such a joy to see a singing scene.
+There is not much to say about <a href="http://jadajadaimprov.com">JadaJada</a> that <a href="https://sqroot.eu/2012/two-magical-nights/">I haven't already said</a>, the same praise still applies. The story was of Mike &amp; Mike, a gay couple who adopted a boy, John. The tale had integrity and emotion and it drew me in to the point that I missed a queue to dim the lights (I was on the light board during their show). There was a song of course and I have to say, I'm addicted to improv songs, such a joy to see a singing scene.
 
 <h3>Show #3: Short Form Tournament</h3>
 

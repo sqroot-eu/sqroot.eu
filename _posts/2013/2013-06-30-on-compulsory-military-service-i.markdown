@@ -59,4 +59,4 @@ I intended to start training on January, but this didn't go so well. I'm weak in
 
 So here I go, on my way to the reception. Oh, and I have to spend the night outdoors since no transportation goes there so early. Bye.
 
-&raquo; The next month: <a href="http://sqroot.eu/2013/08/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a>
+&raquo; The next month: <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a>

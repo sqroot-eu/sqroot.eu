@@ -10,8 +10,8 @@ tags:
 ---
 
 <ul>
-<li>« The previous month: <a href="http://sqroot.eu/2014/03/military-service-month-6-december-2013/">Military Service - Month #6 (December 2013)</a></li>
-<li>» The next month: <a href="http://sqroot.eu/2014/05/military-service-month-8-february-2014">Military Service - Month #8 (February 2014)</a></li>
+<li>« The previous month: <a href="https://sqroot.eu/2014/military-service-month-6-december-2013/">Military Service - Month #6 (December 2013)</a></li>
+<li>» The next month: <a href="https://sqroot.eu/2014/military-service-month-8-february-2014">Military Service - Month #8 (February 2014)</a></li>
 </ul>
 
 <h1>Week #27 (04 - 05 of January)</h1>

@@ -12,12 +12,12 @@ tags:
 ---
 
 <ul>
-<li>&laquo; The previous month: <a href="http://sqroot.eu/2013/08/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a></li>
-<li>&raquo; Next month: <a href="http://sqroot.eu/2013/11/military-service-month-3-september-2013/">Military Service - Month #3 (September 2013)</a></li>
+<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a></li>
+<li>&raquo; Next month: <a href="https://sqroot.eu/2013/military-service-month-3-september-2013/">Military Service - Month #3 (September 2013)</a></li>
 </ul>
 <h1>Week #5 (01 - 04 of August)</h1>
 
-We're still <a href="http://sqroot.eu/2013/08/first-month-in-the-service-july-2013">in the forest camp</a>. Sleeping outdoors, days full of lessons and constant activity.
+We're still <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">in the forest camp</a>. Sleeping outdoors, days full of lessons and constant activity.
 
 You know how in the movies, the SWAT team uses fancy hand signals that look really bad-ass? We practiced that, too. Hand signals are  useful and cool... but they require team play, focus and the ability to multitask effortlessly. Our signals are similar to the game of broken telephone: the meaning morphs or goes lost and never reaches the last man. This seems odd when coming from improv where cooperation is effortless.
 
