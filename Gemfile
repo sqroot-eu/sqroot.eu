@@ -5,6 +5,7 @@ gem 'html-proofer', '~> 2.2'
 gem 'redcarpet'
 gem 'uglifier'
 gem 'sass'
+gem 'scss-lint'
 
 group :jekyll_plugins do
   gem 'jekyll-picture-tag', '~> 0.2.3'

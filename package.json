@@ -9,6 +9,7 @@
   "author": "Ando Roots",
   "license": "ISC",
   "dependencies": {
-    "proofreader":"~0.6"
+    "proofreader":"~0.6",
+    "jshint": "~2.8"
   }
 }
