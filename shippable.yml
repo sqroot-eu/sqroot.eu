@@ -11,7 +11,7 @@ script:
   - jekyll serve --full-rebuild --detach
   - node_modules/jshint/bin/jshint _assets/js/
   # Run scss check, but do not fail the build on warnings
-  - scss-lint _assets/css/*.scss ; true
+  # - scss-lint _assets/css/*.scss ; true
   #- htmlproof --checks-to-ignore=LinkCheck --check-favicon _site
 after_script:
   - pkill -f jekyll
@@ -19,8 +19,6 @@ after_success:
   - sftp -i ~/.ssh/project_rsa -b sftp_file sqroot_web@watchtower.sqroot.eu
   - mv _site shippable
   - curl -X POST "https://fleep.io/hook/u50gdD1kTPmCrsLzGDsrqA" -d 'message=Sqroot+deployed'
-after_failure:
-  - curl -X POST "https://fleep.io/hook/u50gdD1kTPmCrsLzGDsrqA" -d 'message=SQroot+deployment=failed'
 branches:
   only:
     - master
