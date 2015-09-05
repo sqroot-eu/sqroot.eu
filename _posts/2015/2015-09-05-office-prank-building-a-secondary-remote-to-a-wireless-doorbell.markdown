@@ -195,7 +195,7 @@ I had my pocket-sized doorbell remote that could ring the office doorbell either
 
 I wanted to make this even more awesome and activate it remotely via an IM message. My company uses software called [Fleep](https://fleep.io) - a competitor to Slack - for in-house communications. I had also set up an instance of [Hubot](https://github.com/github/hubot), a chat bot from GitHub. The idea was to make the doorbell ring by telling Hubot (Moonica) to ring the doorbell.
 
-This was simple enough to implement. Hubot was already integrated with Fleep (I had [written a adapter](https://github.com/anroots/hubot-fleep)), all I needed was for Hubot to pull the trigger pin of the module to LOW when he got the command.
+This was simple enough to implement. Hubot was already integrated with Fleep (I had [written an adapter](https://github.com/anroots/hubot-fleep)), all I needed was for Hubot to pull the trigger pin of the module to LOW when he got the command.
 
 I set up a Raspberry Pi and wrote a simple HTTP [web hook](https://github.com/anroots/tiny-doorbell-remote/tree/master/api) on it. The Pi was attached to the module and hooked into LAN, accessible by our in-house Hubot instance. The result: I could send a HTTP POST request to the Pi and it would activate the module, which would send a radio signal to the doorbell.
 
