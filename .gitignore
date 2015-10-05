@@ -1,6 +1,8 @@
 _site
-node_modules
+node_modules/
 .jekyll-metadata
 Gemfile.lock
 _assets/lib/
 .sass-cache/
+vendor/
+.bundle/

@@ -1,0 +1,26 @@
+sudo: required
+services:
+  - docker
+language: ruby
+rvm:
+  - 2.2
+node_js:
+  - 4.1
+
+before_install:
+  - bundle install
+  - npm install
+  - docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
+  - cd _assets && ../node_modules/bower/bin/bower install && cd ..
+
+script:
+  - bundle exec jekyll build
+  - node_modules/jshint/bin/jshint _assets/js/
+  - docker build -t anroots/sqroot.eu .
+  - docker push anroots/sqroot.eu
+
+after_script:
+  - docker logout
+
+notifications:
+  email: false

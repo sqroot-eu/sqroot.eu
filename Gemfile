@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.0.0.pre.beta8'
+gem 'jekyll', '3.0.0.pre.beta9'
 gem 'html-proofer', '~> 2.2'
 gem 'redcarpet'
 gem 'uglifier'

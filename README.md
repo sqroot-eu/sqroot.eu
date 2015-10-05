@@ -1,18 +1,14 @@
-# Sqroot.eu blog
+# sqroot.eu
 
-[![Build Status](https://api.shippable.com/projects/5517a1235ab6cc1352ae590c/badge?branchName=master)](https://app.shippable.com/projects/5517a1235ab6cc1352ae590c/builds/latest)
+[![Travis](https://img.shields.io/travis/anroots/sqroot.eu.svg)](https://travis-ci.org/anroots/anroots/sqroot.eu)
+[![Docker Pulls](https://img.shields.io/docker/pulls/anroots/sqroot.eu.svg)](https://hub.docker.com/r/anroots/sqroot.eu/)
 
-Based on Jekyll. Theme: Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog
+These are the files that generate the [sqroot.eu](https://sqroot.eu) blog.
 
-## Categories for posts
+## License
 
-* Opinions
-* Learning
-* Personal
-* Projects
-* Misc
-* Improv
-* MAKE
-* Army
-* Software Development
+Code under Apache2 for learning purposes.
+Content (c) to Ando Roots - do not re-publish without written permission!
+Theme: [Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog), customized, licenced under Apache2 license.
 
+Please do not host a mirror of my blog. :)

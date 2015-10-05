@@ -4,12 +4,13 @@
   "description": "Blog",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:anroots/sqroot.eu.git"
+    "url": "git@github.com:anroots/sqroot.eu.git"
   },
   "author": "Ando Roots",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "proofreader":"~0.6",
-    "jshint": "~2.8"
+    "jshint": "~2.8",
+    "bower": "~1.5"
   }
 }
