@@ -57,6 +57,7 @@ hr.small {
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
+  text-decoration: none;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -360,6 +361,7 @@ form .row:first-child .floating-label-form-group {
   padding: 10px 5px;
   background-color: white;
   border-radius: 0;
+  text-decoration: none;
 }
 @media only screen and (min-width: 768px) {
   .pager li > a,
