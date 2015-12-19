@@ -19,7 +19,7 @@ header-img: content/2013/06/fiif/header.jpg
 
 ![Improgrupp Jaa!]({{ site.url }}/content/2013/06/fiif/Bifurkatsioonipunkt.jpg)
 
-I participated in the ranks on <a href="http://jaa.ee">Improgrupp Jaa!</a>, a young and fabulous improv group from Estonia. We'd decided to perform <a href="http://jaa.ee/2013/04/bifurkatsioonipunkt-2/">a music-based long-form format</a> and gave a series of shows (in both Estonian and English) in preparation to FIIF.
+I participated in the ranks on <a href="http://jaa.ee">Improgrupp Jaa!</a>, a young and fabulous improv group from Estonia. We'd decided to perform a music-based long-form format and gave a series of shows (in both Estonian and English) in preparation to FIIF.
 
 <h1>Day #1</h1>
 
@@ -37,11 +37,11 @@ Finland is an expensive country compared to Estonia. Simple items cost twice or 
 
 ![Senja]({{ site.url }}/content/2013/06/fiif/senja.jpg)
 
-Ten minute walk from the VR station in Tampere and we found ourselves in <a href="dreamhostel.fi">Dreamhostel</a>, checking in and greeting the man himself, cheerful as ever. Jaa! was split to two rooms, sharing with <a href="http://joo.fi">Improvisaatioteatteri JOO!</a>, our northern counterpart [Improgrupp Jaa! = Improvisaatioteatteri JOO! = Improv group/theater Yes!]. Registration fees were exchanged (I believe this was the most cash any of us had had with them for a long time) and blue festival shirts and passes were handed out. Trent made good-hearted fun on my beard.
+Ten minute walk from the VR station in Tampere and we found ourselves in [Dreamhostel](http://www.dreamhostel.fi/fi/etusivu), checking in and greeting the man himself, cheerful as ever. Jaa! was split to two rooms, sharing with <a href="http://joo.fi">Improvisaatioteatteri JOO!</a>, our northern counterpart [Improgrupp Jaa! = Improvisaatioteatteri JOO! = Improv group/theater Yes!]. Registration fees were exchanged (I believe this was the most cash any of us had had with them for a long time) and blue festival shirts and passes were handed out. Trent made good-hearted fun on my beard.
 
 ![Karaoke]({{ site.url }}/content/2013/06/fiif/karaoke.jpg)
 
-Some of Jaa! ended up on a private-ish city tour with a cheerful volunteer from the staff. The walk-about ended in the legendary <a href="http://www.oconnells.fi">O'Connel's Irish Bar</a> to see and partake in Improv Karaoke, something we did not make it to <a href="https://sqroot.eu/2012/finland-international-improv-festival-2012/">the previous year</a>. There was a live band of improvisers and plenty of actors to jump on stage and sing a song about anything. I am a sucker for improvised songs and did not disappoint (ketchup!). The eleven of us sang the Estonian traditional, <em>regilaul</em>, and at some point, a pink bra was produced and neatly put to rest on top of one of the microphones.
+Some of Jaa! ended up on a private-ish city tour with a cheerful volunteer from the staff. The walk-about ended in the legendary <a href="http://www.oconnells.fi">O'Connel's Irish Bar</a> to see and partake in Improv Karaoke, something we did not make it to <a href="{{ site.url }}/2012/finland-international-improv-festival-2012">the previous year</a>. There was a live band of improvisers and plenty of actors to jump on stage and sing a song about anything. I am a sucker for improvised songs and did not disappoint (ketchup!). The eleven of us sang the Estonian traditional, <em>regilaul</em>, and at some point, a pink bra was produced and neatly put to rest on top of one of the microphones.
 
 <h1>Day #2</h1>
 
@@ -68,7 +68,7 @@ My first workshop was with Ryan, an overall nice person and a confident improvis
 </ul>
 
 <h2>Shows</h2>
-<h3><a href="http://finlandimprovfestival.com/jaa/">Improgrupp Jaa!</a> [Estonia]</h3>
+<h3><a href="http://jaa.ee">Improgrupp Jaa!</a> [Estonia]</h3>
 
 ![Jaa]({{ site.url }}/content/2013/06/fiif/header.jpg)
 
@@ -84,7 +84,7 @@ Our format requires intense concentration from the sound guy (having to follow t
 
 <h3><a href="http://www.jadajadaimprov.com/">JadaJada</a> [Finland]</h3>
 
-This was the team most familiar to me, indeed we've had <a href="https://sqroot.eu/2012/two-magical-nights/">some fun times</a> together. The format was a long-form with short-form group games mixed in. As an improviser myself, I mostly always watch improv with insiders eyes and it was interesting to try to identify the games the team organically incorporated. Especially some short, Finnish-accented, unexpected punch lines ("I have a problem.... every Saturday morning... I wake up. [pause]").
+This was the team most familiar to me, indeed we've had <a href="{{ site.url }}/2012/two-magical-nights">some fun times</a> together. The format was a long-form with short-form group games mixed in. As an improviser myself, I mostly always watch improv with insiders eyes and it was interesting to try to identify the games the team organically incorporated. Especially some short, Finnish-accented, unexpected punch lines ("I have a problem.... every Saturday morning... I wake up. [pause]").
 
 <h1>Day #3</h1>
 <h2>Contact Improvisation</h2>
@@ -176,7 +176,7 @@ Jstar introduced a two-person format based on physical space, positions and emot
 
 <h2>Improverted</h2>
 
-Trent sat down with the workshop instructors to discuss improv in their corner of the world. You can listen to the recording (soon) at <a href="http://improverted.com">http://improverted.com</a>.
+Trent sat down with the workshop instructors to discuss improv in their corner of the world. You can listen to the recording (soon) at [Improverted](https://www.facebook.com/improverted).
 
 <h2>Shows</h2>
 <h3><a href="http://www.lamabati.com">Lamabati</a> [Israel]</h3>

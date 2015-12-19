@@ -11,7 +11,6 @@ The main purpose of this post is to serve as a reference to myself. Covers sites
 <h1>Setting up</h1>
 <ul>
 <li>Package manager for PHP: <a href="http://getcomposer.org/">Composer</a></li>
-<li><a href="https://phpfog.com/">PHPFog</a> - Cloud platform for PHP</li>
 <li><a href="https://github.com/">GitHub</a> repository hosting</li>
 </ul>
 <h1>Testing</h1>

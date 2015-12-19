@@ -33,7 +33,7 @@ I found <a href="http://www.parnupostimees.ee/165707/asjad-milleta-kaitsevaes-sa
 <h4>Initial Gear</h4>
 <ul>
 <li><strong>Quality running shoes</strong></li>
-<li><strong><a href="http://global.timex.com/watches/expedition-chrono-alarm-timer-t497509j">Timex Expedition Alarm Watch</a></strong> - Key point, alarm. Waking up on time is really damn important. As well as knowing when you're supposed to be where... and protecting your watch in the rain.</li>
+<li><strong><a href="http://www.amazon.com/Timex-T498969J-Expedition-Chrono-Alarm/dp/B0083XFFLU">Timex Expedition Alarm Watch</a></strong> - Key point, alarm. Waking up on time is really damn important. As well as knowing when you're supposed to be where... and protecting your watch in the rain.</li>
 <li><strong>Extra underwear, socks, shirt</strong> - They don't give you enough to stay reasonably neutral-smelling. Three pairs of underwear and socks, two green shirts should suffice.</li>
 <li><strong>Hygiene products</strong></li>
 <li><strong>Notebook (big and small), pen, pencil, sharpener</strong> - I intend to write a lot. This will be my only entertainment since I couldn't get my hands on a book I wanted to take (lack of time and money) nor can we use the cellphone for more than a few minutes.</li>
@@ -59,4 +59,4 @@ I intended to start training on January, but this didn't go so well. I'm weak in
 
 So here I go, on my way to the reception. Oh, and I have to spend the night outdoors since no transportation goes there so early. Bye.
 
-&raquo; The next month: <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a>
+&raquo; The next month: <a href="{{ site.url }}/2013/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a>

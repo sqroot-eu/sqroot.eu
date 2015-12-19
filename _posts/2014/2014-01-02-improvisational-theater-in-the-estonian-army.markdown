@@ -10,9 +10,9 @@ tags:
 - Improvisational theater
 ---
 
-I discovered improvisational theater a few years ago when <a href="https://sqroot.eu/2011/impro-jaa/">I signed up to an introductory workshop</a> (by <a href="http://jaa.ee">Improgrupp Jaa!</a>, then one of the two existing troupes in Estonia). That experience completely rocked my boat and I was hooked, instantly. By now I'm a somewhat-experienced improviser who tries to learn, laugh and teach whenever the opportunity presents itself.
+I discovered improvisational theater a few years ago when <a href="{{ site.url }}/2011/impro-jaa">I signed up to an introductory workshop</a> (by <a href="http://jaa.ee">Improgrupp Jaa!</a>, then one of the two existing troupes in Estonia). That experience completely rocked my boat and I was hooked, instantly. By now I'm a somewhat-experienced improviser who tries to learn, laugh and teach whenever the opportunity presents itself.
 
-My mandatory eleven months in the military began in <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">July, 2013</a>. This meant quitting my life for a while, including improv - for the first month, anyway.
+My mandatory eleven months in the military began in <a href="{{ site.url }}/2013/first-month-in-the-service-july-2013">July, 2013</a>. This meant quitting my life for a while, including improv - for the first month, anyway.
 
 The idea of starting an improv team in the barracks with a cast of soldiers came as a surprise. It was crazy, it was unheard of and it just happened.
 
@@ -69,7 +69,7 @@ During the SBC, I focused mainly on the fun stuff: different warm-ups, two perso
 
 The result of this was that we played many short scenes, but the scenes themselves could have been better. This was entirely on me and I acknowledged the responsibility.
 
-The fall brought fresh people and I started doing more 'normal' scenes. The first longform we did was a 20-minute Bat, just for ourselves, with the lights on. It turned out really, really well. We've tried structured longform (practice needed) and shorter two-person things - like "When Harry Met Sally" style interview (taught to me by the fantastic <a href="http://www.thebasementtheatre.com/index.php?page=bios&amp;player=jstar">J*</a> @ <a href="https://sqroot.eu/2013/a-week-of-joy-and-laughter-fiif-2013">FIIF 2013</a>) which had all of us holding back tears (Pvt Rk and Sgt Ma in an interview between a writer and a grumpy, unwilling muse).
+The fall brought fresh people and I started doing more 'normal' scenes. The first longform we did was a 20-minute Bat, just for ourselves, with the lights on. It turned out really, really well. We've tried structured longform (practice needed) and shorter two-person things - like "When Harry Met Sally" style interview (taught to me by the fantastic [J*](https://www.facebook.com/jstaratlanta) @ <a href="{{ site.url }}/2013/a-week-of-joy-and-laughter-fiif-2013">FIIF 2013</a>) which had all of us holding back tears (Pvt Rk and Sgt Ma in an interview between a writer and a grumpy, unwilling muse).
 
 I still rush things, maybe not giving an exercise enough time to complete or doing one thing right after another, but I feel this is justified in the context where we can meet for two hours a week, if lucky.
 

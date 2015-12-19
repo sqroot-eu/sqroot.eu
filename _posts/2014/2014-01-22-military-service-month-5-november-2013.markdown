@@ -11,8 +11,8 @@ tags:
 ---
 
 <ul>
-<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/military-service-month-4-october-2013/">Military Service - Month #4 (October 2013)</a></li>
-<li>&raquo; The next month: <a href="https://sqroot.eu/2014/military-service-month-6-december-2013/">Military Service - Month #6 (December 2013)</a></li>
+<li>&laquo; The previous month: <a href="{{ site.url }}/2013/military-service-month-4-october-2013">Military Service - Month #4 (October 2013)</a></li>
+<li>&raquo; The next month: <a href="{{ site.url }}/2014/military-service-month-6-december-2013">Military Service - Month #6 (December 2013)</a></li>
 </ul>
 
 <blockquote>
@@ -29,7 +29,7 @@ The sky promises occasional autumny showers and the weather is cold as we get in
 
 Another weekend, another weekend pass. My hands still smell of weapon oil when I get home, a hundred kilometers from the base. It's good to wear civilian clothes again.
 
-A package from <a href="https://www.sparkfun.com/">Sparkfun Electronics</a> arrived, containing my first Arduino and other DIY/MAKE goodies I can't get from Estonia. NO99's play "<a href="http://www.no99.ee/lavastused.php?nid=85">Kolmapäev</a>" with a lovely long-lost friend makes the evening come alight.
+A package from <a href="https://www.sparkfun.com/">Sparkfun Electronics</a> arrived, containing my first Arduino and other DIY/MAKE goodies I can't get from Estonia. NO99's play "[Kolmapäev](http://no99.ee/lavastused/no54-kolmapaev)" with a lovely long-lost friend makes the evening come alight.
 
 {% picture 2014/01/electronics.jpg alt="Electronics from Sparkfun" %}
 
@@ -123,7 +123,7 @@ We go to the stage, I introduce improv, get a suggestion and we perform a five m
 {% picture gallery 2014/01/improv5.jpg alt="Improv" %}
 {% picture gallery 2014/01/improv6.jpg alt="Improv" %}
 
-See also: <a href="https://sqroot.eu/2014/improvisational-theater-in-the-estonian-army/">Improvisational Theater in the Estonian Army</a>
+See also: <a href="{{ site.url }}/2014/improvisational-theater-in-the-estonian-army">Improvisational Theater in the Estonian Army</a>
 
 Kairit Tuhkanen and dance girls in revealing clothes perform. Men are invited to dance and mingle. I think it a bit cruel that some (the single ones) who haven't been with a girl in god knows how long get this meaningless moment of teasing. I retreat to a nearby coffee shop. Pvt Pr - our medic(s aide) - notices my fever and gets me a place in a warm car for the ride back. He cares.
 
@@ -225,7 +225,7 @@ Tehniliselt polegi mul nööre vaja. Kord sain kahe seljakoti rihmaga hakkama. M
 
 **Disaini uus relv jalaväelasele!**
 
-Lõpetasin just <a href="http://www.apollo.ee/gort-ashryn-enne-viimast-soda.html">Kunnase</a> lugemise. Antiaine-granaadiheitja oleks tõhus. Nagu <a href="http://www.mil.ee/et/kaitsevagi/tehnika/relvad/Galil-SAR">Galil SAR</a>, jämedama toruga. Kergem ning elektroonilis-optilise sihikuga.
+Lõpetasin just [Kunnase](https://www.goodreads.com/book/show/8689190-enne-viimast-s-da) lugemise. Antiaine-granaadiheitja oleks tõhus. Nagu <a href="http://www.mil.ee/et/kaitsevagi/tehnika/relvad/Galil-SAR">Galil SAR</a>, jämedama toruga. Kergem ning elektroonilis-optilise sihikuga.
 
 <hr />
 

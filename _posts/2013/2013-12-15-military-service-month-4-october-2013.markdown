@@ -14,8 +14,8 @@ tags:
 ---
 
 <ul>
-<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/military-service-month-3-september-2013">Military Service - Month #3 (September 2013)</a></li>
-<li>&raquo; The next month: <a href="https://sqroot.eu/2014/military-service-month-5-november-2013/">Military Service - Month #5 (November 2013)</a></li>
+<li>&laquo; The previous month: <a href="{{ site.url }}/2013/military-service-month-3-september-2013">Military Service - Month #3 (September 2013)</a></li>
+<li>&raquo; The next month: <a href="{{ site.url }}/2014/military-service-month-5-november-2013">Military Service - Month #5 (November 2013)</a></li>
 </ul>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6TbJb7XcP1JtB7NOy3AL46" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
@@ -38,7 +38,7 @@ We've taken over the baseball lot for the morning exercise and take it easy, muc
 
 SFC As walked into our room as we were getting ready to sleep. The DSC has always been a thorn in the eye for the officers and he came to take preventive action. The location of each mans phone was checked (we're technically not allowed to use it at night) and some got busted. The room is divided by a wall of closets from the center and he started from the others side, which gave me the opportunity to make a few necessary corrections. All the drivers are on probation for a week, the first misconduct means no weekend pass for the entire unit.
 
-Twenty volunteers went to celebrate the <a href="http://www.tallinnatv.eu/index.php?id=9887">birthday of the 21nd school</a> at the Tallinn song festival grounds, my first visit there. Also a first, being conducted by a famous and beloved conductor and singing under the dome.
+Twenty volunteers went to celebrate the birthday of the 21nd school at the Tallinn song festival grounds, my first visit there. Also a first, being conducted by a famous and beloved conductor and singing under the dome.
 
 ![Singing group photo]({{ site.url }}/content/2013/12/singing.jpg)
 
@@ -184,7 +184,7 @@ Another off-road track features sand - lots of it. We learn to keep the vehicle 
 
 ![In the woods]({{ site.url }}/content/2013/12/cars_woods_greenery.jpg)
 
-We've driven on hills and in sand, the next challenge was mud. Lots and lots of mud. I'd purchased a <a href="http://www.divoom.com/product/ifit-1.html">portable speaker</a> and enjoyed music while driving a jeep through holes and water and mud.
+We've driven on hills and in sand, the next challenge was mud. Lots and lots of mud. I'd purchased a <a href="http://portables.about.com/od/headphone1/fr/Review-Divoom-Ifit-1-Rechargeable-Speaker.htm">portable speaker</a> and enjoyed music while driving a jeep through holes and water and mud.
 
 ![In the mud]({{ site.url }}/content/2013/12/car_mud.jpg)
 

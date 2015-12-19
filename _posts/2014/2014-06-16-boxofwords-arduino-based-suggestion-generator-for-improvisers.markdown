@@ -51,7 +51,7 @@ comments:
 
     However, I'd like to clarify the purposes of the project. The goal wasn't to earn money, fame or distribute it to a wider audience. I took those factors into account when planning this. I wanted to create something unique, something that took considerable effort to create, something 'real' in the sense that you could hold it in your hand and think, "damn, there's some affection right there".
 
-    Quoting from the [Teensy Moonica](https://sqroot.eu/2013/teensy-moonica-the-8-legged-gift-for-a-developer/) project:
+    Quoting from the [Teensy Moonica]({{ site.url }}/2013/teensy-moonica-the-8-legged-gift-for-a-developer/) project:
 
     "Money can come and go, but my time on this planet is finite. How I spend my time, or who I spend it with means more than anything else in my universe. From at least the selfish view, giving my time is the most valuable gift I can give." (S. Berkun)
 
@@ -59,7 +59,7 @@ comments:
 
     Every script kiddie can make an application these days. Codecademy is growing in popularity, as are code generation tools. Electronics is not that far yet and requires a wider skill-set, both intellectual and physical, hence looking even better on ones resume.
 
-    I disagree strongly to the notion that making more complex circuits than an ON / OFF switch or a temperature reader is all that it's economical for a amateur user to do. There are some pretty damn impressive projects (http://knowable.org/explore) that utilize the power of hackable hardware modules. Everyone has their motivation, be it learning, creating, teaching - the fact of the matter is that even though it might be doable in software there are valid reasons to take the road less traveled by. And I think that's awesome.
+    I disagree strongly to the notion that making more complex circuits than an ON / OFF switch or a temperature reader is all that it's economical for a amateur user to do. There are some pretty damn impressive projects (http://knowable.org) that utilize the power of hackable hardware modules. Everyone has their motivation, be it learning, creating, teaching - the fact of the matter is that even though it might be doable in software there are valid reasons to take the road less traveled by. And I think that's awesome.
 
     Sorry - the links are meaningless to me without context. Wire strippers? - already on my shelf.
 - id: 2720
@@ -107,7 +107,7 @@ The purpose of the project is to offer randomized word suggestions during an imp
 
 BoxOfWords has a memory card reader, control buttons and a small LCD screen. The improviser selects his preferred word file (emotions, locations, professions...) and can call up new randomized suggestions to the LCD screen with a press of a button.
 
-The project was built as a present to <a href="http://http://www.trentasaurus.com/">Trent Pancy</a>, the organizer of the <a href="http://finlandimprovfestival.com">Third Annual Finland International Improv Festival</a>.
+The project was built as a present to [Trent Pancy](http://www.trentasaurus.com), the organizer of the <a href="http://finlandimprovfestival.com">Third Annual Finland International Improv Festival</a>.
 
 This was my second successfully completed production electronics project and the first to include a custom-made PCB and run on batteries.
 
@@ -136,7 +136,7 @@ I learned a lot through the project. Here are the things I found most challengin
 
 <h2>Power</h2>
 
-Portable projects need a power source. I decided to use 4xAA batteries. They're cheap (compared to Li-ion or power banks), offer larger capacity than a 9V battery and output just the right voltage (6V). An <a href="http://letsmakerobots.com/node/3880">article on Let's Make Robots</a> taught me how to regulate that voltage to a stable 5.0 volts using the Lm2940ct-5 low-dropout voltage regulator. I soldered my first power regulation circuitry.
+Portable projects need a power source. I decided to use 4xAA batteries. They're cheap (compared to Li-ion or power banks), offer larger capacity than a 9V battery and output just the right voltage (6V). An article on [Let's Make Robots](http://letsmakerobots.com) taught me how to regulate that voltage to a stable 5.0 volts using the Lm2940ct-5 low-dropout voltage regulator. I soldered my first power regulation circuitry.
 
 {% picture 2014/06/breadboard.jpg alt="On breadboard" %}
 
@@ -167,7 +167,7 @@ The file contains two runtime settings and human-readable titles for all of the 
 
 <h2>The PCB</h2>
 
-Soldering the PCB was a challenge on its own. I've tried to make a PCB before, failed twice, <a href="https://sqroot.eu/2014/attiny85-melody-module/">succeeded once</a>. The task involves working with delicate parts, lots of small wires and tin. There's always a chance for something shorting.
+Soldering the PCB was a challenge on its own. I've tried to make a PCB before, failed twice, <a href="{{ site.url }}/2014/attiny85-melody-module">succeeded once</a>. The task involves working with delicate parts, lots of small wires and tin. There's always a chance for something shorting.
 
 I spent a whole day with preparing the wires (instead of soldering ribbon cable directly to the board I opted for a more modular, but complex solution and used headers) and soldering the parts together. At the end of the day, I was spent but victorious: all of the connections worked, there were no shorts and I had my spiders-nest of a PCB, ready for action.
 
@@ -270,7 +270,7 @@ I'm satisfied with the amount of knowledge I got from this project. The code and
 
 <h2>Links</h2>
 <ul>
-<li><a href="http://knowable.org/projects/97">Box Of Words @ Knowable</a></li>
+<li><a href="http://knowable.org">Box Of Words @ Knowable</a></li>
 <li><a href="https://github.com/anroots/box-of-words">GitHub (source code and schematics)</a></li>
 <li><a href="http://finlandimprovfestival.com">Third Annual Finland International Improv Festival</a></li>
 <li><a href="http://improv.ee/in-english/">Improvisational Theater in Estonia</a></li>

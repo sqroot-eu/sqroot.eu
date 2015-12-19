@@ -16,4 +16,4 @@ Oleks tahtnud k&otilde;vasti h&uuml;&uuml;da, et: &quot;Ei Kasuta Windowsit!&quo
 
 Sooviksin n&auml;ha iga litsentsiga nn. &quot;Dumbed Down&quot; versiooni, st. l&uuml;hendatud, kokkuv&otilde;tlikult ja inimkeeles (nendele, kes ei oma kraadi juuras) kirjutatud punkte (&quot;Thou shall not share Your copy of MS Windows&quot;).
 
-Lisam&otilde;tlemist: [patendid k&otilde;ikjal](http://webshop.ffii.org) ja [GPL vs Microsoft&#039;s EULA](http://www.techquark.com/2008/11/gpl-vs-microsoft-eula.html).
+Lisam&otilde;tlemist: [patendid k&otilde;ikjal](http://webshop.ffii.org) ja [GPL vs Microsoft&#039;s EULA](http://itstudent.org/blog/?p=593).

@@ -9,7 +9,7 @@ tags:
 - design
 - website
 ---
-Inspired by [threewords.me](http://threewords.me), I thought it would be a good idea to push the thought a bit further.
+Inspired by threewords.me, I thought it would be a good idea to push the thought a bit further.
 
 The website should look Web 2.0-ish, with a clear and big GUI, AJAX and simple eye-candy. The website let&#039;s the user to setup a page where people with the link are presented with a list (grid) of checkboxes with different adjectives (some pre-defined, users can add more to the database). These visitors pick adjectives that, in their opinion, best describe the user whose page they are currently viewing.
 

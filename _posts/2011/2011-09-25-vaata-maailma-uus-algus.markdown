@@ -40,5 +40,5 @@ Kogemusest endast: väga mõnus oli kamba IT-inimestega nõnda arvutitega mässa
 * <a href="http://www.reporter.ee/2011/09/23/korrastatud-arvutid-annetatakse-abivajajatele/">Reporter: Korrastatud arvutid annetatakse abivajajatele (<strong>video</strong>)</a>
 * <a href="http://www.vaatamaailma.ee/?p=562">Teemakohane uudis Vaata Maailma kodulehel</a>
 * <a href="https://picasaweb.google.com/114276696176425754713/20110923UusAlgusReede?authkey=Gv1sRgCK34j7qH6v6phwE">Pildid - Reede (Kristel Aija)</a>
-* <a href="http://www.itcollege.ee/2011/09/27/6240/">Nädalavahetusel toimus 200 arvuti korrastamistalgud (EIK)</a>
+* <a href="http://www.itcollege.ee/blog/2011/09/27/6240/">Nädalavahetusel toimus 200 arvuti korrastamistalgud (EIK)</a>
 * <a href="https://picasaweb.google.com/114276696176425754713/20110924UusAlgusLaupaev?authkey=Gv1sRgCOiFu9HTncTc2gE">Pildid - Laupäev (Kristel Aija)</a>

@@ -22,7 +22,7 @@ On why I did not accept the existing "solutions"... It might just be the documen
 
 I'm using my own Assets manager and API modules at the moment, but ideally, I'd like to move on to something with enough community support. Something quality-ish. Something I don't have to spend time in to re-invent.
 
-Please, Kohana people: the framework has potential, I wouldn't be using, <a href="http://git.diara.ee/khk-independent/wiki/Home">teaching</a> and advocating its use otherwise... but, please: let's focus on getting the documentation in order and making sure the basics are well-satisfied in the form of good, supported modules.
+Please, Kohana people: the framework has potential, I wouldn't be using, teaching and advocating its use otherwise... but, please: let's focus on getting the documentation in order and making sure the basics are well-satisfied in the form of good, supported modules.
 
 In my own part, I'll do what I can to make that happen.
 

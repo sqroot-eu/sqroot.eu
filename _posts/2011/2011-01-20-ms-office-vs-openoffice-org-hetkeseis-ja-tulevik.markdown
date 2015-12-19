@@ -37,7 +37,6 @@ Oluline pole br&auml;ndide omavaheline v&otilde;itlus &ndash; konkurents on hea!
 
 * [http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8](http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8)
 * [http://en.wikipedia.org/wiki/Lazy_User_Model](http://en.wikipedia.org/wiki/Lazy_User_Model)
-* [http://money.cnn.com/magazines/moneymag/bestjobs/2010/snapshots/1.html](http://money.cnn.com/magazines/moneymag/bestjobs/2010/snapshots/1.html)
 * [http://www.computerworld.com/s/article/9202638/Putin_to_put_Russian_government_on_Linux_by_2015](http://www.computerworld.com/s/article/9202638/Putin_to_put_Russian_government_on_Linux_by_2015)
 * [http://arstechnica.com/open-source/news/2009/03/french-police-saves-millions-of-euros-by-adopting-ubuntu.ars](http://arstechnica.com/open-source/news/2009/03/french-police-saves-millions-of-euros-by-adopting-ubuntu.ars)
 * [http://www.isoc-ny.org/?p=1338](http://www.isoc-ny.org/?p=1338)

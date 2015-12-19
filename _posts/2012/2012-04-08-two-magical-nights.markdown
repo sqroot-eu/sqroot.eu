@@ -33,7 +33,7 @@ comments:
 
 ![JadaJada poster]({{ site.url }}/content/2012/04/poster.png)
 
-Trent, the awesome Chicago / Finland improviser, contacted Improgrupp Jaa! a month or two back and made a suggestion that made me giddy: namely, another workshop (<a href="https://sqroot.eu/2011/inspiring-improv-with-improgrupp-jaa-and-trent-pancy/">read about the previous one here</a>) for our actors and his teams - <a href="http://www.jadajadaimprov.com/">JadaJada</a> - first international improv show.
+Trent, the awesome Chicago / Finland improviser, contacted Improgrupp Jaa! a month or two back and made a suggestion that made me giddy: namely, another workshop (<a href="{{ site.url }}/2011/inspiring-improv-with-improgrupp-jaa-and-trent-pancy">read about the previous one here</a>) for our actors and his teams - <a href="http://www.jadajadaimprov.com/">JadaJada</a> - first international improv show.
 
 > Trent Pancy is an American Actor and Improviser living in Tampere, Finland. Trent teaches and performs Improv in Professional and Recreational settings throughout Northern Europe and the US. - [trentasaurus.com](http://www.trentasaurus.com)
 
@@ -46,7 +46,7 @@ Woke up at eleven - after being without sleep for over 30 hours the day before -
 There were around twelve of us present - including the guys from the army and Tartu -, no one wanted to miss this opportunity. The atmosphere was high-energy, professional and benevolent, a somewhat different experience for me since all of us had had at least some contact with improv and knew what they were doing. In fact, Trent couldn't even finish the introduction of the first warm-up game, we had already mastered it and just went with it.
 
 We'd chosen to focus the workshop on the classic "<a href="http://en.wikipedia.org/wiki/Harold_(improvisation)">Harold</a>" long-form technique and as a side note, some singing. The first half of the workshop went into exploring scene building and character work, creating scenic environments and gathering ideas from the "idea hopper". I can only say that we improved our skills on initial location building, the rest you can see when you visit our semi-regular shows. The "classic" Harold incorporates some structure and we'd chosen to ignore it up until now... but now that department got some improvement.
-Even improvisers have brain-freezes sometimes. I wanted to say <a href="http://i.jaa.ee">I wrote an app for that</a>, but the topic seemed irrelevant at the time.
+Even improvisers have brain-freezes sometimes. I wanted to say [I wrote an app for that](https://github.com/anroots/inspire), but the topic seemed irrelevant at the time.
 
 Character-work was... interesting. It's always nice to see a scene where emotional depth is in involved. An exercise involving just that was practiced. Namely, what if, instead of 3 minutes, your scene would last half an hour... because that, apparently, is what they do with extreme skill in Chicago. So taking ones time was the goal. You have two characters on stage, each having a character "filter" and you have to interact, not bluntly, not fast, but by developing the relationship to its highest point, like they do in traditional theater.
 
@@ -75,7 +75,7 @@ The improv filled day ended on a positive note in a local pub.
 <h1>Saturday, 7th of April</h1>
 
 The day started with around two hours of musical improv with Rauno and Martin from 3pm. Then, onwards to <a href="http://no99.ee">NO99</a> cellar that would serve as the venue for the evening show for JadaJada. Some of the others were already keeping busy, with Rahel looking very much in charge and in her environment.
-The most joyous sight welcomed the newly arrived company: JadaJada, warming up on stage. The team did a number of familiar warm-up exercises such as You Are The Master, but with such fluidity and energy that was a joy to watch. At one point, <a href="http://www.jadajadaimprov.com/samuel-teini/">Samuel</a>, the music director, said that he'd always wanted to try flying so the group lifted him up and made his body do a full 360 spin... and sometime later/earlier, the actors scattered, singing "This is how we usually start up" in different pitches/variations.
+The most joyous sight welcomed the newly arrived company: JadaJada, warming up on stage. The team did a number of familiar warm-up exercises such as You Are The Master, but with such fluidity and energy that was a joy to watch. At one point, Samuel, the music director, said that he'd always wanted to try flying so the group lifted him up and made his body do a full 360 spin... and sometime later/earlier, the actors scattered, singing "This is how we usually start up" in different pitches/variations.
 
 Siret, our sassy actor, was sent to the ticketing duties since, apparently, she was a girl and looked pretty. Discrimination! The first guests arrived and most of the organizers grabbed front-row seats (on the floor so don't blame us, you at the tables). All in all, about half of the seats we'd planned to sell out were taken. But hey, it's Estonia and the event was a first for both JadaJada and the entire country: to the best of my knowledge, no other foreign, professional improv team has performed here before Trent and his crew.
 
@@ -95,7 +95,7 @@ Not the end, though. Finland International Improv Festival is coming in about a 
 
 There's something addictive in the positivity of the <a href="http://www.trentasaurus.com/">Trentasaurus</a>. You simply cannot stay negative/passive during one of his workshops... and you do learn a lot there, nevermind your previous level.
 
-The most enjoyable moments of the weekend was not our show, nor JadaJada's, but the spontaneous songs accompanied by Trent/<a href="http://www.jadajadaimprov.com/samuel-teini/">Samuel</a> on the guitar. You know how conflict is solved in improviser teams? With a duet-battle. Senja's singing is brilliant and I'd very much like to hear more of it, which I maybe will, at the <a href="http://www.finlandimprovfestival.com/">FIIF</a>.
+The most enjoyable moments of the weekend was not our show, nor JadaJada's, but the spontaneous songs accompanied by Trent/ Samuel on the guitar. You know how conflict is solved in improviser teams? With a duet-battle. Senja's singing is brilliant and I'd very much like to hear more of it, which I maybe will, at the <a href="http://www.finlandimprovfestival.com/">FIIF</a>.
 I've probably made a lot of grammar/fact mistakes in the above text and possibly misspelled some names. Please use the comments form below to fix them (thanks!). Thanks to everyone involved for the amazing two days and see you @ the <a href="http://www.finlandimprovfestival.com/">FIIF</a>.
 
 <h2>Gallery</h2>

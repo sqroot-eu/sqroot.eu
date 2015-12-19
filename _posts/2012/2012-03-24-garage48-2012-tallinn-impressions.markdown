@@ -16,9 +16,9 @@ header-img: content/2012/03/g48-badge.jpg
 ---
 Garage48 Tallinn Music 2012 - my third participation in the foundation's startup weekends. This post was written on three subsequent nights at around 1am and expresses my personal opinion of the events of the weekend.
 <strong>What is Garage48 Tallinn Music 2012?</strong>
-> Garage48 is a weekend hackathon, where people pitch ideas, form teams and build prototypes or sometimes full service over the weekend. This time we partnered with <a href="http://www.tallinnmusicweek.ee/" target="_blank">Tallinn Music Week</a>, so we have a bigger focus on Music related ideas and our mentors are mostly from Music industry. But you can pitch all kinds of ideas, also outside of music industry. - <a href="http://garage48.org/tallinn/faq">http://garage48.org/tallinn/faq</a>
+> Garage48 is a weekend hackathon, where people pitch ideas, form teams and build prototypes or sometimes full service over the weekend. This time we partnered with <a href="http://www.tallinnmusicweek.ee/" target="_blank">Tallinn Music Week</a>, so we have a bigger focus on Music related ideas and our mentors are mostly from Music industry. But you can pitch all kinds of ideas, also outside of music industry. - <a href="http://garage48.org">http://garage48.org</a>
 <h2>Friday, 23. March (23:50)</h2>
-Arrived at the venue (Tehnopolis Ülemiste, also the host of Garage48 Tallinn 2011 - <a href="https://sqroot.eu/2011/garage48-2011-tallinn-recap-reflection/">read my post about THAT weekend</a>) right after work. Deadlines with school and work are both tight at the moment and I decided to cram in a weekend of sleeplessness. Oh, well...
+Arrived at the venue (Tehnopolis Ülemiste, also the host of Garage48 Tallinn 2011 - <a href="{{ site.url }}/2011/garage48-2011-tallinn-recap-reflection">read my post about THAT weekend</a>) right after work. Deadlines with school and work are both tight at the moment and I decided to cram in a weekend of sleeplessness. Oh, well...
 The venue looked emptier than a year ago, with some vacant seats - I guess many of the previous startups really did start up and the authors are now busy conquering the world. Traditional intro, traditional, brutal pitching rounds with 90 seconds to convince the audience of the success of the idea.
 The usual story - some pitchers did it well, some not so much.
 <blockquote>
@@ -38,7 +38,7 @@ As for the project I chose: introduced at Garage48 blog as
 <em>Author: Janno &amp; NO99</em>
 <em>Problem: What if you miss a show that you wanted to see or want to buy a ticket in the last moment</em>
 <em>Solution: App to buy a ticket in the last moment - get a priority seating in theatre</em>
-- <a href="http://garage48.org/blogger/ideas-pitched-at-garage48-tallinn-music">http://garage48.org/blogger/ideas-pitched-at-garage48-tallinn-music</a> (<em>read other ideas there</em>)
+
 As it turns out, the lead developer is doing Java over at <a href="http://codeborne.com/">codeborne</a> and apparently, as of today, so am I. That is going to be an interesting experience, to put it mildly. Considering that the only competence in Java is my two mandatory college subjects (and what is Play?). However, I'm not concerned and take it as a challenge - I'm sure I'll either be a crying mess or a somewhat competent Java programmer by Sunday evening.
 First day - success. The team parted with excerpts of the song "<a href="http://www.youtube.com/watch?v=lwS_YDzxH3M">Yesterday</a>" (<em>some might call this an ominous sign, but I know better</em>) and I'm now hoping to catch a solid six hours of sleep for the upcoming marathon. Should be enough for anyone*... right?
 <em>(*) - <a href="http://www.wired.com/politics/law/news/1997/01/1484">http://www.wired.com/politics/law/news/1997/01/1484</a></em>
@@ -52,7 +52,7 @@ Arrived <a href="https://twitter.com/#!/codeborne" rel="nofollow">@<strong>code
 Anyway, the environment and framework base was already setup. We had decided to use Java and <a href="http://www.playframework.org/">Play</a> the previous night (I was fluent in PHP, Alvar in Java) and naturally, I knew next to nothing of them. So, the first few hours went into observation and finally, I caught on... somewhat... and dared to take control of the input devices.
 Development, development, lunch, development, meeting, supper, development. Some fresh people arrived and got to work on design and front-end.
 ![Punkt99]({{ site.url }}/content/2012/03/punkt99.jpg)
-Sometime after lunch and before supper, Meelis Lang arrived and made the day more awesome. Two mentors popped by to comment on the idea. We set up a demo server (<a href="http://punkt.no99.ee">http://punkt.no99.ee</a>) and things seemed to go along. Still a lot to do, though, lot's of back-end features to implement... And to do that, I ought to wake at 5am tomorrow.
+Sometime after lunch and before supper, Meelis Lang arrived and made the day more awesome. Two mentors popped by to comment on the idea. We set up a demo server (http://punkt.no99.ee) and things seemed to go along. Still a lot to do, though, lot's of back-end features to implement... And to do that, I ought to wake at 5am tomorrow.
 So, curtains for today. Come see us in a few hours - the final presentation is public (details on <a href="http://garage48.org">garage48.org</a>) or live-stream it from the webpage.
 <h2>Sunday, 25. March (23:55)</h2>
 Woah! - another Garage48 weekend is behind me. Exhausted, but happy. Been up from 5...no, 6am (the clock was turned and I slept longer than anticipated).

@@ -11,7 +11,7 @@ tags:
 - school
 ---
 This post marks the end of my 3rd semester in the <a href="http://itcollege.ee">best IT university in Estonia</a>. The subject? Programming in C#. The exam? Awesome.
-What ever do I mean? How could an exam be anything but excruciating? Let me explain by telling you why I became (<a href="https://sqroot.eu/2011/be-a-developer-not-a-programmer/">more precicely, want to become</a>) a developer.
+What ever do I mean? How could an exam be anything but excruciating? Let me explain by telling you why I became (<a href="{{ site.url }}/2011/be-a-developer-not-a-programmer">more precicely, want to become</a>) a developer.
 Development is a <span style="text-decoration: underline">creative</span> field and as with any other similar subject - be it painting, composing or even cooking - offers a certain amount of satisfaction, both during and after a problem is tackled.
 It took me a while to figure this out. Skip back half a decade to my high-school years. I kept putting off studying Russian in favour of solving math problems by writing algorithms (the odd thing was that I wasn't  really fond of math during the time). Thinking back, it's obvious why I did it. The process of problem-solving was far more interesting and rewarding than all those pesky (<em>useless</em>) grammar rules or even the end result, the algorithm.
 Passion, of course, changes everything: dull problems become exciting and the goal changes from the big finish to the journey.

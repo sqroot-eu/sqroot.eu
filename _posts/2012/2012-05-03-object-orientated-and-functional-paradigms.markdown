@@ -14,7 +14,7 @@ I've been writing code for well over half a decade now... and I feel like the jo
 [It's also a hometask for <a href="https://itcollege.ois.ee/subject/view?subject_id=127">I230</a>]
 
 <h2>Definitions</h2>
-Almost any software project can be classified as functional or object-orientated. I say almost, because sometimes, the lines tend to get a little bit <a title="Wordpress has both classes and function libraries" href="http://core.svn.wordpress.org/trunk/wp-includes/">blurry</a>, with both methodologies used in conjunction.<br style="clear: both;" /><br />
+Almost any software project can be classified as functional or object-orientated. I say almost, because sometimes, the lines tend to get a little bit blurry, with both methodologies used in conjunction.
 
 > In computer science, functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids state and mutable data. - <a href="http://en.wikipedia.org/wiki/Functional_programming">Wikipedia</a>
 
@@ -41,9 +41,9 @@ Such complex projects need a level of modularity and abstraction. OO concepts su
 
 Speaking of larger systems (in terms of load): functional software tends to be (but not always!) faster and able to handle more load. An example: frameworks are often object-orientated (Kohana, CodeIgniter, .NET...), but the drawback is memory usage.
 
-> I may lose out in development time up to 50% compared to someone developing the same solution without Framework, but I will end up with a system that can easily be hundred times as fast, if not more. - <a href="https://sqroot.eu/2011/be-a-developer-not-a-programmer/">Kristo Vaher</a>
+> I may lose out in development time up to 50% compared to someone developing the same solution without Framework, but I will end up with a system that can easily be hundred times as fast, if not more. - <a href="{{ site.url }}/2011/be-a-developer-not-a-programmer">Kristo Vaher</a>
 
-<em>[Interesting video lecture (in Estonian): <a href="http://devclub.ee/lugu/video/erlang-taavi-talvik">Taavi Talvik speaks about Erlang</a>, a resiliant and fast functional programming language.]</em>
+<em>[Interesting video lecture (in Estonian): [Taavi Talvik speaks about Erlang](https://vimeo.com/40120636), a resiliant and fast functional programming language.]</em>
 
 Execution speed may well be the determining factor of a paradigm choice for a project. When you're building an API that needs to scale well, you'll probably put performance first and don't want to "spend" memory for storing instances of classes in memory. Again, that doesn't mean Object-Orientated paradigms fail at API building - untrue.
 
@@ -70,5 +70,5 @@ Both object-orientated and functional paradigms have their strengths and weaknes
 <li><a href="http://www.catb.org/~esr/faqs/hacker-howto.html#believe2">http://www.catb.org/~esr/faqs/hacker-howto.html#believe2</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Functional_programming">http://en.wikipedia.org/wiki/Functional_programming</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Object-oriented_programming">http://en.wikipedia.org/wiki/Object-oriented_programming</a></li>
-<li><a href="https://sqroot.eu/2011/be-a-developer-not-a-programmer/">https://sqroot.eu/2011/be-a-developer-not-a-programmer/</a></li>
+<li><a href="{{ site.url }}/2011/be-a-developer-not-a-programmer">{{ site.url }}/2011/be-a-developer-not-a-programmer/</a></li>
 </ol>

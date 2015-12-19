@@ -52,7 +52,7 @@ The Python script is <a href="https://gist.github.com/anroots/4988673">on GitHub
 
 <h2>Advanced stuff</h2>
 
-Connect this to <a href="https://www.toggl.com">Toggl</a> <a href="https://www.toggl.com/public/api">API</a> to record your Pomodoros.
+Connect this to <a href="https://www.toggl.com">Toggl</a> [API](https://github.com/toggl/toggl_api_docs) to record your Pomodoros.
 
 ![Pomodoro on a breadboard]({{ site.url }}/content/2013/02/pomodoro-breadboard.jpg)
 

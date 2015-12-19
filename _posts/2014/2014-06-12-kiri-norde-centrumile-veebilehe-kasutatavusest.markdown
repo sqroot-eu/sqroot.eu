@@ -16,7 +16,7 @@ Leppisin sõbraga kokku, et kohtume Norde Centrumi ees. Ma ei ole Tallinnas üle
 
 See osutus aga suhteliselt võimatuks. Saabusin kodulehele lihtsa eesmärgiga: "Leia Norde Centrumi aadress", kuid seda pole kuskil kirjas. Esimene idee: "Kontakid" link. Tore, telefon, epost... aga kaart või jumal hoia, aadresski... ei. Lehe jaluses - samuti mitte.
 
-Kolasin siis sihitult linkide all ringi, lootuses infokildu leida. Peale minutilist otsimist nägin "<a href="http://www.nordecentrum.ee/et/majajuht/kuidas-kohale-tulla">Kuidas kohale tulla</a>". Suurepärane! Klick - HTTP 404! (lehte ei leitud). Kurat.
+Kolasin siis sihitult linkide all ringi, lootuses infokildu leida. Peale minutilist otsimist nägin "Kuidas kohale tulla". Suurepärane! Klick - HTTP 404! (lehte ei leitud). Kurat.
 
 Tol hetkel ütles kannatus üles, navigeerisin Google Maps lehele ja trükkisin sisse Norde Centrum. Sain hetkega soovitud informatsiooni.
 

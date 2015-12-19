@@ -9,7 +9,7 @@ tags:
 - Whose Line Is It Anyway?
 ---
 
-I recently started rewatching my favourite moments of [Whose Line is it Anyway](http://www.imdb.com/title/tt0094580), an improv comedy show hosted by [Drew Carey](http://www.myspace.com/everything/drew-carey).
+I recently started rewatching my favourite moments of [Whose Line is it Anyway](http://www.imdb.com/title/tt0094580), an improv comedy show hosted by [Drew Carey](https://en.wikipedia.org/wiki/Drew_Carey).
 
 One of the games was titled "questions only" in which the "contestants" tried to outwit each other with questions that would force the opponent to answer with a sentence. The original video can be seen below.
 

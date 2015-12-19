@@ -48,7 +48,7 @@ Noored jagunesid tiimidesse ja hakkasid kooliga seotud juba valmis lahendusi goo
 
 ![Seikleja]({{ site.url }}/content/2012/03/ank.png)
 
-Algas öö põnevaim osa: IT-lahenduse leidmine. Kokku oli neli tiimi ja neli mentorit (noorsootöötajad, IT-tudengid), kes noortele ideid ja juhiseid jagasid. Oh, kui asja ette läk minu <a href="https://sqroot.eu/2012/garage48-2012-tallinn-impressions/">Garage48</a> kogemus, sest sisuliselt olid üritused väga sarnased: tuli välja mõelda idee, lahendus ning põhjused, miks ja kuidas see töötama peaks. Sain jagada nõu nii turundusest, arhitektuurist, esitlusest. Noored olid taibukad ja haarasid mõtetest kiiresti kinni.
+Algas öö põnevaim osa: IT-lahenduse leidmine. Kokku oli neli tiimi ja neli mentorit (noorsootöötajad, IT-tudengid), kes noortele ideid ja juhiseid jagasid. Oh, kui asja ette läk minu <a href="{{ site.url }}/2012/garage48-2012-tallinn-impressions">Garage48</a> kogemus, sest sisuliselt olid üritused väga sarnased: tuli välja mõelda idee, lahendus ning põhjused, miks ja kuidas see töötama peaks. Sain jagada nõu nii turundusest, arhitektuurist, esitlusest. Noored olid taibukad ja haarasid mõtetest kiiresti kinni.
 
 ![Rakendus]({{ site.url }}/content/2012/03/rakendus.jpg)
 
@@ -90,5 +90,5 @@ Viimistletud idee presenteeriti teistele noortekeskustele ning üks võistkond t
 <li>Start IT : <a href="http://startit.ee/it-oo">http://startit.ee/it-oo</a></li>
 <li>Kambja Noortekeskus: <a href="https://www.facebook.com/pages/Kambja-Noortekas/102112849864986?sk=wall&amp;filter=12">https://www.facebook.com/pages/Kambja-Noortekas/102112849864986?sk=wall&amp;filter=12</a></li>
 <li>IT Kolledž: <a href="http://www.itcollege.ee/blog/2012/03/30/tana-algab-it-oo/">http://www.itcollege.ee/blog/2012/03/30/tana-algab-it-oo/</a></li>
-<li>IT ÖÖ 2013, Roela: <a href="https://sqroot.eu/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-roela/">https://sqroot.eu/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-roela/</a></li>
+<li>IT ÖÖ 2013, Roela: <a href="{{ site.url }}/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-roela">{{ site.url }}/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-roela/</a></li>
 </ul>

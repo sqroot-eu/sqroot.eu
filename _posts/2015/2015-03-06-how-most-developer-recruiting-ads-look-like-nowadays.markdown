@@ -5,7 +5,7 @@ category: Software Development
 
 The software development industry is full of buzz-words. It seems that the more you use them in your recruitment ads, the cooler and more tech-savvy you are.
 
-Here's my list of extracted "cool phrases" from Pipedrive's "[Looking for a Back-End Developer](http://blog.pipedrive.com/2015/03/back-end-developer)" text.
+Here's my list of extracted "cool phrases" from Pipedrive's "Looking for a Back-End Developer" text.
 
 * best sales software
 * growing at a crazy speed

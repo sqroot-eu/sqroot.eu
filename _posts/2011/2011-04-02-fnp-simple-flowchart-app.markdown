@@ -20,7 +20,7 @@ At first, the idea was to do it in Ruby, for learning purposes, and in much larg
 The project includes some CSS and image files, a PHP script that outputs JSON data with flowchart questions+answers and a HTML template with minimal jQuery code to retrieve JSON from the PHP file.
 
 
-[How Men And Women Argue](http://www.maxim.com/amg/humor/stupid-fun/83602/how-men-women-argue.html) was chosen as a base to work on. Total time spent: ~2hrs. The questions and answers are in a PHP array (ideally you'd want to involve a database for that). The code (excluding used 3rd party CSS) is released under [Don't be a Dick Public Licence](http://philsturgeon.co.uk/code/dbad-license).
+[How Men And Women Argue](http://www.maxim.com/amg/humor/stupid-fun/83602/how-men-women-argue.html) was chosen as a base to work on. Total time spent: ~2hrs. The questions and answers are in a PHP array (ideally you'd want to involve a database for that). The code (excluding used 3rd party CSS) is released under [Don't be a Dick Public Licence](http://www.dbad-license.org).
 
 
 So, without further ado...

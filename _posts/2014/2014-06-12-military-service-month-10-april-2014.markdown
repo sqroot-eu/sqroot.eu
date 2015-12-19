@@ -10,7 +10,7 @@ tags:
 ---
 
 <ul>
-<li>« The previous month: <a href="https://sqroot.eu/2014/military-service-month-9-march-2014/">Military Service - Month #9 (March 2014)</a></li>
+<li>« The previous month: <a href="{{ site.url }}/2014/military-service-month-9-march-2014">Military Service - Month #9 (March 2014)</a></li>
 <li>» The next month: <a href="{{ site.url }}/2015/military-service-month-11-may-2014">Military Service - Month #11 (May 2014)</a></li>
 </ul>
 <h1>Week #40 (01 - 06 of April)</h1>
@@ -116,9 +116,9 @@ The last assignment is a shooting competition, fifteen rounds, 150, 100 and 50 m
 
 Every squad got a cake (I reject my piece, I'm still angry at the SBC) and a 72 hour weekend pass. We get two longer weekend passes because our company doesn't get the extra vacation before Spring Storm. They justify it by saying we need to practice more. Practice what, I ask? Raising the mast? Switching positions? We've done this <strong>so many times</strong> already! So, when others are enjoying a week of vacation, we'll be out in the field ticking (or jumping) in our NODEs.
 
-I voluntarily delay my weekend pass for an hour, pvt Re cuts my hair: there's this <a href="https://sqroot.eu/2013/katriinile/">awesome woman</a> I'm schedule to meet and I want to look soldierly.
+I voluntarily delay my weekend pass for an hour, pvt Re cuts my hair: there's this <a href="{{ site.url }}/2013/katriinile">awesome woman</a> I'm schedule to meet and I want to look soldierly.
 
-Most of the weekend passes at the robotics club with work on <a href="http://knowable.org/projects/97">my present</a> to the FIIF 2014 festival. The long-expected meeting didn't happen.
+Most of the weekend passes at the robotics club with work on <a href="http://knowable.org">my present</a> to the FIIF 2014 festival. The long-expected meeting didn't happen.
 
 <h1>Week #42 (14 - 20 of April)</h1>
 

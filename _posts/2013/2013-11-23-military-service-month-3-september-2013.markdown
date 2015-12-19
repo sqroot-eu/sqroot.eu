@@ -35,8 +35,8 @@ comments:
 ---
 
 <ul>
-<li>« The previous month: <a href="https://sqroot.eu/2013/military-service-month-2-august-2013/">Military Service - Month #2 (August 2013)</a></li>
-<li>» Next month: <a href="https://sqroot.eu/2013/military-service-month-4-october-2013">Military Service - Month #4 (October 2013)</a></li>
+<li>« The previous month: <a href="{{ site.url }}/2013/military-service-month-2-august-2013">Military Service - Month #2 (August 2013)</a></li>
+<li>» Next month: <a href="{{ site.url }}/2013/military-service-month-4-october-2013">Military Service - Month #4 (October 2013)</a></li>
 </ul>
 <h1>Week #10 (02 - 08 September)</h1>
 
@@ -226,7 +226,7 @@ Once everyone leaves, we clean the grounds and say goodbye to the instructors. A
 <li>Had pink tea in EIK robotics club.</li>
 <li>Improvised with <a href="http://improkraatia.ee">the guys</a> in Tartu. Went to an <a href="http://www.youtube.com/watch?v=TKPE1yhuDlY">improv show</a>.</li>
 <li>Met many of our unit during the unofficial-official afterparty of SBC.</li>
-<li>Bought quality gear for personal use: <a href="http://www.ledlenser.com.au/products/high-performance-line/k-series/k2/">Led Lenser K2</a> has proven to be extremely good. A spork is always useful. WD40 makes weapon maintenance easier and is good for avoiding rust anywhere.</li>
+<li>Bought quality gear for personal use: <a href="https://www.ledlenser.com/uk/flashlights/k2">Led Lenser K2</a> has proven to be extremely good. A spork is always useful. WD40 makes weapon maintenance easier and is good for avoiding rust anywhere.</li>
 <li>Didn't shave for over a week. Correcting that luxury just outside the gate was uncomfortable.</li>
 </ul>
 

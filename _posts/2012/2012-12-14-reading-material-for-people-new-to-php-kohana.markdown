@@ -16,7 +16,7 @@ I've had to refer to different PHP / Kohana related learning materials a lot rec
 <li><a href="http://kohanaframework.org/">http://kohanaframework.org/</a> - The Kohana Framework</li>
 <li><a href="http://kohana-modules.com/">http://kohana-modules.com/</a> - A listing of existing Kohana Modules</li>
 <li><a href="http://www.phptherightway.com/">http://www.phptherightway.com/</a>  - A lot of good ideas and rookie mistakes avoided - read this.</li>
-<li><a href="http://getcomposer.org/doc/00-intro.md">http://getcomposer.org/doc/00-intro.md</a> - Dependency management for PHP (and <a href="packagist.org">the place where you find your dependencies</a>)</li>
+<li><a href="http://getcomposer.org/doc/00-intro.md">http://getcomposer.org/doc/00-intro.md</a> - Dependency management for PHP and [packagist.org](https://packagist.org) (the place where you find your dependencies)</li>
 <li><a href="http://www.phpdoc.org/">http://www.phpdoc.org/</a> - Learn the PHPDoc syntax and comment your code.</li>
 <li><a href="http://www.reddit.com/r/programming">http://www.reddit.com/r/programming</a> - As a programmer, you constantly learn new stuff. This is where you do it. And <a href="http://news.ycombinator.com/">http://news.ycombinator.com/</a>. And <a href="http://www.reddit.com/r/webdev">http://www.reddit.com/r/webdev</a>. You should browse them daily. And find more.</li>
 <li><a href="http://twitter.github.com/bootstrap/">http://twitter.github.com/bootstrap/</a>  (or <a href="http://foundation.zurb.com/">http://foundation.zurb.com/</a>) - Don't write your own CSS components. Use frameworks instead. In 95% of cases this is a good idea.</li>
@@ -31,9 +31,9 @@ I've had to refer to different PHP / Kohana related learning materials a lot rec
 <li><a href="http://coffeescript.org/">http://coffeescript.org/</a> - JavaScript, but more... steamy</li>
 <li><a href="http://www.phpunit.de/manual/current/en/automating-tests.html">http://www.phpunit.de/manual/current/en/automating-tests.html</a> - Unittests in PHP</li>
 <li><a href="http://seleniumhq.org/">http://seleniumhq.org/</a> - Automated testing using the browser</li>
-<li><a href="https://sqroot.eu/2012/web-app-pre-launch-checklist/">https://sqroot.eu/2012/web-app-pre-launch-checklist/</a> - Before deploying your next project...</li>
-<li><a href="https://sqroot.eu/2012/thoughts-on-how-to-get-work-done/">https://sqroot.eu/2012/thoughts-on-how-to-get-work-done/</a> - Guidelines for your everyday life as a developer</li>
-<li><a href="https://sqroot.eu/2012/web-development-resources/">https://sqroot.eu/2012/web-development-resources/</a> - List of links to tools / resources for PHP developers</li>
+<li><a href="{{ site.url }}/2012/web-app-pre-launch-checklist">{{ site.url }}/2012/web-app-pre-launch-checklist</a> - Before deploying your next project...</li>
+<li><a href="{{ site.url }}/2012/thoughts-on-how-to-get-work-done">{{ site.url }}/2012/thoughts-on-how-to-get-work-done</a> - Guidelines for your everyday life as a developer</li>
+<li><a href="{{ site.url }}/2012/web-development-resources">{{ site.url }}/2012/web-development-resources/</a> - List of links to tools / resources for PHP developers</li>
 <li><a href="http://www.thetoolbox.cc/">http://www.thetoolbox.cc/</a> - Links to useful resources like CSS3 generators and page speed test tools</li>
 <li><a href="http://www.jetbrains.com/phpstorm/">http://www.jetbrains.com/phpstorm/</a> - Lightweight and smart PHP IDE</li>
 </ol>

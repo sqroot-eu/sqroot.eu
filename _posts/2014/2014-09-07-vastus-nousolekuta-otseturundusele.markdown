@@ -87,6 +87,6 @@ Uudishimulikule lugejale linke andmekaitsest ja privaatsusest Eestis ja Euroopa 
 <li><a href="https://www.riigiteataja.ee/akt/13160258?leiaKehtiv">Võlaõigusseadus</a></li>
 <li><a href="https://www.riigiteataja.ee/akt/130122010011">Isikuandmete kaitse seadus</a></li>
 <li><a href="http://www.aki.ee/et/poordu-inspektsiooni-poole/kaebus">Kaebuse esitamine Andmekaitse Inspektsioonile</a></li>
-<li><a href="http://no.spam.ee/">Spämmiblog</a></li>
+<li><a href="https://web.archive.org/web/20150520083155/http://no.spam.ee/">Spämmiblog</a></li>
 <li><a href="http://33mail.com">Teenus oma e-maili privaatsena hoidmiseks</a></li>
 </ul>

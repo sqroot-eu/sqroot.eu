@@ -50,11 +50,9 @@ Töötamine ja tudengielu käivad käsikäes. Ühelt poolt tuleb praktiline tö�
 * Tegelikult on olukord hästi natuke rõõmsam.
 
 <h5>Lisalugemist</h5>
-<ul>
-<li><a href="http://oppetoetused.ee/">http://oppetoetused.ee/</a></li>
-<li><a href="https://www.facebook.com/korgharidusreformist">https://www.facebook.com/korgharidusreformist</a></li>
-<li><a href="http://eyl.ee/seisukohad/10-muuti-oppetoetuste-eelnou-kohta/">http://eyl.ee/seisukohad/10-muuti-oppetoetuste-eelnou-kohta/</a></li>
-<li><a href="http://www.postimees.ee/939776/vaidlus-oppetoetuste-ule-tostab-taas-pead">http://www.postimees.ee/939776/vaidlus-oppetoetuste-ule-tostab-taas-pead</a></li>
-<li><a href="http://www.postimees.ee/940850/tudengid-telgivad-vabaduse-valjakul">http://www.postimees.ee/940850/tudengid-telgivad-vabaduse-valjakul</a></li>
-<li><a href="http://www.epl.ee/news/arvamus/illimar-ploom-oppetoetused-ja-vanemate-patud.d?id=65029228">http://www.epl.ee/news/arvamus/illimar-ploom-oppetoetused-ja-vanemate-patud.d?id=65029228</a></li>
-</ul>
+
+- [http://oppetoetused.ee](https://web.archive.org/web/20121123161241/http://oppetoetused.ee)
+- [https://www.facebook.com/korgharidusreformist](https://www.facebook.com/korgharidusreformist)
+- [http://www.postimees.ee/939776/vaidlus-oppetoetuste-ule-tostab-taas-pead](http://www.postimees.ee/939776/vaidlus-oppetoetuste-ule-tostab-taas-pead)
+- [http://www.postimees.ee/940850/tudengid-telgivad-vabaduse-valjakul](http://www.postimees.ee/940850/tudengid-telgivad-vabaduse-valjakul)
+- [http://www.epl.ee/news/arvamus/illimar-ploom-oppetoetused-ja-vanemate-patud.d?id=65029228](http://www.epl.ee/news/arvamus/illimar-ploom-oppetoetused-ja-vanemate-patud.d?id=65029228)

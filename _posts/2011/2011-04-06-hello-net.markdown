@@ -19,7 +19,7 @@ comments:
   content: q oleks v&otilde;inud programm ise arvutada&nbsp;;)
 ---
 
-ENETA korraldab ITK-s [.NET lühikursuse](http://www.eneta.ee/uudised/blogid/Lehed/6-osaline-tasuta-net-arenduse-luhikursus.aspx). Käisin ka kohal, alguses mõttega "know your enemy", aga asi ei olnudki nii hull. Kolme tunniga sain nullist valmis töötava rakenduse (tõsi, kasuks tuli varasem kokkupuude Delphi7 ja Javaga) ning praktikaga segatud loeng oli ka täitsa OK. Keelest endast, .NET raamistikust ja Visual Studiost mingeid arvamusi veel pole.
+ENETA korraldab ITK-s [.NET lühikursuse](https://web.archive.org/web/20110414052327/http://www.eneta.ee/uudised/blogid/Lehed/6-osaline-tasuta-net-arenduse-luhikursus.aspx). Käisin ka kohal, alguses mõttega "know your enemy", aga asi ei olnudki nii hull. Kolme tunniga sain nullist valmis töötava rakenduse (tõsi, kasuks tuli varasem kokkupuude Delphi7 ja Javaga) ning praktikaga segatud loeng oli ka täitsa OK. Keelest endast, .NET raamistikust ja Visual Studiost mingeid arvamusi veel pole.
 
 
 Minu tehtud rakendus: Bernoulli valemi lahendaja.

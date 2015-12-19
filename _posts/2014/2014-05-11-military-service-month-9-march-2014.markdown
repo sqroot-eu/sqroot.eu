@@ -10,8 +10,8 @@ tags:
 ---
 
 <ul>
-<li>« The previous month: <a href="https://sqroot.eu/2014/military-service-month-8-february-2014/">Military Service - Month #8 (February 2014)</a></li>
-<li>» The next month: <a href="https://sqroot.eu/2014/military-service-month-10-april-2014">Military Service - Month #10 (April 2014)</a></li>
+<li>« The previous month: <a href="{{ site.url }}/2014/military-service-month-8-february-2014">Military Service - Month #8 (February 2014)</a></li>
+<li>» The next month: <a href="{{ site.url }}/2014/military-service-month-10-april-2014">Military Service - Month #10 (April 2014)</a></li>
 </ul>
 <h1>Week #36 (03 - 09 of March)</h1>
 
@@ -84,7 +84,7 @@ The officers showed us statistics about our activities, the overall picture is O
 
 A class of high schoolers in uniforms (a military 101 class?) is moving about in the battalion, I guess they have a multi-day field trip. The ladies seem especially attractive and I'm feeling guilty for having indecent thoughts about 17-18 year olds. Some others voice their thoughts with an easy heart.
 
-Weekend passes since four. I spend Friday / Saturday night at <a href="https://sqroot.eu/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-roela/">IT Night 2014</a> as a technical mentor.
+Weekend passes since four. I spend Friday / Saturday night at <a href="{{ site.url }}/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-roela">IT Night 2014</a> as a technical mentor.
 
 <blockquote>
 

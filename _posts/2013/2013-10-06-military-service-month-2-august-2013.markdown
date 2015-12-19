@@ -12,12 +12,12 @@ tags:
 ---
 
 <ul>
-<li>&laquo; The previous month: <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a></li>
-<li>&raquo; Next month: <a href="https://sqroot.eu/2013/military-service-month-3-september-2013/">Military Service - Month #3 (September 2013)</a></li>
+<li>&laquo; The previous month: <a href="{{ site.url }}/2013/first-month-in-the-service-july-2013">Military Service - Month #1 (July 2013)</a></li>
+<li>&raquo; Next month: <a href="{{ site.url }}/2013/military-service-month-3-september-2013">Military Service - Month #3 (September 2013)</a></li>
 </ul>
 <h1>Week #5 (01 - 04 of August)</h1>
 
-We're still <a href="https://sqroot.eu/2013/first-month-in-the-service-july-2013">in the forest camp</a>. Sleeping outdoors, days full of lessons and constant activity.
+We're still <a href="{{ site.url }}/2013/first-month-in-the-service-july-2013">in the forest camp</a>. Sleeping outdoors, days full of lessons and constant activity.
 
 You know how in the movies, the SWAT team uses fancy hand signals that look really bad-ass? We practiced that, too. Hand signals are  useful and cool... but they require team play, focus and the ability to multitask effortlessly. Our signals are similar to the game of broken telephone: the meaning morphs or goes lost and never reaches the last man. This seems odd when coming from improv where cooperation is effortless.
 
@@ -102,7 +102,7 @@ It took over an hour to take over the weapons room. This can be done anywhere be
 
 Did some running with the whole unit. The person making the tempo did NOT care that nearly half of the runners fell out and yelled at them for being slow. I was fit enough to keep going, but chose to lag behind with the rest: carelessness towards the weaker ones is not how to bond a unit. Bad attitude, bro!
 
-Played some football, visited the library (we've got lots of IT books!), read my favorite Estonian author, <a href="http://www.apollo.ee/e-raamat-gort-ashryn-enne-viimast-soda.html?___store=en&amp;___from_store=et">Leo Kunnas</a>. The family visited and brought some energy gels (will be needed during the next hike). Improvised for an hour with my actors. Good Sunday.
+Played some football, visited the library (we've got lots of IT books!), read my favorite Estonian author, <a href="https://www.goodreads.com/book/show/8689190-enne-viimast-s-da">Leo Kunnas</a>. The family visited and brought some energy gels (will be needed during the next hike). Improvised for an hour with my actors. Good Sunday.
 
 <h1>Week #7 (12 - 18 of August)</h1>
 
@@ -246,7 +246,7 @@ We visit <a href="http://uudised.err.ee/?06286112">a patriotic concert in Libert
 
 <h2>Seaside and lanterns</h2>
 
-We celebrated <a href="http://www.muinastuled.ee/en">The Night Of Ancient Lights</a> near the sea. The walk there, through the city, was both beautiful (we had torches) and embarrassing. Guys, really: force discipline upon yourselves, the public is not the place to talk in formation. Actually, you should never speak in formation. There is enough spare time to do that. Also, it's not too difficult to take note of proper alignment, we've done drills.
+We celebrated [The Night Of Ancient Lights](http://www.muinastuled.ee) near the sea. The walk there, through the city, was both beautiful (we had torches) and embarrassing. Guys, really: force discipline upon yourselves, the public is not the place to talk in formation. Actually, you should never speak in formation. There is enough spare time to do that. Also, it's not too difficult to take note of proper alignment, we've done drills.
 
 ![Sky lanterns]({{ site.url }}/content/2013/10/skylanterns.jpg)
 

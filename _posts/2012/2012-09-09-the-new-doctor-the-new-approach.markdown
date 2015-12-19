@@ -11,16 +11,6 @@ tags:
 - sci-fi
 - bbc
 - drama
-comments:
-- id: 2706
-  author: The Fall of the Eleventh &mdash; SQRoot
-  author_email: ''
-  author_url: https://sqroot.eu/2013/the-fall-of-the-eleventh/
-  date: '2013-12-26 17:11:01 +0200'
-  date_gmt: '2013-12-26 15:11:01 +0200'
-  content: "[&#8230;] It was good&#8230; and the quotes&#8230; you can&#8217;t get
-    around the quotes. Smith was more of a for-the-kids type of a doctor, but his
-    last moments&#8230; let it not be said kids of today can&#8217;t learn [&#8230;]"
 ---
 Doctor Who is a long-running (from '63!) British sci-fi / adventure show with an unique approach to storytelling. I discovered the show somewhere in the middle of the 3rd series (of the 2005 reboot) and was instantly enthralled: it was something new yet immeasurably old, something that could always surprise and draw you in. To my great disappointment, this has changed.
 
@@ -37,6 +27,3 @@ There's of course a merit to both approaches, but in my opinion, there are enoug
 Here's a some audio-visual comparison between the past and the present as well:
 <iframe src="http://www.youtube.com/embed/z8Yssg1FBYg?rel=0" frameborder="0" width="640" height="360"></iframe>
 <iframe src="http://www.youtube.com/embed/Oo2RKAHu-kI?rel=0" frameborder="0" width="640" height="360"></iframe>
-<ul>
-<li><a href="http://blastr.com/2012/09/annoying-fans-drive-whos.php">Annoying fans drive Who's Steven Moffat away from Twitter</a></li>
-</ul>

@@ -14,7 +14,7 @@ tags:
 
 ![Kohana Twitter]({{ site.url }}/content/2011/08/twitter.png)
 
-<a href="http://kohanaframework.org/">Kohana</a> has become my PHP framework of choice ever since I was forced to start using it about 9 months ago. Derived from <a href="http://codeigniter.com/">CodeIgniter</a> (<em>interestingly enough I can&#039;t confirm that since, once again, Kohana&#039;s <a href="http://en.wikipedia.org/wiki/Kohana_%28web_framework%29">Wikipedia page</a></em> <em>has been deleted</em>), Kohana has made several advancements and is now a fully capable framework I&#039;ve come to love.
+<a href="http://kohanaframework.org/">Kohana</a> has become my PHP framework of choice ever since I was forced to start using it about 9 months ago. Derived from <a href="http://codeigniter.com/">CodeIgniter</a> (<em>interestingly enough I can&#039;t confirm that since, once again, Kohana&#039;s <a href="https://en.wikipedia.org/wiki/Kohana_(framework)">Wikipedia page</a></em> <em>has been deleted</em>), Kohana has made several advancements and is now a fully capable framework I&#039;ve come to love.
 
 
 This article shows one of the reasons for that, namely how quick, easy and (arguably) elegant it is to create a web app from scratch using Kohana. The app we&#039;ll build is an extremely basic one, but coding it from scratch, without a framework... I don&#039;t even want to imagine.

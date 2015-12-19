@@ -82,7 +82,7 @@ comments:
 
     <blockquote>Fact remains that a native code that is built only for the specific purpose and needs of the software is always faster than the one built with a framework. Whether doing that is the right call, depends entirely on what the project needs. I do agree completely that writing on top of a framework is often quicker when it comes to development time and often more risk free, of course.</blockquote>
 ---
-This is a continuation of the previous post, [Be a Developer, Not a Programmer Part I]({% post_url 2011/2011-09-06-be-a-developer-not-a-programmer %})".
+This is a continuation of the previous post, [Be a Developer, Not a Programmer Part I]({{ site_url 2011/2011-09-06-be-a-developer-not-a-programmer }})".
 
 ## Ando Roots
 

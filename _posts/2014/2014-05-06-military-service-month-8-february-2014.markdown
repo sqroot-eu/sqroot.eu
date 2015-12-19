@@ -10,8 +10,8 @@ tags:
 ---
 
 <ul>
-<li>« The previous month: <a href="https://sqroot.eu/2014/military-service-month-7-january-2014">Military Service - Month #7 (January 2014)</a></li>
-<li>» The next month: <a href="https://sqroot.eu/2014/military-service-month-9-march-2014/">Military Service - Month #9 (March 2014)</a></li>
+<li>« The previous month: <a href="{{ site.url }}/2014/military-service-month-7-january-2014">Military Service - Month #7 (January 2014)</a></li>
+<li>» The next month: <a href="{{ site.url }}/2014/military-service-month-9-march-2014">Military Service - Month #9 (March 2014)</a></li>
 </ul>
 <h1>Week #31 (01 - 02 of February)</h1>
 
@@ -122,7 +122,7 @@ NODE teams drive out to the surrounding roads and countryside for a 75km map-rea
 
 Sgt Ms gave me 20 in mime. Some colonel gives us a questionnaire for his PhD thesis about motivation and team cooperation in the army. Only 100 days left to serve. Pvt Re organizes a short shopping trip into the city, two columns of uniformed men briefly jam the cash registers. Coffee, tissues and sweets are my main attraction.
 
-Most of the battalion leaves for the parade in Pärnu, the duty officer lines up all the rest and orders us to participate in the recording of a <a href="http://www.tv3.ee/vvj">local entertainment show</a>. I'm bored, but entertain myself with observing the technical and organizational side of recording a show. The show featured pretty (by mainstream standards) fashion models, who looked to me more like fragile soldiers: camouflaged, in battle armour, forced to stand still and hold rank.
+Most of the battalion leaves for the parade in Pärnu, the duty officer lines up all the rest and orders us to participate in the recording of a [local entertainment show](https://en.wikipedia.org/wiki/V%C3%B5ta_v%C3%B5i_j%C3%A4ta). I'm bored, but entertain myself with observing the technical and organizational side of recording a show. The show featured pretty (by mainstream standards) fashion models, who looked to me more like fragile soldiers: camouflaged, in battle armour, forced to stand still and hold rank.
 
 <h1>Week #35 (24 - 28 of February)</h1>
 
@@ -130,6 +130,5 @@ On the day of <a href="http://www.mil.ee/et/kaitsevagi/vabariigi-aastapaeva-para
 
 Lately, I've spent most of my free time working in the robotics club of <a href="http://itcollege.ee">EIK</a>. An odd way to relax, but it works for me. The cinema shows humorous and sad <a href="https://www.youtube.com/watch?v=CreneTs7sGs">Monuments Men</a>.
 
-<ul>
-<li><a href="http://etv.err.ee/arhiiv.php?id=139551">22.06.2013 19:30 - Heategevuskontsert "Laulud sõdurile"</a></li>
-</ul>
+
+- [22.06.2013 19:30 - Heategevuskontsert "Laulud sõdurile"](http://arhiiv.err.ee/vaata/heategevuskontsert-laulud-sodurile)

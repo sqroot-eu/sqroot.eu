@@ -90,7 +90,6 @@ Lõpetuseks: infot ära andes tuleks seda by default pidada avalikuks, sest info
 * Fox News (01.11.2010): [foxnews.com/scitech/2010/10/19/congress-sends-message-facebook-privacy/?test=latestnews](http://www.foxnews.com/scitech/2010/10/19/congress-sends-message-facebook-privacy/?test=latestnews)
 * [A brief History of Social Media](http://socialmediarockstar.com/history-of-social-media) (02.11.2010)
 * "[Freedom in the Cloud](http://www.isoc-ny.org/?p=1338)" - Eben Moglen
-* Finance 24 (31.10.2010): [france24.com/en/20100728-debate-Facebook-privacy](http://www.france24.com/en/20100728-debate-Facebook-privacy)
 * BBC News (01.11.2010): [news.bbc.co.uk/2/hi/7920434.stm](http://news.bbc.co.uk/2/hi/7920434.stm)
 
 [Link to the Powerpoint presentation]({{ site.url }}/content/2010/11/Sotsiaalmeediast-ja-privaatsusest.pptx)

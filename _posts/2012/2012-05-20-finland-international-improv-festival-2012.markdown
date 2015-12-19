@@ -41,7 +41,7 @@ The first to perform were <a href="http://www.ilkkavanhapelto.fi/improvisaatiote
 
 ![JadaJada]({{ site.url }}/content/2012/05/fiif/4.jpg)
 
-There is not much to say about <a href="http://jadajadaimprov.com">JadaJada</a> that <a href="https://sqroot.eu/2012/two-magical-nights/">I haven't already said</a>, the same praise still applies. The story was of Mike &amp; Mike, a gay couple who adopted a boy, John. The tale had integrity and emotion and it drew me in to the point that I missed a queue to dim the lights (I was on the light board during their show). There was a song of course and I have to say, I'm addicted to improv songs, such a joy to see a singing scene.
+There is not much to say about <a href="http://jadajadaimprov.com">JadaJada</a> that <a href="{{ site.url }}/2012/two-magical-nights">I haven't already said</a>, the same praise still applies. The story was of Mike &amp; Mike, a gay couple who adopted a boy, John. The tale had integrity and emotion and it drew me in to the point that I missed a queue to dim the lights (I was on the light board during their show). There was a song of course and I have to say, I'm addicted to improv songs, such a joy to see a singing scene.
 
 <h3>Show #3: Short Form Tournament</h3>
 
@@ -59,7 +59,7 @@ Alarm &amp; shower all to early, but no complaints this time. I later heard that
 
 <h3>8 Ways To Character (Jani Turku, FIN)</h3>
 
-The workshop focused on techniques to get inspiration for character-building as well as some related subjects such as status and memorization. Here be a suggestion to all the unpopular kids in high-schools all over the world: go take up improv and learn about character and status. You'd be amazed on how your life improves. We talked and practiced character building, interaction, memorization, of making life-like characters... and animals. Non-human roles have fascinated me ever since I saw the actors of <a href="http://kellariteatteri.fi/">Helsingin Kellariteatteri</a> do swans at <a href="http://tudengiteater.ee">Viljandi</a>. Animals are a good source of inspiration, but they are also a difficult subject. All in all, I think the workshop paid up in full and I do plan to consciously use and develop the stuff I learned there in upcoming practices.
+The workshop focused on techniques to get inspiration for character-building as well as some related subjects such as status and memorization. Here be a suggestion to all the unpopular kids in high-schools all over the world: go take up improv and learn about character and status. You'd be amazed on how your life improves. We talked and practiced character building, interaction, memorization, of making life-like characters... and animals. Non-human roles have fascinated me ever since I saw the actors of <a href="http://kellariteatteri.fi/">Helsingin Kellariteatteri</a> do swans at Viljandi. Animals are a good source of inspiration, but they are also a difficult subject. All in all, I think the workshop paid up in full and I do plan to consciously use and develop the stuff I learned there in upcoming practices.
 
 <h3>Status Games Workshop (Simo Routarinne, FIN)</h3>
 

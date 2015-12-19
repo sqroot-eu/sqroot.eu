@@ -36,9 +36,9 @@ My project: *Just Grab It*
 > Mobile app that allows you to scan products and add if you like or dislike them. With the Just Grab It application you can easily organize your items to remember and recommend later.
 
 <ul>
-<li>URL: <a href="http://justgrab.it/" target="blank">http://justgrab.it/</a></li>
-<li>Facebook: <a href="http://www.facebook.com/Justgrabit" target="blank">http://www.facebook.com/Justgrabit</a>&nbsp;&nbsp;&nbsp;&nbsp;</li>
-<li>Twitter: <a href="http://twitter.com/justgrabitapp" target="blank">http://twitter.com/justgrabitapp</a>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+<li>URL: http://justgrab.it</li>
+<li>Facebook: http://www.facebook.com/Justgrabit</li>
+<li>Twitter: http://twitter.com/justgrabitapp</li>
 <li>Team: Lauri Saidla, Martin Kangur, Margus Pala, Ando Roots, Esko Felin, Jaanus Jagom&auml;gi, Zahhar Kirillov, Mehis P&auml;rn<br />
 			&nbsp;</li>
 </ul>
@@ -73,11 +73,11 @@ There. Got it out of my system.
 
 ![G48 1]({{ site.url }}/content/2011/08/g481.jpg)
 
-The forming of teams in the style unique to G48 went... well, in the end everyone had teams. For a long time I had no idea which project to join, but then an interesting challenge <a href="http://justgrab.it/">popped up</a> and I went for it. As always, some teams were at maximum capacity, some were disbanded, but every idea that deserved to live got it&#039;s chance.
+The forming of teams in the style unique to G48 went... well, in the end everyone had teams. For a long time I had no idea which project to join, but then an interesting challenge popped up and I went for it. As always, some teams were at maximum capacity, some were disbanded, but every idea that deserved to live got it&#039;s chance.
 
-There were 8 of us: team <a href="http://justgrab.it/">JustGrabIt</a> - 2 designers, 2 back-end, a marketer, a visionary/project leader, an Android developer and a cross-functional do-it-all, hack-it-all IT guru. A full team. The idea itself can best be explained by <a href="http://justgrab.it/">it&#039;s website</a>, but basically it&#039;s am Android slash web application for FB style <em>(I do hope they didn&#039;t coin the term)</em> like/dislike of real world objects.
+There were 8 of us: team JustGrabIt - 2 designers, 2 back-end, a marketer, a visionary/project leader, an Android developer and a cross-functional do-it-all, hack-it-all IT guru. A full team. The idea itself can best be explained by it&#039;s website, but basically it&#039;s am Android slash web application for FB style <em>(I do hope they didn&#039;t coin the term)</em> like/dislike of real world objects.
 
-The first evening ended about 2 in the morning with <a href="http://kohanaframework.org/">Kohana</a> (more about my love for it: [That's how easy it is to create Twitter with Kohana 3]({% post_url 2011/2011-08-25-thats-how-easy-it-is-to-create-twitter-with-kohana-3 %})) and the environment set up, some of the MVC files written - basically being ready to fire at the task ahead at full speed. We used <a href="https://github.com/anroots/">GIThub</a> for VCS and I was unhappy to see yet another person struggle to install it (and Apache2) on The WB OS (World&#039;s Best Operating System).
+The first evening ended about 2 in the morning with <a href="http://kohanaframework.org/">Kohana</a> (more about my love for it: [That's how easy it is to create Twitter with Kohana 3]({{ site_url }}/2011/thats-how-easy-it-is-to-create-twitter-with-kohana-3)) and the environment set up, some of the MVC files written - basically being ready to fire at the task ahead at full speed. We used <a href="https://github.com/anroots/">GIThub</a> for VCS and I was unhappy to see yet another person struggle to install it (and Apache2) on The WB OS (World&#039;s Best Operating System).
 
 Sleep awaited on the hard floor of the lecture hall upstairs. I love G48 for leaving the venue open for (24 + 24)h. As expected, Zzzz... was one of the commodities not easily found as opposed to food and coffee which were always plentiful. I think we all suffered a minor case of sleep deprivation, but I&#039;m totally fine with it.
 
@@ -122,9 +122,6 @@ G48 is a wonderful chance for anyone with an idea - not just IT people - to come
 Inspire. Teamwork. Solve. Conquer.
 
 # Relevant links
-
-<a href="http://garage48.org/blogger/garage48-tartu-2011-projects-launched">Garage48 Tartu 2011 Projects Launched</a>
-
 
 <a href="http://forte.delfi.ee/news/digi/garage48-tartus-arendamisel-on-14-projekti.d?id=56638350">Garage48 Tartus: arendamisel on 14 projekti!</a>
 

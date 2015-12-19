@@ -12,50 +12,11 @@ tags:
 - youth work
 - technology
 - events
-comments:
-- id: 2017
-  author: "Öös on IT-d"
-  author_email: ''
-  author_url: https://sqroot.eu/2012/oos-on-it-d/
-  date: '2013-03-17 06:15:35 +0200'
-  date_gmt: '2013-03-17 04:15:35 +0200'
-  content: "[...] IT ÖÖ 2013, Roela: https://sqroot.eu/2013/raising-awareness-about-it-education-in-estonia-summary-of-it-night-2013-ro...
-    [...]"
-- id: 2710
-  author: Martin Vahi
-  author_email: sininetulnukas@gmail.com
-  author_url: ''
-  date: '2014-02-19 05:31:00 +0200'
-  date_gmt: '2014-02-19 03:31:00 +0200'
-  content: |-
-    I as a software developer think that it's parasitic to lure people to IT, if their personality profile does not match with the nature of IT.
-
-    I love my profession and do not regret my choice, but how about stopping the abusive IT propaganda?
-- id: 2713
-  author: Ando David Roots
-  author_email: david+signup@sqroot.eu
-  author_url: ''
-  date: '2014-02-23 13:53:00 +0200'
-  date_gmt: '2014-02-23 11:53:00 +0200'
-  content: |-
-    I agree - people shouldn't be 'lured' into a profession they don't care about. I've had to work with developers who got into IT by some other reason (money?) and don't really give a crap, the result: their code and thoughts are crap, too.
-
-    However, I don't see promoting IT (in Est) as abusive. As a student of IT College (one of the coolest places to study), I've talked to a lot of people about IT in general and whether they had potential to become an IT professional and enjoy it. The conversations were positive and easy, whether the person felt like he wanted to do it or not.
-
-    IT Night 2014 is coming in a few weeks and I've already signed up to be a student mentor. From my previous years @ IT Night, I see it as a fun way for kids to learn something new about technology. Whether they want to take it further in the future is their own free choice.
-- id: 2715
-  author: 'Military Service – Month #9 (March 2014) &mdash; SQRoot'
-  author_email: ''
-  author_url: https://sqroot.eu/2014/military-service-month-9-march-2014/
-  date: '2014-05-11 20:17:18 +0300'
-  date_gmt: '2014-05-11 17:17:18 +0300'
-  content: "[&#8230;] passes since four. I spend Friday / Saturday night at IT Night
-    2014 as a technical [&#8230;]"
 ---
 
-IT-ÖÖ (IT Night) is a fun, statewide event where kids and teenagers gather in youth centers all over Estonia for one night (06pm - 08am) to spend time with each other, the mentors (IT students) and other centers via a video / radio link with the goal of learning about Information Technology. The event happens for the third time and this is my <a href="https://sqroot.eu/2012/oos-on-it-d">second time participating</a>. The topic for this year: prepare a video / audio / poster advertisement as to why IT is the best calling to choose.
+IT-ÖÖ (IT Night) is a fun, statewide event where kids and teenagers gather in youth centers all over Estonia for one night (06pm - 08am) to spend time with each other, the mentors (IT students) and other centers via a video / radio link with the goal of learning about Information Technology. The event happens for the third time and this is my <a href="{{ site.url }}/2012/oos-on-it-d">second time participating</a>. The topic for this year: prepare a video / audio / poster advertisement as to why IT is the best calling to choose.
 
-The event is a joint effort by the <a href="http://itl.ee/?setlang=eng">Association of Information Technology and Telecommunications</a> and <a href="http://www.ank.ee/?p=p_157&amp;sName=in-english">Association of Estonian Open Youth Centers</a>, with help from <a href="http://www.eitsa.ee/en">Estonian Information Technology Foundation</a> and <a href="http://www.itcollege.ee/en">The Estonian Information Technology College</a>.
+The event is a joint effort by the <a href="http://itl.ee/?setlang=eng">Association of Information Technology and Telecommunications</a> and <a href="http://www.ank.ee/?p=p_157&amp;sName=in-english">Association of Estonian Open Youth Centers</a>, with help from Estonian Information Technology Foundation and <a href="http://www.itcollege.ee/en">The Estonian Information Technology College</a>.
 
 <h2>In Facts</h2>
 <ul>
@@ -86,7 +47,7 @@ The following is a recap of events, from my point of view, from one of the many 
 
 <h1>Preparation</h1>
 
-All volunteers were invited to an introductory seminar on the 27th of February. The schedule for the night was introduced and mentors were matched with youth centers. I ended up in <a href="http://roelanm.edicypages.com/">Roela Youth Center</a> along with <a href="ee.linkedin.com/pub/madis-vellamäe/24/799/602">Madis Vellamäe</a>, a fellow IT student / developer who flew in from Japan a few days before the event and was still jet-lagged (and the designated driver for the next morning).
+All volunteers were invited to an introductory seminar on the 27th of February. The schedule for the night was introduced and mentors were matched with youth centers. I ended up in <a href="http://roelanm.edicypages.com/">Roela Youth Center</a> along with [Madis Vellamäe](https://ee.linkedin.com/in/madis-vellamäe-60279924), a fellow IT student / developer who flew in from Japan a few days before the event and was still jet-lagged (and the designated driver for the next morning).
 
 I was picked up by Madis and we arrived to the venue by 5pm. One thing you don't notice when living in the city is the absolute stunning beauty of Estonian wintry landscape, something I could observe during the ride over.
 
@@ -117,7 +78,7 @@ We used the large-screen TV on the wall as an indicator for the internet-connect
 $ ping -t startit.ee
 ```
 
-The internet was a bit jumpy (we actually missed our first scheduled live-broadcast window because of this) and it was amusing to see the ping output fail and the video stream falter a second later, only to be restored in a few moments. Maire called the local ISP at 8pm and things got better. For the record, dear ISP - you now have two experts to validate that everything is not quite right and the matter should be investigated further. To your compliment, however, the network did not fail completely and we didn't have to resort to emergency measures (unlike <a href="https://sqroot.eu/2012/oos-on-it-d">last year at Kambja</a>) to stay broadcasting.
+The internet was a bit jumpy (we actually missed our first scheduled live-broadcast window because of this) and it was amusing to see the ping output fail and the video stream falter a second later, only to be restored in a few moments. Maire called the local ISP at 8pm and things got better. For the record, dear ISP - you now have two experts to validate that everything is not quite right and the matter should be investigated further. To your compliment, however, the network did not fail completely and we didn't have to resort to emergency measures (unlike <a href="{{ site.url }}/2012/oos-on-it-d">last year at Kambja</a>) to stay broadcasting.
 
 ![Ping monitor]({{ site.url }}/content/2013/03/roela/ping.jpg)
 
@@ -135,7 +96,7 @@ It was difficult to get the people to focus on the stuff they signed up to do. W
 
 Two things that bugged me quite a lot: the "official" radio for the event, <a href="http://www.keilanoortekeskus.ee/?leht=iv&amp;keel=est">KRaadio</a> was playing from the home-cinema system, but kids still put on their own "cool" music, often from several different sources. Yes, everyone, including me, thinks their music taste is good (or the best), but at times some restraint is needed. Thankfully, when asked to behave, they did. The other thing was the quick loss of focus, but that is only to be expected. The ones who found IT / media interesting were able to focus, those who didn't quickly fell back to their routine of computer games or watching TV.
 
-Also a valuable lesson - you can not do improv/social games without preparation and in the span of ten minutes, without first grounding the tension / insecurity / fear of the participants. We do warmup exercises for an hour with <a href="http://jaa.ee/stuudio">Improstuudio</a> (improvisational theatre group by <a href="http://jaa.ee/stuudio">Improgrupp Jaa!</a>) for a reason. The goal of the introductory games was to loosen people and get comfortable with spending the night together (you know what I mean), but there weren't enough strangers (as mentioned, some kids from afar didn't make it) and I kind of screwed up by letting my tension show. The instructor should be calm, confident and energetic.
+Also a valuable lesson - you can not do improv/social games without preparation and in the span of ten minutes, without first grounding the tension / insecurity / fear of the participants. We do warmup exercises for an hour with [Improstuudio](http://improv.ee/koolitus) (improvisational theatre group by [Improgrupp Jaa!](http://jaa.ee)) for a reason. The goal of the introductory games was to loosen people and get comfortable with spending the night together (you know what I mean), but there weren't enough strangers (as mentioned, some kids from afar didn't make it) and I kind of screwed up by letting my tension show. The instructor should be calm, confident and energetic.
 
 <h1>Programming Workshop For Beginners</h1>
 

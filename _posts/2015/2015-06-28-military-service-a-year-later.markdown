@@ -160,7 +160,7 @@ Here are the things you might find beneficial to take with you when you go to se
 - Quick energy food - for the hikes. Any kind of portable, high-energy sports food will do. Get at least 10.
 - Sweets, lots - Again, go for portability. Small candy bars (snickers) are preferable over 200g chocolates since you can consume it all at once, on the move. You'll find that you've never eaten so much chocolate in your life.
 - Smartphone and a charger - You won't get near a PC often, but maybe you still want to visit the Internet and call people. Also, GPS is of help.
-- Quality watch with alarm, stopwatch, back light - Bonus: water resistance! I used [EXPEDITION® SHOCK-RESISTANT CHRONO ALARM TIMER](http://www.timex.ca/EXPEDITION-SHOCK-RESISTANT-CHRONO-ALARM-TIMER-SKT49896CS-P1525.aspx?l=e) and although the backlight failed on the first week, the watch itself is excellent.
+- Quality watch with alarm, stopwatch, back light - Bonus: water resistance! I used [EXPEDITION® SHOCK-RESISTANT CHRONO ALARM TIMER](http://www.amazon.com/Timex-T498969J-Expedition-Chrono-Alarm/dp/B0083XFFLU) and although the backlight failed on the first week, the watch itself is excellent.
 - Chewing gum - for quick mouth hygiene
 - A Spork - for convenient and quick lunches
 
