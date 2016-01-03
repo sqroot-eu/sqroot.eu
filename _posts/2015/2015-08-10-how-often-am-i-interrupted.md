@@ -11,7 +11,7 @@ This is especially true for software developers who are "in the zone". The gener
 
 [![Don't interrupt me comics](/content/2015/08/programmer_interrupted.png)](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer)
 
-> A programmer takes between 10-15 minutes to start editing code after resuming work from an interruption. ([Parnin:10](http://www.cc.gatech.edu/~vector/papers/sqj.pdf))
+> A programmer takes between 10-15 minutes to start editing code after resuming work from an interruption. (Parnin:10)
 
 Paul Graham [argues](http://www.paulgraham.com/makersschedule.html) that programmers operate in a so-called maker's schedule where they need long periods of uninterrupted time to really focus on the problem at hand and do their tasks well. Yet it seems that interruptions are an unavoidable fact in our lives as developers (working from an (open) office).
 
