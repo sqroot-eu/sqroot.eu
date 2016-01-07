@@ -78,7 +78,7 @@ We were the first team to go on stage. There was time to look over the venue and
 
 Our format requires intense concentration from the sound guy (having to follow the scenework, look for the next song to play and managing audio levels for two channels at the same time) and so I can not remember what the show was actually about, only bits and pieces. The audience liked it though and from what I gather from the actors, they did too. In short: nailed it.
 
-<h3>4fun (<a href="http://www.spiediens.com">spiediens.com</a> / <a href="http://www.rigasimprovizacijasteatris.lv">rigasimprovizacijasteatris.lv</a>) [Latvia]</h3>
+<h3>4fun (<a href="http://www.spiediens.com">spiediens.com</a> / rigasimprovizacijasteatris.lv) [Latvia]</h3>
 
 4fun was a team combined from two groups in Latvia and performed short-form games with some unique twists and offers. Audience members were "asked" to come to the stage and help (including one totally innocent [def: unruined by the ways of improv comedy] Estonian actor and some not so innocent comrades). They'd also put two girls on chairs, with a bell and try to approach them; each bell ring marked failure. The guys lifespan could be measured in one digit numbers. Hilarious, honest humor.
 
