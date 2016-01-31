@@ -21,39 +21,39 @@ Secure your data before disposing of your old computer / phone / tablet. The fol
 - read your communication history
 - ...
 
-{% picture gallery 2016/01/1.png alt="Facebook" %}
-{% picture gallery 2016/01/9.png alt="Messenger" %}
-{% picture gallery 2016/01/7.png alt="Instagram" %}
+{% picture gallery 2016/01/phone-security/1.png alt="Facebook" %}
+{% picture gallery 2016/01/phone-security/9.png alt="Messenger" %}
+{% picture gallery 2016/01/phone-security/7.png alt="Instagram" %}
 
 ### ...read your emails
 
 Password resets are usually tied with your email account which means I can use the "Forgot your password" feature and gain access to any website where you have created an account for.
 
-{% picture gallery 2016/01/2.png alt="Emails" %}
+{% picture gallery 2016/01/phone-security/2.png alt="Emails" %}
 
 ### ...browse your search history
 
 What people search and visit tells so much about us.
 
-{% picture gallery 2016/01/3.png alt="Search" %}
-{% picture gallery 2016/01/5.png alt="Search" %}
-{% picture gallery 2016/01/6.png alt="Search" %}
+{% picture gallery 2016/01/phone-security/3.png alt="Search" %}
+{% picture gallery 2016/01/phone-security/5.png alt="Search" %}
+{% picture gallery 2016/01/phone-security/6.png alt="Search" %}
 
 ### ...disable remote phone wiping
 
 Obviously, I don't want the victim to take photographs of me, pinpoint my location or remote-wipe the phone.
 
-{% picture gallery 2016/01/4.png alt="Emails" %}
+{% picture gallery 2016/01/phone-security/4.png alt="Emails" %}
 
 ### ...read your text messages and phonebook
 
-{% picture gallery 2016/01/8.png alt="SMS" %}
+{% picture gallery 2016/01/phone-security/8.png alt="SMS" %}
 
 ### ...view any files you left on your device
 
 All your drunk party pictures and documents belong to me!
 
-{% picture gallery 2016/01/10.png alt="Files" %}
+{% picture gallery 2016/01/phone-security/10.png alt="Files" %}
 
 ---------
 
