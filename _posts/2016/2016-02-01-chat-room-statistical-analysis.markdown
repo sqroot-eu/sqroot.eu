@@ -32,7 +32,7 @@ I created a new Laravel project with a MySQL database and wrote an importer scri
 
 I realize that MySQL / InnoDB is not the most efficient way of storing and processing the data I had; however, for a one-time project it was good enough. I now had a relational database with all (my) sent and received Fleep messages and meta-data, cleanly split into meaningful rows and columns.
 
-```sql
+```
 +------------------+
 | Tables_in_fleep  |
 +------------------+
@@ -136,5 +136,7 @@ The project took several days to complete, but I'm happy with the result. Fleep 
 I presented the results as a single-page interactive web site to the company. Next steps? Rewrite the project (the code is quick and messy) and perhaps set this up as a dynamic service in the net. The statistics could probably be improved, too: for example, when drawing the employee country map, count only the people who've logged in to Fleep in the last month (active users).
 
 Lots of room for future improvement... but enough fun for this time.
+
+*Some data in the above screenshots is hidden or changed to protect organizational privacy.*
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
