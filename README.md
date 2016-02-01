@@ -1,6 +1,6 @@
 # sqroot.eu
 
-[![Travis](https://img.shields.io/travis/anroots/sqroot.eu.svg)](https://travis-ci.org/anroots/anroots/sqroot.eu)
+[![Travis](https://img.shields.io/travis/anroots/sqroot.eu.svg)](https://travis-ci.org/anroots/sqroot.eu)
 [![Docker Pulls](https://img.shields.io/docker/pulls/anroots/sqroot.eu.svg)](https://hub.docker.com/r/anroots/sqroot.eu/)
 
 These are the files that generate the [sqroot.eu](https://sqroot.eu) blog.
