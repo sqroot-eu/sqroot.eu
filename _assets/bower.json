@@ -13,9 +13,9 @@
     "tests"
   ],
   "dependencies":{
-    "picturefill": "~2.3",
+    "picturefill": "~3.0",
     "bootstrap": "~3.3",
     "font-awesome": "~4.3",
-    "loadcss":"~0.1"
+    "loadcss":"~1.0"
   }
 }
