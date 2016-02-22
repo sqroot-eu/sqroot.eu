@@ -55,7 +55,7 @@
     {% stylesheet style %}
     
     <!-- Loadcss script for async CSS loading -->
-    <script id="script-loadcss">{% asset loadcss/loadCSS.js %}</script>
+    <script id="script-loadcss">{% asset loadcss/src/loadCSS.js %}</script>
 
     <script>
         loadCSS("{% asset_path optional.css %}", document.getElementById("script-loadcss"));

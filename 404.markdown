@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 404
+title: Page Not Found
 visible: false
-description: Page Not Found
 ---
 
 Sorry - no such page here.
