@@ -126,7 +126,7 @@ Most of the battalion leaves for the parade in Pärnu, the duty officer lines up
 
 <h1>Week #35 (24 - 28 of February)</h1>
 
-On the day of <a href="http://www.mil.ee/et/kaitsevagi/vabariigi-aastapaeva-paraad">the parade</a> I'm on duty. All watch the live stream from TV and laugh when the camera catches one of our men fidgeting. A few hours after the parade everyone is back and we go to weekend passes.
+On the day of [the parade](https://web.archive.org/web/20150531024922/http://www.mil.ee/et/kaitsevagi/vabariigi-aastapaeva-paraad) I'm on duty. All watch the live stream from TV and laugh when the camera catches one of our men fidgeting. A few hours after the parade everyone is back and we go to weekend passes.
 
 Lately, I've spent most of my free time working in the robotics club of <a href="http://itcollege.ee">EIK</a>. An odd way to relax, but it works for me. The cinema shows humorous and sad <a href="https://www.youtube.com/watch?v=CreneTs7sGs">Monuments Men</a>.
 
