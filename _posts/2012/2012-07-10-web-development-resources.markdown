@@ -47,6 +47,6 @@ The main purpose of this post is to serve as a reference to myself. Covers sites
 </ul>
 <h1>Misc tools</h1>
 <ul>
-<li><a href="http://www.thetoolbox.cc/">The Toolbox</a> - a list of useful (web) tools/resources/sites for developers</li>
+<li><a href="https://web.archive.org/web/20160305103925/http://thetoolbox.cc">The Toolbox</a> - a list of useful (web) tools/resources/sites for developers</li>
 <li><a href="http://css3generator.com/">CSS3 generator</a></li>
 </ul>
