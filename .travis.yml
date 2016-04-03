@@ -16,11 +16,14 @@ before_install:
 script:
   - bundle exec jekyll build
   - node_modules/jshint/bin/jshint _assets/js/
-  - docker build -t anroots/sqroot.eu .
-  - docker push anroots/sqroot.eu
+  - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH | tr / - ; fi`
+  - docker build -t sqroot/sqroot.eu:$TAG .
+  - docker push sqroot/sqroot.eu:$TAG
 
 after_script:
   - docker logout
 
 notifications:
-  email: false
+  email:
+    recipients:
+      - alert@westfall.sqroot.eu
