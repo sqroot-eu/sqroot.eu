@@ -1,15 +1,15 @@
 # sqroot.eu
 
-[![Travis](https://img.shields.io/travis/anroots/sqroot.eu.svg)](https://travis-ci.org/anroots/sqroot.eu)
-[![Docker Pulls](https://img.shields.io/docker/pulls/anroots/sqroot.eu.svg)](https://hub.docker.com/r/anroots/sqroot.eu/)
+[![Travis](https://img.shields.io/travis/sqroot-eu/sqroot.eu.svg)](https://travis-ci.org/anroots/sqroot.eu)
+[![Docker Pulls](https://img.shields.io/docker/pulls/sqroot-eu/sqroot.eu.svg)](https://hub.docker.com/r/anroots/sqroot.eu/)
 
-These are the files that generate the [sqroot.eu](https://sqroot.eu) blog.
+Source files of a Jekyll blog for [sqroot.eu](https://sqroot.eu).
 
 ## License
 
 Code under Apache2 for learning purposes.
 
-Content (c) to Ando Roots - do not re-publish without written permission!
+Content (images and text) (c) to Ando Roots - do not re-publish without written permission!
 
 Theme: [Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog), customized, licenced under Apache2 license.
 
