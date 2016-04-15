@@ -16,6 +16,6 @@
     "picturefill": "~3.0",
     "bootstrap": "~3.3",
     "font-awesome": "~4.3",
-    "loadcss":"~1.0"
+    "loadcss":"~1.2"
   }
 }

@@ -55,11 +55,11 @@
     {% stylesheet style %}
     
     <!-- Loadcss script for async CSS loading -->
-    <script id="script-loadcss">{% asset loadcss/src/loadCSS.js %}</script>
+    <script id="script-loadcss" type="text/javascript">{% asset loadcss/src/loadCSS.js %}</script>
 
     <script>
         loadCSS("{% asset_path optional.css %}", document.getElementById("script-loadcss"));
-        loadCSS("https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800", document.getElementById("script-loadcss"));
+        loadCSS("https://fonts.googleapis.com/css?family=Old+Standard+TT:400,700,400italic|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800", document.getElementById("script-loadcss"));
     </script>
 
     <!-- Polyfill for the <picture> tag -->
