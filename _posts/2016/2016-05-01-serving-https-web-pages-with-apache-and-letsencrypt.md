@@ -15,7 +15,7 @@ In this tutorial, we'll look at how you can set up an encrypted web page quickly
 - A Ubuntu 14.04  Server or a credit card
 - Basic knowledge of Ubuntu server administration
 
-## Provisioning a VPS
+## Provisioning a Server
 
 If you already have a server, skip this step.
 
@@ -23,11 +23,11 @@ We'll create a new web server using DigitalOcean. Log in to your account (or [cr
 
 {% picture 2016/05/apache/create-1.png alt="Create Ubuntu Server" %}
 
-Add your SSH key the server and give the server a host name.
+Add your SSH key to the server and give the server a host name.
 
 {% picture 2016/05/apache/create-2.png alt="Naming the Server" %}
 
-After about a minute, the server ready. Copy the IP and log in with SSH:
+After about a minute, the server is ready. Copy the IP and log in with SSH:
 
 {% picture 2016/05/apache/create-3.png alt="Server is Ready" %}
 
@@ -42,8 +42,8 @@ We now have a server on the Internet, but there's nothing there yet - visiting t
 Let's install [Apache](https://apache.com), an open-source web server.
 
 ```bash
-$ apt-get update
-$ apt-get install -y apache2
+apt-get update
+apt-get install -y apache2
 ```
 
 After the command finishes, we can refresh the browser - the web server is running and displays the default welcome page.
@@ -58,7 +58,7 @@ To avoid this and maintain communication privacy, we'll configure the server wit
 
 ## Binding a Domain
 
-To get a HTTPS certificate, we need a domain name. Log in to your domain name server management interface and add a new A-record. I want my web page to be located at `secret.sqroot.eu`, so I added the following:
+To get a HTTPS certificate, we need a domain name. Log in to your domain name server management interface and add a new A-record. I want my web page to be located at `secret.sqroot.eu` (1), so I added the following:
 
 {% picture 2016/05/apache/dns.png alt="Create a DNS record" %}
 
@@ -69,16 +69,16 @@ To get a HTTPS certificate, we need a domain name. Log in to your domain name se
 Let us install the [LetsEncrypt client](https://letsencrypt.org/getting-started). The client is used for making certificate requests to LetsEncrypt server as well as configuring our local web server with certificate information.
 
 ```bash
-$ apt-get install git
-$ git clone https://github.com/letsencrypt/letsencrypt
-$ cd letsencrypt
-$ ./letsencrypt-auto --help
+apt-get install git
+git clone https://github.com/letsencrypt/letsencrypt
+cd letsencrypt
+./letsencrypt-auto --help
 ```
 
 Running `letsencrypt-auto` will install all the dependencies of LetsEncrypt. This might take a while. When the install finishes, we'll run LetsEncrypt again, this time in interactive mode:
 
 ```bash
-$ ./letsencrypt-auto --apache
+./letsencrypt-auto --apache
 ```
 
 The first screen is a warning about our web server - we have not configured the domain name for it.
@@ -126,3 +126,11 @@ Let's edit the file `/var/www/html/index.html` and replace its contents with
 Refresh the browser and you can now see the tell-tale sign of a green padlock, indicating a secure connection.
 
 {% picture 2016/05/apache/done.png alt="HTTPS page" %}
+
+## Conclusion
+
+We have now successfully set up a new HTTPS web site. All traffic from that site is encrypted in transit between the web server and a visitors computer and thus protected from eavesdropping, analysis and modification - things that have increasing importance as global mass-surveillance levels increase. Open source software and LetsEncrypt are both free which means people won't have to pay for the privilege of security any more. If you're not already running your site over HTTPS - not would be the time.
+
+---
+
+_(1) `secret.sqroot.eu` is used as an example and is not a working website. To see how a LetsEncrypt validated certificate looks like, inspect the certificate of this blog (sqroot.eu)._
