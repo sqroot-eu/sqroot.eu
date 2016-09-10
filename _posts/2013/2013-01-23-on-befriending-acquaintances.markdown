@@ -10,18 +10,32 @@ tags:
 - relationships
 ---
 
-Technological advances during the last ten years have significantly changed my definition for the word "friend".
+Technological advances during the last ten years have significantly changed my definition of the word "friend".
 
-My friends acquaintance - someone I hadn't spoken to in years - decided to friend me on Facebook today. I have a problem with that. No, not the fact that people want to renew old relationships or begin new ones, I'm all for that... but I don't like the fact that the lines between strangers (against whom wise mothers warn you about), acquaintances (that weird guy from the CS department) and friends (who'll answer the phone at 4am and tell you everything will be OK) have become so blurred.
+An acquaintance - someone I hadn't spoken to in years - sent me a friend request on Facebook, out of the blue. I'm all for renewing old relationships and starting new ones, but I generally won't allow people into my (online) life very easily.
 
-How does one define the word friend? Looking at the average number of friends people have in Facebook, I'd say the term is quite broad... yet <a href="http://www.forbes.com/sites/georgeanders/2012/07/18/oxford-scholar-facebook-wont-widen-your-social-circle/">research shows</a> that we can have healthy and enduring ties to at most <a href="http://en.wikipedia.org/wiki/Dunbar's_number">150 people</a>.
+## Why I Abstain From Friending
 
-I have accounts on Google+, Twitter and Facebook. When Google+ launched, I decided: Twitter will be my public channel of information, Google+ I shall use for more professional networking and Facebook will help me share with the people I care about most, which also meant that of all the information I share with the world, Facebook should be kept the most restrained. Meaning I had to find my personal definition for the term "friend".
+Part of the reason is that I'm paranoid: Facebook is a huge attack surface for [gathering](https://www.technologyreview.com/s/427294/facebook-privacy-compromised-by-cloaking-attacks/) [personal](https://byrslf.co/how-you-can-use-facebook-to-track-your-friends-sleeping-habits-505ace7fffb6) [information](http://techland.time.com/2012/02/03/on-facebook-friends-of-friends-could-mean-hundreds-of-thousands/) and poor security hygiene from my "connections" will backfire onto me.
 
-Quite simply put, a "friend" is someone I trust. Trust with keeping my privacy (although Facebook makes this so troublesome that it's actually sensible to <a href="http://mashable.com/2012/05/14/privacywatch-infographic/">pay for being informed</a>), trust with my thoughts and am willing to accept their trust in return. And trust... is earned. Faith is not something you immediately have for someone you met in a bar last night or a colleague from another country.
+Another part is privacy: not everyone need to know how my trip went or what I ate for lunch.
 
-People take befriending online way too easily and are then hurt when irony happens. Another metaphor: would you have unprotected sex on the first date, no matter how much you'd want to?
+And finally - people have managed to socialize fine for thousands of years without the Internet - Facebook should be seen as an additional, not a primary channel for connection.
 
-She was offended when I didn't accept her invitation to connect. I felt bad... and had to write down this advise: become a part of someones life and only then change your relationship status to "Friends"... and be understanding if the reply is "I'm sorry, but I just don't trust you enough yet - but I want to."
+## Who Is a "Friend"?
 
-\* These thoughts do not apply to professional networking such as LinkedIn.
+The lines between strangers (against whom mothers warn you about), acquaintances (that guy from the CS department) and friends (who'll answer the phone at 4am and tell you everything will be OK) has become blurred.
+
+How does one define the word friend? Looking at the average number of friends people have in Facebook, I'd say the term is quite broad... yet [research shows](http://www.forbes.com/sites/georgeanders/2012/07/18/oxford-scholar-facebook-wont-widen-your-social-circle/) that we can have healthy and enduring ties to at most [150 people](http://en.wikipedia.org/wiki/Dunbar's_number) and [completely trust](http://www.telegraph.co.uk/news/science/science-news/12108412/Facebook-users-have-155-friends-but-would-trust-just-four-in-a-crisis.html) only a handful.
+
+Quite simply put, a "friend" is someone I trust and interact to on a regular basis. (S)he'll keep my privacy (although Facebook makes this so troublesome that it's actually sensible to [pay for being informed](http://mashable.com/2012/05/14/privacywatch-infographic/)) and thoughts. And trust... is earned with time. Faith is not something you immediately have for someone you met in a bar last night.
+
+----
+
+People take befriending online way too easily and are then hurt when irony happens. Another metaphor: would you have unprotected sex on the first date?
+
+When I didn't accept her invitation to connect, she was offended... and I felt bad. This post is my explanation: you're nice and intriguing. Let's hang out more and learn to trust one another before rushing to things that should come much later in the relationship.
+
+{% picture 2013/01/facebook-friends.png alt="Facebook feedback survey on friend count" %}
+
+\* These thoughts do not apply to professional networking such as LinkedIn or Twitter.

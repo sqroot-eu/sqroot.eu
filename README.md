@@ -1,7 +1,7 @@
 # sqroot.eu
 
-[![Travis](https://img.shields.io/travis/sqroot-eu/sqroot.eu.svg)](https://travis-ci.org/anroots/sqroot.eu)
-[![Docker Pulls](https://img.shields.io/docker/pulls/sqroot-eu/sqroot.eu.svg)](https://hub.docker.com/r/anroots/sqroot.eu/)
+[![Travis](https://img.shields.io/travis/sqroot-eu/sqroot.eu.svg)](https://travis-ci.org/sqroot-eu/sqroot.eu)
+[![Docker Pulls](https://img.shields.io/docker/pulls/sqroot-eu/sqroot.eu.svg)](https://hub.docker.com/r/sqroot-eu/sqroot.eu/)
 
 Source files of a Jekyll blog for [sqroot.eu](https://sqroot.eu).
 

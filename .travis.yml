@@ -19,6 +19,7 @@ script:
   - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH | tr / - ; fi`
   - docker build -t sqroot/sqroot.eu:$TAG .
   - docker push sqroot/sqroot.eu:$TAG
+  - docker rmi sqroot/sqroot.eu:$TAG
 
 after_script:
   - docker logout
