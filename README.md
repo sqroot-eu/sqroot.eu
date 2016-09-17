@@ -5,6 +5,16 @@
 
 Source files of a Jekyll blog for [sqroot.eu](https://sqroot.eu).
 
+## Building
+
+This is a Jekyll site. You need to have Ruby and `bundle` installed.
+
+```
+bundle install --path=vendor
+bundle exec jekyll build
+docker-compose up
+```
+
 ## License
 
 Code under Apache2 for learning purposes.
