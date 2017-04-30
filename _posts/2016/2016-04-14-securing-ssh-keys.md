@@ -152,6 +152,9 @@ Learning more about SSH security and implementing the above-mentioned practices 
 
 > Security is something you know, something you have, and something you are. - [Bruce Schneier](http://tammersaleh.com/posts/building-an-encrypted-usb-drive-for-your-ssh-keys-in-os-x)
 
+
+**Update** _(2017-04-30)_: John Doe has [created his version of a script](https://bitbucket.org/johnniedoe/ssh-loader) to automate loading keys from VeraCrypt to `ssh-agent`. I have moved on from USB / VeraCrypt and started using [ePass](https://www.ftsafe.com/onlinestore/product?id=3) as a key-storage. I hear it's possible to use a YubiKey for SSH key storage, as soon as I'm able, I shall look into that.
+
 -------
 
 <p id="note-1">(1): Encrypted private keys require the password on every use, but this can be circumvented by using <code>ssh-agent</code>.</p>
