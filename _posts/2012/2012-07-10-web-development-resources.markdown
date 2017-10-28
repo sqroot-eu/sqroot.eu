@@ -17,7 +17,7 @@ The main purpose of this post is to serve as a reference to myself. Covers sites
 <ul>
 <li>BDD testing for PHP: <a href="http://behat.org/">Behat</a></li>
 <li>Unittesting for PHP: <a href="http://www.phpunit.de/manual/current/en/index.html">PHPUnit</a></li>
-<li>Testing within a browser: <a href="http://seleniumhq.org/">Selenium</a></li>
+<li>Testing within a browser: <a href="http://seleniumhq.org/">Selenium</a> (<a href="https://www.guru99.com/selenium-tutorial.html" target="_blank">tutorials</a>)</li>
 </ul>
 <h1>Designing</h1>
 <ul>
