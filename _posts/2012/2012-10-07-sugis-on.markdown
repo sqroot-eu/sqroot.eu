@@ -1,10 +1,10 @@
 ---
-title: Sügis on...
+title: 'Sügis on...'
 category: Personal
 tags:
-- vestlus
-- luule
-- sügis
+  - vestlus
+  - luule
+  - sügis
 header-img: content/2012/10/autumn-header.jpg
 ---
 
@@ -77,5 +77,6 @@ Läksin täna päeval korraks ühikast välja lihtsalt selleks, et sügiseses li
 - **M:** And last but not least...paar luuletajahingega tuttavaid, kes arutavad sügise ilude ja võlude üle läbi suhtlusvõrgustike, kui õues möllab sügistuul ja paistab kuu ning säravad tähed...
 - **/D:** ...ning ülejäänud maailm magab seda ilu maha.
 - **M:** indeed they do.
-- 
-- ![Autumn leaves]({{ site.url }}/content/2012/10/autumn.jpg)
+
+
+![Autumn leaves]({{ site.url }}/content/2012/10/autumn.jpg)
