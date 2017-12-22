@@ -13,6 +13,7 @@ highlighter: rouge
 permalink: "/:year/:title"
 paginate: 15
 exclude: ["Gemfile","Gemfile.lock", "nginx.conf", "Dockerfile", "package.json", "LICENSE","README.md",".travis.yml", "vendor", "node_modules"]
+include: [".well-known"]
 
 gems:
   - jekyll-paginate
