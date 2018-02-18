@@ -5,7 +5,7 @@ category: Learning
 header-img: content/2018/outages/header.png
 ---
 
-All times are in local (UTC+2) timezone. This post might be updated in the future with additional examples.
+All times are in local (UTC+2) timezone.
 
 Consumers, with their ISP-provided all-in-one router/firewall/switch/access point have it easy: plug it in, and hardly anything ever breaks.
 I run a personal homelab from my apartment - a 42U rack with a firewall, switched networking, application servers, UPS - all the good stuff.
@@ -40,6 +40,7 @@ Result - the `30GB` data cap was eaten up very quickly, the backup failed and th
 when the cap reset.
 
 {% picture 2018/outages/traffic-graph.png alt="Traffic graph of secondary WAN" %}
+{% picture 2018/outages/data-cap.png alt="Data cap full" %}
 
 An additional alert was thrown about the failure of the secondary WAN by Prometheus monitoring as soon as the cap was breached
 and the ISP blocked service.
