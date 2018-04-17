@@ -87,6 +87,21 @@ Some minutes later, the Quad9 DNS service was working again and the hotfix could
 Root cause unclear: either an outage at the nearest Quad9 distribution servers or a network failure between me and Quad9.
 No similar outage has happened to date and Quad9 does not have a service status page (that I could find).
 
+## Momentary Power Spike from Mains Power
+
+- **Start**: `2018-04-17 11:18:03`
+- **End**: `2018-04-17 11:18:10`
+- **Root Cause**: Unexpected power spike on mains power, over Tallinn city centre, reason unknown
+- **Discovered By**: User + Monitoring
+
+I was working in the office, when, suddenly, the green emergency exit sign on the ceiling flashed to ~300% regular brightness, then back again. Seconds later, I received an alert on my phone that my homelab had gone to battery power - the UPS had taken over. Five seconds later, the UPS was back on mains power.
+
+{% picture 2018/outages/ups-battery.png alt="Kibana logs, showing UPS switching into battery mode" %}
+
+Theory: an unexpected power spike occured in central Tallinn, my office and home were affected. The spike lasted a second or two.
+
+The homelab was protected by the UPS.
+
 ----
 
 (This post will be updated when more interesting incidents occur)
