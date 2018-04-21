@@ -230,3 +230,5 @@ All the project files - hardware schematics, firmware, Hubot script and HTTP POS
 
 * [Code @ GitHub](https://github.com/anroots/tiny-doorbell-remote)
 * [Samy Kamkar's original doorbell project](http://samy.pl/dingdong)
+
+_Update: two years after this, [I built a IoT smart doorbell](https://sqroot.eu/2017/snarky-doorbell)._

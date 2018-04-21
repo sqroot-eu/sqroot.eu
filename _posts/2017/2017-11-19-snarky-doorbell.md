@@ -5,7 +5,7 @@ category: Hardware
 header-img: content/2017/snarky/cover-img.jpg
 ---
 
-Snarky Doorbell is a custom-built smart IoT doorbell, that I built for my office.
+Snarky Doorbell is a custom-built smart IoT office doorbell.
 
 Instead of the usual monotonic "ding-dong", it has personality: when the doorbell is rung, it responds
 with a snarky voice comment in the style of "Ooo, this must be the pizza we ordered!" or
@@ -32,10 +32,21 @@ I had [previously messed around with our wireless doorbell](https://sqroot.eu/20
 
 <iframe style="width: 100%" width="700" height="600" src="https://www.youtube-nocookie.com/embed/ut_KckcVxW0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+The build process took over two years of intermittent tinkering.
+
+{% picture 2017/snarky/1.jpg alt="Build photo" %}
+{% picture 2017/snarky/2.jpg alt="Build photo" %}
+{% picture 2017/snarky/3.jpg alt="Build photo" %}
+{% picture 2017/snarky/4.jpg alt="Build photo" %}
+{% picture 2017/snarky/5.jpg alt="Build photo" %}
+{% picture 2017/snarky/6.jpg alt="Build photo" %}
+{% picture 2017/snarky/7.jpg alt="Build photo" %}
+{% picture 2017/snarky/8.jpg alt="Build photo" %}
+
 ## Features
 
-- Several custom voice personals ("Easily excitable manager")
-- Settings (voice, language, volume) can be changed via buttons on the front panel
+- Several custom voice personals ("Easily excitable manager", "Old lady")
+- Settings (voice, language, volume) can be changed via knobs on the front panel
 - Built-in WiFi HTTP RESTful API server (statistics on doorbell rings)
 - Open source project plans
 - Non-intrusive integration with the existing doorbell system (uses the same doorbell button)
@@ -46,7 +57,7 @@ Our wireless doorbell is a pretty standard one - when the ring button is pressed
 radio frequency to the doorbell unit, which listens to it and rings.
 
 Snarky Doorbell is, in essence, another signal receiver. In the doorbell, there is an `Atmega328` chip with a `433MHz` receiver,
-that constantly listens for incoming signals. When a signal from the doorbell remote (it has a specific ID) is detected, the module
+that constantly listens for incoming signals. When a signal from the doorbell remote is detected, the module
 outputs a `HIGH` signal, that is then sent to a Raspberry Pi pin.
 
 The Pi activates and plays a pre-recorded, randomly picked `.wav` file as the ringtone through a connected `3.5mm` speaker.
