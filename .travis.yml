@@ -10,7 +10,7 @@ node_js:
 before_install:
   - bundle install
   - npm install
-  - docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
+  - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
   - cd _assets && ../node_modules/bower/bin/bower install && cd ..
 
 script:
