@@ -2,7 +2,7 @@
 title: SQroot.eu
 header-img: content/site/home-bg.jpg
 email: ando@sqroot.eu
-description: "A personal blog about information technology and society"
+description: "A personal engineering blog"
 baseurl: ""
 url: "https://sqroot.eu"
 timezone: Europe/Tallinn
@@ -38,7 +38,6 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       author: "Ando"
-      comments: true
       layout: "post"
   -
     scope:

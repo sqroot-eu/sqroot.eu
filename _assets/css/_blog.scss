@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Old Standard', 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto Slab', 'Helvetica Neue', sans-serif;
   font-weight: 800;
 }
 a {
@@ -78,7 +78,8 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: $white-faded;
+    color: $white;
+    border: 2px solid $white;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -196,7 +197,7 @@ hr.small {
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Old Standard TT', serif;
+  font-family: 'Roboto Slab', serif;
   font-style: italic;
   font-weight: 300;
   font-size: 20px;

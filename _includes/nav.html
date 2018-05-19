@@ -18,6 +18,12 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
+                <li>
+                    <a href="https://github.com/anroots" target="_blank" title="GitHub">Portfolio</a>
+                </li>
+                <li>
+                    <a href="https://linkedin.com/in/anroots" target="_blank" title="LinkedIn">CV</a>
+                </li>
                 {% for page in site.pages %}{% if page.title and page.visible %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
