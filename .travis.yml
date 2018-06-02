@@ -3,9 +3,9 @@ services:
   - docker
 language: ruby
 rvm:
-  - 2.2
+  - 2.5
 node_js:
-  - 4.1
+  - 8
 
 env:
   - JEKYLL_ENV=production
