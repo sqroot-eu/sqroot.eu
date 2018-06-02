@@ -15,9 +15,9 @@ The result was a light-box with switchable front covers. It went up behind my de
 
 The project was meant as a quick prototype and a mildly sarcastic remark about development work in open space. This won't solve the [programmer interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted) syndrome, but at least I get to state my views and had fun building it.
 
-{% picture gallery 2015/06/sign_1.jpg alt="Sign demo 1" %}
-{% picture gallery 2015/06/sign_3.jpg alt="Insides of the box" %}
-{% picture gallery 2015/06/sign_4.jpg alt="Different signs" %}
-{% picture gallery 2015/06/sign_2.jpg alt="Production installation" %}
+{% asset 2015/06/sign_1.jpg alt="Sign demo 1" %}
+{% asset 2015/06/sign_3.jpg alt="Insides of the box" %}
+{% asset 2015/06/sign_4.jpg alt="Different signs" %}
+{% asset 2015/06/sign_2.jpg alt="Production installation" %}
 
 Files used for printing the signs: [pdf]({{ site.url }}/content/2015/06/signs.pdf) and [odt]({{ site.url }}/content/2015/06/signs.odt).

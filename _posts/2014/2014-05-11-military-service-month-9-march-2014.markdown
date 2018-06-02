@@ -48,7 +48,7 @@ Our computer has PowerShell IDE and I'm bored. I browse the manual and learn eno
 
 The morning sunrise is beautiful and we drive back to the battalion through a summery country.
 
-{% picture 2014/05/ando.jpg alt="Me" %}
+{% asset 2014/05/ando.jpg alt="Me" %}
 
 SFC Ps has us doing generator maintenance: oil, air and fuel filters need changing. I feel like a qualified mechanic, handling screws and parts and oil, doing my job fast and correctly on my own. The military has taught me some basics.
 
@@ -68,7 +68,7 @@ Two of the officers come to check on us during the night, I see their headlights
 
 The tent flaps around me as I wake: the wind is strong, we tied the tent down extra carefully the day before. The sun is bright, its light and warm and summery. I cook my breakfast during the first rotation of patrol duty, there is no rush, which is such a contrast to the first two months of SBC when we had 15...20minutes for eating and cleaning up.
 
-{% picture 2014/05/tent.jpg alt="Tent" %}
+{% asset 2014/05/tent.jpg alt="Tent" %}
 
 An order to jump arrives, our new position is in a bloody swamp. There is a narrow area of solid land, a few meters too small to set up, some of the stakes have to go into the watery areas. The access road is full of thick mud. Some careful maneuvering and position choosing and we manage to set up just fine.
 
@@ -92,8 +92,8 @@ Weekend passes since four. I spend Friday / Saturday night at <a href="{{ site.u
 
 </blockquote>
 
-{% picture 2014/05/it1.jpg alt="IT ÖÖ" %}
-{% picture 2014/05/it2.jpg alt="IT ÖÖ" %}
+{% asset 2014/05/it1.jpg alt="IT ÖÖ" %}
+{% asset 2014/05/it2.jpg alt="IT ÖÖ" %}
 
 The battalion is organizing a military poetry competition in celebration of the upcoming Estonian language day. I sat down and wrote a poem expressing my frustration on the many reasons for dealing out small punishments the officers constantly find. This was the only entry and the contest was cancelled.
 
@@ -132,8 +132,8 @@ We jump at 0500, nothing goes smoothly. The military (or rather, the people here
 
 The chaplain comes to chit-chat and gauge the mood of soldiers. I evade all sensitive questions, I don't trust him.
 
-{% picture 2014/05/winter_1.jpg alt="Winter" %}
-{% picture 2014/05/winter_2.jpg alt="Winter" %}
+{% asset 2014/05/winter_1.jpg alt="Winter" %}
+{% asset 2014/05/winter_2.jpg alt="Winter" %}
 
 <hr />
 
@@ -165,7 +165,7 @@ Weekend passes start at Thursday. I have a job interview with <a href="http://to
 
 Soldiered most of my BoxOfWords project at the EIK robotics club and had pizza at a beach with a good friend.
 
-{% picture 2014/05/pcb.jpg alt="PCB" %}
+{% asset 2014/05/pcb.jpg alt="PCB" %}
 
 <h2>Tactics Camp</h2>
 

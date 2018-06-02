@@ -21,23 +21,23 @@ If you already have a server, skip this step.
 
 We'll create a new web server using DigitalOcean. Log in to your account (or [create one](https://m.do.co/c/6866ad4ad2b9)). Create a new Droplet using Ubuntu 14.04 as the base image.
 
-{% picture 2016/05/apache/create-1.png alt="Create Ubuntu Server" %}
+{% asset 2016/05/apache/create-1.png alt="Create Ubuntu Server" %}
 
 Add your SSH key to the server and give the server a host name.
 
-{% picture 2016/05/apache/create-2.png alt="Naming the Server" %}
+{% asset 2016/05/apache/create-2.png alt="Naming the Server" %}
 
 After about a minute, the server is ready. Copy the IP and log in with SSH:
 
-{% picture 2016/05/apache/create-3.png alt="Server is Ready" %}
+{% asset 2016/05/apache/create-3.png alt="Server is Ready" %}
 
-{% picture 2016/05/apache/ssh-login.png alt="SSH Login" %}
+{% asset 2016/05/apache/ssh-login.png alt="SSH Login" %}
 
 ## Installing The Web Server
 
 We now have a server on the Internet, but there's nothing there yet - visiting the IP address with a browser gives an error.
 
-{% picture 2016/05/apache/no-reply.png alt="No Reply" %}
+{% asset 2016/05/apache/no-reply.png alt="No Reply" %}
 
 Let's install [Apache](https://apache.com), an open-source web server.
 
@@ -48,11 +48,11 @@ apt-get install -y apache2
 
 After the command finishes, we can refresh the browser - the web server is running and displays the default welcome page.
 
-{% picture 2016/05/apache/welcome.png alt="Welcome Page" %}
+{% asset 2016/05/apache/welcome.png alt="Welcome Page" %}
 
 Notice that the site is running over HTTP and is not encrypted in transit. This is how much of the Internet currently looks. In practical terms, this means that if you, the visitor, browse to this page in a public airport  network and I, the mean person am there too, I could see everything you do.
 
-{% picture 2016/05/apache/wireshark.png alt="Inspecting HTTP traffic" %}
+{% asset 2016/05/apache/wireshark.png alt="Inspecting HTTP traffic" %}
 
 To avoid this and maintain communication privacy, we'll configure the server with HTTPS.
 
@@ -60,7 +60,7 @@ To avoid this and maintain communication privacy, we'll configure the server wit
 
 To get a HTTPS certificate, we need a domain name. Log in to your domain name server management interface and add a new A-record. I want my web page to be located at `secret.sqroot.eu` (1), so I added the following:
 
-{% picture 2016/05/apache/dns.png alt="Create a DNS record" %}
+{% asset 2016/05/apache/dns.png alt="Create a DNS record" %}
 
 ## Ordering Certificates
 
@@ -83,29 +83,29 @@ Running `letsencrypt-auto` will install all the dependencies of LetsEncrypt. Thi
 
 The first screen is a warning about our web server - we have not configured the domain name for it.
 
-{% picture 2016/05/apache/no-names.png alt="No names found" %}
+{% asset 2016/05/apache/no-names.png alt="No names found" %}
 
 Choose "Yes" and enter the domain name you plan to use.
 
-{% picture 2016/05/apache/set-name.png alt="Set domain name" %}
+{% asset 2016/05/apache/set-name.png alt="Set domain name" %}
 
 Next, enter your e-mail. This will be used for recovery purposes, should you loose your certificate.
 
-{% picture 2016/05/apache/set-email.png alt="Set email" %}
+{% asset 2016/05/apache/set-email.png alt="Set email" %}
 
-{% picture 2016/05/apache/tos.png alt="Agree TOS" %}
+{% asset 2016/05/apache/tos.png alt="Agree TOS" %}
 
 Choosing "Secure" will "force" visitors to use a secure connection. HTTP connections will be redirected to HTTPS.
 
-{% picture 2016/05/apache/http-redirect.png alt="Redirect HTTP" %}
+{% asset 2016/05/apache/http-redirect.png alt="Redirect HTTP" %}
 
-{% picture 2016/05/apache/success.png alt="Success" %}
+{% asset 2016/05/apache/success.png alt="Success" %}
 
 When the wizard finishes, open the domain in your browser - you should still see the same default server page, but now, over a domain name and in encrypted form.
 
 One final thing to note - although the contents of the current page are now secure, it's references it tries to fetch over HTTP are not. The default page loads some CSS files from an insecure (HTTP) source and the browser warns us about it.
 
-{% picture 2016/05/apache/secure.png alt="Secure" %}
+{% asset 2016/05/apache/secure.png alt="Secure" %}
 
 Let's edit the file `/var/www/html/index.html` and replace its contents with
 
@@ -125,7 +125,7 @@ Let's edit the file `/var/www/html/index.html` and replace its contents with
 
 Refresh the browser and you can now see the tell-tale sign of a green padlock, indicating a secure connection.
 
-{% picture 2016/05/apache/done.png alt="HTTPS page" %}
+{% asset 2016/05/apache/done.png alt="HTTPS page" %}
 
 ## Conclusion
 

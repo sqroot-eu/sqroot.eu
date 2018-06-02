@@ -35,17 +35,17 @@ Considering the requirements, we settled on the following design:
 - If the door is not closed within 30 seconds, an internal Piezo buzzer will start beeping
 - When the door is closed, the cycle repeats
 
-{% picture 2018/shut-it/schematic.png alt="Project schematic" %}
+{% asset 2018/shut-it/schematic.png alt="Project schematic" %}
 
 ## Build Process
 
 We started with a breadboard prototype: Arduino hooked up to a sensor, a LED and a buzzer.
 
-{% picture 2018/shut-it/breadboard.jpg alt="Breadboard" %}
+{% asset 2018/shut-it/breadboard.jpg alt="Breadboard" %}
 
 This enabled us to write and test the Arduino firmware.
 
-{% picture 2018/shut-it/programming.png alt="Arduino code" %}
+{% asset 2018/shut-it/programming.png alt="Arduino code" %}
 
 With the code properly reading sensors and activating the buzzer, came the time for physical assembly: 
 The project needed to come off the breadboard and into a permanent, fixed PCB. 
@@ -53,22 +53,22 @@ The project needed to come off the breadboard and into a permanent, fixed PCB.
 The Atmega328 chip was attached to an empty PCB, with all the required I/O
 devices and connectors soldered onto it.
 
-{% picture 2018/shut-it/solder1.jpg alt="Soldering" %}
+{% asset 2018/shut-it/solder1.jpg alt="Soldering" %}
 
-{% picture 2018/shut-it/solder2.jpg alt="Soldering" %}
+{% asset 2018/shut-it/solder2.jpg alt="Soldering" %}
 
-{% picture 2018/shut-it/pcb-done.jpg alt="Soldering done" %}
+{% asset 2018/shut-it/pcb-done.jpg alt="Soldering done" %}
 
-{% picture 2018/shut-it/completed-box-in.jpg alt="Completed box" %}
+{% asset 2018/shut-it/completed-box-in.jpg alt="Completed box" %}
 
 We used an Apple Mouse box as the project enclosure. As a result, the completed project was
 elegantly White.
 
-{% picture 2018/shut-it/finished-front.jpg alt="Completed box" %}
+{% asset 2018/shut-it/finished-front.jpg alt="Completed box" %}
 
 Double-sided tape to the back of the box keeps the project on a wall.
 
-{% picture 2018/shut-it/finished-back.jpg alt="Completed box" %}
+{% asset 2018/shut-it/finished-back.jpg alt="Completed box" %}
 
 ## Installation
 
@@ -76,7 +76,7 @@ We installed the project to the problematic door; and it works: when the door is
 opened, the project powers ON, waits for 30 seconds and will then start BEEPING, alerting the
 office: the door was left open again.
 
-{% picture 2018/shut-it/installing.jpg alt="Installing" %}
+{% asset 2018/shut-it/installing.jpg alt="Installing" %}
 
 ## Source
 

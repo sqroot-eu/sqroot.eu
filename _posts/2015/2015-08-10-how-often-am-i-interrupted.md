@@ -37,7 +37,7 @@ I exported four weeks of time-tracking data from Toggl. Let's take a look.
 
 During a month, I spent a total of 30 hours (sum of 70 logged interruptions) doing something that was not planned into sprints.
 
-{% picture 2015/08/sprint_summary.png alt="Time summary" %}
+{% asset 2015/08/sprint_summary.png alt="Time summary" %}
 
 * Sprint #25: &sum; 14 hours
 * Sprint #26: &sum; 16 hours
@@ -48,8 +48,8 @@ A week contains 40 hours of work time. A sprint is two weeks. Two sprints is `40
 
 ## Day Breakdown
 
-{% picture 2015/08/days_graph.png alt="Time by days" %}
-{% picture 2015/08/days_count_graph.png alt="Days count graph" %}
+{% asset 2015/08/days_graph.png alt="Time by days" %}
+{% asset 2015/08/days_count_graph.png alt="Days count graph" %}
 
 * Mondays - 7h x16
 * Tuesdays - 3h x7
@@ -61,7 +61,7 @@ The day I get most work done is Tuesday. Fridays get almost three times as many 
 
 ## Category Breakdown
 
-{% picture 2015/08/interruptions_by_category.png alt="Interruptions by category" %}
+{% asset 2015/08/interruptions_by_category.png alt="Interruptions by category" %}
 
 I tagged each interruption into one of the following categories.
 
@@ -73,7 +73,7 @@ I tagged each interruption into one of the following categories.
 
 ## Hour Breakdown
 
-{% picture 2015/08/interruptions_by_time.png alt="Interruptions by time" %}
+{% asset 2015/08/interruptions_by_time.png alt="Interruptions by time" %}
 
 Most interruptions occur first thing in the morning (09) or after noon (14, 15).
 

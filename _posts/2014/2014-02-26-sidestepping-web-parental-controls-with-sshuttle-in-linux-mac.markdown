@@ -13,7 +13,7 @@ tags:
 
 I was travelling in a bus with free WiFi and needed some music. My go to solution? Youtube. Surprisingly, the bus company had blocked the domain, probably to avoid freeloaders like me overloading the network.
 
-{% picture 2014/02/youtube_blocked.jpg alt="Youtube, blocked" %}
+{% asset 2014/02/youtube_blocked.jpg alt="Youtube, blocked" %}
 
 Since I don't like censorship and thought streaming music (without video) to be fair use, I took it as a challenge.
 
@@ -37,4 +37,4 @@ $ ./sshuttle --dns -r anroots@enos.itcollege.ee 0/0
 
 The `--dns` flag is important. Replace `anroots@enos.itcollege.ee` with your login and server and enjoy unfiltered access.
 
-{% picture 2014/02/youtube_unblocked.jpg alt="Youtube, unblocked" %}
+{% asset 2014/02/youtube_unblocked.jpg alt="Youtube, unblocked" %}

@@ -7,7 +7,7 @@ header-img: content/2017/god-book.jpg
 
 I was walking in Leicester Square today when this man stopped me for a chat.
 
-{% picture 2017/god-man.jpg alt="Man on Leicester Square" %}
+{% asset 2017/god-man.jpg alt="Man on Leicester Square" %}
 
 - "Where do you think you will be when you die?"
 - "Nowhere, I 'suppose"
@@ -23,7 +23,7 @@ So, basically, a random believer, whom I had never met, in a city of 9 million, 
 I had no identifying marks on my person, nor did I mention any clues to my nationality in our previous, short, philosophical conversation.
 How do you 'suppose that came to happen? I was caught off guard and accepted the religious, free book (but did not promise anything).
 
-{% picture 2017/god-book.jpg alt="Godly book" %}
+{% asset 2017/god-book.jpg alt="Godly book" %}
 
 However, I am a hacker and I like interesting problems. So, I watched the man, as he went about his business. Funny thing, he was standing in the middle of a very busy street, with lots of potential non-believers, waiting to be converted, but he was looking at his phone 95% of the time.
 

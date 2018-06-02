@@ -7,17 +7,17 @@ header-img: content/2015/07/spy_map_header.png
 
 It started with an innocent-looking Facebook status update: my friend Anna<sup>*</sup> was enjoying the good weather by riding her bike and tracking her ride with Endomondo (a social sports statistics service).
 
-{% picture 2015/07/fb_update.png alt="Facebook status update from Endomondo" %}
+{% asset 2015/07/fb_update.png alt="Facebook status update from Endomondo" %}
 
 Clicking on it took me to Endomondo's homepage where details of the sports activity - including a detailed route map - could be seen.
 
-{% picture 2015/07/activity_map.png alt="Endomondo activity details" %}
+{% asset 2015/07/activity_map.png alt="Endomondo activity details" %}
 
 I am a somewhat privacy-aware person and a white-hat "investigator" of infosystems so naturally my first thought was whether the percise map data was public (it was) and how accurately this could be misused by (for example) stalking fans of a published reporter.
 
 # Endomondo Privacy
 
-{% picture 2015/07/i_agree.png alt="Signup form" %}
+{% asset 2015/07/i_agree.png alt="Signup form" %}
 
 New users of Endomondo have to check a box saying they agree with the ToS and [Privacy Policy](https://www.endomondo.com/privacy). Should one actually read the latter, it explicitly states that by default the user's profile and maps for workouts are visible to the public (requiring no sign-up nor "befriending" to gain access).
 
@@ -49,11 +49,11 @@ I identified three of my friends who had at least a couple months worth of publi
 
 The first part of the task turned out to be relatively easy. The web interface of Endomondo lists user's activity in a calendar view. Clicking on next-previous month buttons does not refresh the web page, which means the data is pulled in dynamically with XHR requests.
 
-{% picture 2015/07/activity_calendar.png alt="Endo activity calendar" %}
+{% asset 2015/07/activity_calendar.png alt="Endo activity calendar" %}
 
 Looking at XHR requests in Chrome DevTools after clicking on an activity icon in the calender revealed a JSON API that lists GPS coordinates for the current activity in a nice, parsable format.
 
-{% picture 2015/07/inspect_api.png alt="Endo JSON API" %}
+{% asset 2015/07/inspect_api.png alt="Endo JSON API" %}
 
 I downloaded seven to thirteen data sets (reports from activities) from each target profile and saved them as JSON files.
 
@@ -89,15 +89,15 @@ I managed to download, process and create a "probably lives here" map for all of
 
 ### Anna - Accuracy: 100%
 
-{% picture gallery 2015/07/spy_map_1.png alt="Anna's house on Google Maps" %}
-{% picture gallery 2015/07/street_view_1.png alt="Anna's house on Google Street View" %}
+{% asset 2015/07/spy_map_1.png alt="Anna's house on Google Maps" %}
+{% asset 2015/07/street_view_1.png alt="Anna's house on Google Street View" %}
 
 Anna's house was easy to identify. The markers on the map clustered on the street between a schoolhouse and a small private residence, which I assumed was her home.
 
 ### Tuule - Accuracy: 100%
 
-{% picture gallery 2015/07/spy_map_2.png alt="Tuule's house on Google Maps" %}
-{% picture gallery 2015/07/street_view_2.png alt="Tuule's house on Google Street View" %}
+{% asset 2015/07/spy_map_2.png alt="Tuule's house on Google Maps" %}
+{% asset 2015/07/street_view_2.png alt="Tuule's house on Google Street View" %}
 
 Identifying where I could visit Tuule<sup>*</sup> did not cause any problems either. Her markers clustered on the street between two private residences, but some of the markers were in the yard of one of them, identifying the correct house.
 
@@ -105,17 +105,17 @@ Identifying where I could visit Tuule<sup>*</sup> did not cause any problems eit
 
 Jakob<sup>*</sup> had clusters of markers in two parts of the city - he'd moved from a university dorm to one of two private residences.
 
-{% picture 2015/07/spy_map_3.1.png alt="Jacob's house on Google Maps" %}
+{% asset 2015/07/spy_map_3.1.png alt="Jacob's house on Google Maps" %}
 
 I identified the dorm building...
 
-{% picture gallery 2015/07/spy_map_3.2.png alt="Jacob's house on Google Maps" %}
-{% picture gallery 2015/07/street_view_3.1.png alt="Jacob's house on Google Street View" %}
+{% asset 2015/07/spy_map_3.2.png alt="Jacob's house on Google Maps" %}
+{% asset 2015/07/street_view_3.1.png alt="Jacob's house on Google Street View" %}
 
 ...but couldn't accurately tell which private residence was the correct one.
 
-{% picture gallery 2015/07/street_view_3.2.png alt="Jacob's house on Google Street View" %}
-{% picture gallery 2015/07/spy_map_3.3.png alt="Jacob's house on Google Maps" %}
+{% asset 2015/07/street_view_3.2.png alt="Jacob's house on Google Street View" %}
+{% asset 2015/07/spy_map_3.3.png alt="Jacob's house on Google Maps" %}
 
 ## Conclusions
 

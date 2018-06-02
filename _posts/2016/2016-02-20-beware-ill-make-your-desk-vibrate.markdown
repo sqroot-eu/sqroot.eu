@@ -11,13 +11,13 @@ You've been pranked.
 
 My latest semi-useless project is a small vibrator that can be attached to the underside of a table.
 
-{% picture 2016/02/555/5.jpg alt="Vibration module, top view" %}
+{% asset 2016/02/555/5.jpg alt="Vibration module, top view" %}
 
 The module is a time-delay circuit that runs on a single 3V battery. You attach it to a table (duct-tape) and walk away. Nothing happens for fifteen minutes, but then, _Bzzzzz!_ - the attached small vibrator motor activates for four seconds, shaking itself and the table it's attached to. The vibration is quite strong and both audible and felt through the table. Fifteen minutes of silence and the vibration repeats.
 
 I built this over the weekend and deployed it on Monday as a practical joke: me and [@valdna_wm](https://twitter.com/valdna_wm) sneaked into the office early, located our target ([@jonnapechter](https://twitter.com/jonnapechter)) and I taped the device under her table while `@valdna_wm` kept watch. She discovered it a couple of hours later. There was a cake on my table the next Monday.
 
-{% picture 2016/02/555/cake.jpg alt="A thank you cake" %}
+{% asset 2016/02/555/cake.jpg alt="A thank you cake" %}
 
 ## Technical details
 
@@ -40,15 +40,15 @@ I chose resistors and a capacitor to achieve `12min` / `3sec` timings. The soldi
 - `14.47min` timeout for all following runs
 - `4sec` working time
 
-{% picture 2016/02/555/calculations.png alt="Timer calculations" %}
+{% asset 2016/02/555/calculations.png alt="Timer calculations" %}
 
 ## Photos From The Build
 
-{% picture gallery 2016/02/555/1.jpg alt="Breadboarding" %}
-{% picture gallery 2016/02/555/2.jpg alt="First view" %}
-{% picture gallery 2016/02/555/3.jpg alt="Bottom view" %}
-{% picture gallery 2016/02/555/4.jpg alt="Top view" %}
-{% picture gallery 2016/02/555/schematic.png alt="Project schematic" %}
+{% asset 2016/02/555/1.jpg alt="Breadboarding" %}
+{% asset 2016/02/555/2.jpg alt="First view" %}
+{% asset 2016/02/555/3.jpg alt="Bottom view" %}
+{% asset 2016/02/555/4.jpg alt="Top view" %}
+{% asset 2016/02/555/schematic.png alt="Project schematic" %}
 
 ## Bill Of Materials
 

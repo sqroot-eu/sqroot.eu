@@ -24,7 +24,7 @@ The officers speak for a while. And then, then at last:
 
 The officers send us to the front gate. There is laughter and joy, relief and in some cases, nostalgia.
 
-{% picture 2015/06/army/21.jpg alt="A lovely reunion" %}
+{% asset 2015/06/army/21.jpg alt="A lovely reunion" %}
 
 Many relatives and girlfriends wait in front of the gate and the men are not shy to greet them. I don't linger, say my goodbyes and walk away to start living my life.
 

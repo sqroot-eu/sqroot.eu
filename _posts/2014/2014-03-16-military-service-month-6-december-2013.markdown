@@ -17,7 +17,7 @@ tags:
 
 Sundays are the best. I take the day slowly doing whatever I want: the laptop, cookies with tea, improv and a movie.
 
-{% picture 2014/03/improv.jpg alt="Improv" %}
+{% asset 2014/03/improv.jpg alt="Improv" %}
 
 > "We were just admiring how well you would fit into Guard Battalion." - pvt Ai when I order the men to pipe down while in formation.
 
@@ -40,11 +40,11 @@ The drivers prepare and head out to their one and only forest camp at 1800. The 
 
 Its very comfortable and warm in the tent, in the sleeping bag. There is some wetness, but its not bad. The tent is large and cozy and there are many men. When everyone lays open their bedrolls there's barely room to move. The tent is a polygon shape, the heads go to the outside wall, legs towards the center oven. Boots and socks are put to dry. Men fiddle with their phones. SBC of the guard battalion is having their final hike nearby (we saw them digging trenches), but we are cozy and warm in the tent, such contrast!
 
-{% picture gallery 2014/03/camp1.jpg alt="Bunking down for the night" %}
-{% picture gallery 2014/03/camp2.jpg alt="Drying wet clothes" %}
-{% picture gallery 2014/03/camp3.jpg alt="Red oven" %}
-{% picture gallery 2014/03/camp4.jpg alt="Mandarins" %}
-{% picture gallery 2014/03/camp5.jpg alt="Early morning" %}
+{% asset 2014/03/camp1.jpg alt="Bunking down for the night" %}
+{% asset 2014/03/camp2.jpg alt="Drying wet clothes" %}
+{% asset 2014/03/camp3.jpg alt="Red oven" %}
+{% asset 2014/03/camp4.jpg alt="Mandarins" %}
+{% asset 2014/03/camp5.jpg alt="Early morning" %}
 
 Pvt Pn of the first unit managed to go over the roof with his jeep on the way to the camp - supposedly, there was a fox and the driver hit the brakes.
 
@@ -52,10 +52,10 @@ We wake and eat, it's still dark (but this will change in about an hour). All th
 
 After lunch activities include some shivering, some pretty sights of snowy Estonian woods and a drive through A FREAKIN' FROZEN RIVER! Our Unimogs are capable of driving through 1.2m of water, it's time to learn how. The cars are prepped and SFC Ps hops into the crate of the first car to go through. The cars slowly enter into the river and men use spades to move and break the ice from the cars path - even a small block of ice can break headlights.
 
-{% picture gallery 2014/03/road.jpg alt="Forest road" %}
-{% picture gallery 2014/03/river.jpg alt="Frozen river" %}
-{% picture gallery 2014/03/river1.jpg alt="Crossing the river" %}
-{% picture gallery 2014/03/river2.jpg alt="Crossing the river" %}
+{% asset 2014/03/road.jpg alt="Forest road" %}
+{% asset 2014/03/river.jpg alt="Frozen river" %}
+{% asset 2014/03/river1.jpg alt="Crossing the river" %}
+{% asset 2014/03/river2.jpg alt="Crossing the river" %}
 
 SFC Ps successfully makes it across and the rest get to try. It's a strange feeling of fear and excitement, driving in. The car bubbles and the water is just high enough to break into the cabin. Looking out of the windows I see ice floating around me. The bottom is slippery and steering is difficult. I cross without problems and feel awesome. This is one of the few awesome things you'll remember after the service, akin to skydiving. I will probably never get the chance to do this again. Afterwards, we clean the cars from smaller blocks of ice and seaweed.
 
@@ -65,8 +65,8 @@ The night is dedicated to a map reading exercise (in cars). No one of my three-m
 
 This concludes the DSC camp, we pack and head home. We don't take the most direct route, instead choosing to travel forest roads, just so we could get more practice. Driving through Estonia this way feels nice.
 
-{% picture gallery 2014/03/driver.jpg alt="A driver" %}
-{% picture gallery 2014/03/dashboard.jpg alt="Car dashboard" %}
+{% asset 2014/03/driver.jpg alt="A driver" %}
+{% asset 2014/03/dashboard.jpg alt="Car dashboard" %}
 
 I use my weekend pass to rest and see the new Hunger Games movie. Met SFC Ps in a store, in civilian context... which was weird.
 
@@ -115,7 +115,7 @@ Pvt Pl: "Rms Roots, sõjavägi on Teid muutnud."<br />
 Mina: "Seda ma ei kuule esimest korda."
 </blockquote>
 
-{% picture 2014/03/trolling.jpg alt="Trolling" %}
+{% asset 2014/03/trolling.jpg alt="Trolling" %}
 
 <h1>Week #25 (16 - 22 of December)</h1>
 
@@ -137,7 +137,7 @@ They announced our assigned positions. I'm in the radio unit (NODE), exactly whe
 
 Half the battalion gets out for Christmas, the second half during New Years. Christmas in the army is... something else. A few decorations were put up, but they felt empty. I'm on duty on the 24th (mopped the toilet four times). Men are allowed out for a few hours, some even for the whole day and night. The mess hall was set up for a formal dinner. Santa brought candy. ETV news crew was present and did a short clip on how soldiers celebrate Christmas, too (...). The best part of the day for me was the night shift, when I could be me for four hours, behind a laptop. The duty officer, 1st Lt Mu was feeling the holiday spirit too and only yelled at an incompetent soldier a little and made him run only five laps around the barracks.
 
-{% picture 2014/03/christmas.jpg alt="Christmas" %}
+{% asset 2014/03/christmas.jpg alt="Christmas" %}
 
 <blockquote>
 "Miks ETV õhtul meie pataljoni tuleb?<br />

@@ -36,6 +36,6 @@ People take befriending online way too easily and are then hurt when irony happe
 
 When I didn't accept her invitation to connect, she was offended... and I felt bad. This post is my explanation: you're nice and intriguing. Let's hang out more and learn to trust one another before rushing to things that should come much later in the relationship.
 
-{% picture 2013/01/facebook-friends.png alt="Facebook feedback survey on friend count" %}
+{% asset 2013/01/facebook-friends.png alt="Facebook feedback survey on friend count" %}
 
 \* These thoughts do not apply to professional networking such as LinkedIn or Twitter.

@@ -15,17 +15,17 @@ Now, the game had not been playtested at all due to lack of opportunity and time
 
 That being said, we _did_ manage to complete it and it looks pretty.
 
-{% picture 2016/05/cards/3.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/3.jpg alt="Cards Against Improvisation" %}
 
-{% picture 2016/05/cards/4.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/4.jpg alt="Cards Against Improvisation" %}
 
-{% picture gallery 2016/05/cards/1.jpg alt="Cards Against Improvisation" %}
-{% picture gallery 2016/05/cards/2.jpg alt="Cards Against Improvisation" %}
-{% picture gallery 2016/05/cards/5.jpg alt="Cards Against Improvisation" %}
-{% picture gallery 2016/05/cards/6.jpg alt="Cards Against Improvisation" %}
-{% picture gallery 2016/05/cards/7.jpg alt="Cards Against Improvisation" %}
-{% picture gallery 2016/05/cards/8.jpg alt="Cards Against Improvisation" %}
-{% picture gallery 2016/05/cards/cards-list.png alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/1.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/2.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/5.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/6.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/7.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/8.jpg alt="Cards Against Improvisation" %}
+{% asset 2016/05/cards/cards-list.png alt="Cards Against Improvisation" %}
 
 ## Future Ideas
 

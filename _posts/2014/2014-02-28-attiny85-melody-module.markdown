@@ -17,7 +17,7 @@ The project is a tinderbox-sized PCB with a microprocessor and a piezo buzzer. W
 
 The circuit itself is nothing complicated. The IC gets 3V from the battery and runs in standby mode. The trigger pin (2) is connected to a reed switch, the buzzer to the first PWM pin (5). There is a on-off switch (which actually works as a resistor (?!), passing 2.6V when OFF and 3.0V when ON). The loudness of the sound can be regulated with a trimpot. Three header pins pass out (or in) power, ground and the trigger.
 
-{% picture 2014/02/MelodyModule_Schematic.png alt="Schematic" %}
+{% asset 2014/02/MelodyModule_Schematic.png alt="Schematic" %}
 
 <h1>Optimizing Power Usage</h1>
 

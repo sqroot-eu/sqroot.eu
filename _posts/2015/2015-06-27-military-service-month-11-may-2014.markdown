@@ -64,15 +64,15 @@ A radio link falls down during the night and causes some alarm. We've learned th
 
 Historic event on the 7th of May: finding out how to do ones business in the woods.
 
-{% picture gallery 2015/06/army/2.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/3.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/4.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/5.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/6.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/12.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/13.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/14.jpg alt="Nature" %}
-{% picture gallery 2015/06/army/15.jpg alt="Nature" %}
+{% asset 2015/06/army/2.jpg alt="Nature" %}
+{% asset 2015/06/army/3.jpg alt="Nature" %}
+{% asset 2015/06/army/4.jpg alt="Nature" %}
+{% asset 2015/06/army/5.jpg alt="Nature" %}
+{% asset 2015/06/army/6.jpg alt="Nature" %}
+{% asset 2015/06/army/12.jpg alt="Nature" %}
+{% asset 2015/06/army/13.jpg alt="Nature" %}
+{% asset 2015/06/army/14.jpg alt="Nature" %}
+{% asset 2015/06/army/15.jpg alt="Nature" %}
 
 The nights get colder: full winter gear AND my sleeping bag, but I still shiver while standing watch. Yes, I'm a softie in terms of cold tolerance.
 
@@ -154,13 +154,13 @@ Our new placement is in a swampy forest road. I get my car stuck deeply; we're u
 
 A recovery team comes to pull us out from the mud. It takes two attempts, since the first car of theirs got himself stuck as well. We choose a new position on a nearby, dry field of grass. Best landscape I've been on yet: smooth and without obstacles.
 
-{% picture gallery 2015/06/army/7.jpg alt="Stuck" %}
-{% picture gallery 2015/06/army/8.jpg alt="Getting pulled out" %}
-{% picture gallery 2015/06/army/9.jpg alt="Getting pulled out" %}
-{% picture gallery 2015/06/army/10.jpg alt="Fog" %}
-{% picture gallery 2015/06/army/11.jpg alt="Morning" %}
-{% picture gallery 2015/06/army/19.jpg alt="Towing cable" %}
-{% picture gallery 2015/06/army/20.jpg alt="Towing cable" %}
+{% asset 2015/06/army/7.jpg alt="Stuck" %}
+{% asset 2015/06/army/8.jpg alt="Getting pulled out" %}
+{% asset 2015/06/army/9.jpg alt="Getting pulled out" %}
+{% asset 2015/06/army/10.jpg alt="Fog" %}
+{% asset 2015/06/army/11.jpg alt="Morning" %}
+{% asset 2015/06/army/19.jpg alt="Towing cable" %}
+{% asset 2015/06/army/20.jpg alt="Towing cable" %}
 
 
 It starts raining while we set up the equipment. The others go into the forest to tow a long cable line, I set up near the car alone. It's wet and miserable. The cable takes a long time, I've managed to set up mostly everything when they finally return. We get comms up near the morning: another team had a fault in their setup and were incompetent to fix it by themselves. My boots are soaked, I use the heat exchanger of our diesel generator to try them.
@@ -218,17 +218,17 @@ Last lunch as a unit, then a formation. The Major and our CO-s give small humoro
 
 > Ltn Ns: "Rühm, VALVEL! Seersant Pu, viige üksus reservi ära!"
 
-{% picture gallery 2015/06/army/1.jpg alt="Certificate of participation" %}
-{% picture gallery 2015/06/army/16.jpg alt="Waiting in bed" %}
-{% picture gallery 2015/06/army/18.jpg alt="Room inspection sheet" %}
-{% picture gallery 2015/06/army/17.jpg alt="Guys, I created a song..." %}
-{% picture gallery 2015/06/army/22.jpg alt="Checklist" %}
-{% picture gallery 2015/06/army/23.jpg alt="Dressing at 6am" %}
-{% picture gallery 2015/06/army/24.jpg alt="A few hours to go..." %}
-{% picture gallery 2015/06/army/25.jpg alt="Waiting..." %}
-{% picture gallery 2015/06/army/26.jpg alt="Equipment checklist" %}
-{% picture gallery 2015/06/army/27.jpg alt="Free!" %}
-{% picture gallery 2015/06/army/21.jpg alt="Free!" %}
+{% asset 2015/06/army/1.jpg alt="Certificate of participation" %}
+{% asset 2015/06/army/16.jpg alt="Waiting in bed" %}
+{% asset 2015/06/army/18.jpg alt="Room inspection sheet" %}
+{% asset 2015/06/army/17.jpg alt="Guys, I created a song..." %}
+{% asset 2015/06/army/22.jpg alt="Checklist" %}
+{% asset 2015/06/army/23.jpg alt="Dressing at 6am" %}
+{% asset 2015/06/army/24.jpg alt="A few hours to go..." %}
+{% asset 2015/06/army/25.jpg alt="Waiting..." %}
+{% asset 2015/06/army/26.jpg alt="Equipment checklist" %}
+{% asset 2015/06/army/27.jpg alt="Free!" %}
+{% asset 2015/06/army/21.jpg alt="Free!" %}
 
 # Väike Kaitseväe Sõnastik
 

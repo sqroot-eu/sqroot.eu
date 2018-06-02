@@ -18,7 +18,7 @@ tags:
 
 I'm in Tartu for the 2nd Youth Improv Festival. It's cool, there are workshops and a show where many, many Estonian improvisers are split into random teams and compete against each other. I meet my best friend who says I have a "military walk": purposeful, equal length steps. Oddly, I take it as a proud, masculine  compliment. I greet my previous CO when we pass each other in nighttime city centre.
 
-{% picture 2014/04/improv.jpg alt="Improv festival" %}
+{% asset 2014/04/improv.jpg alt="Improv festival" %}
 
 It's the last day of vacation and time to go back. I shave my weeks worth of beard and cut all of my hair. It's good I did this before the evening formation because the duty officer, 1st Ltn Mu lines men up and inspects everyone, one by one. Many get sent to the bathroom to correct their appearance. We hear that on the New Years, Cpt Jo had personally cut the hair of two disobedient soldiers.
 
@@ -81,7 +81,7 @@ We learn that the old routine of getting out every other weekend continues. This
 
 Our main piece of equipment will be the Cobham EXL masts which we will deploy in the field. The first lessons are all about technical data and theory and we set up a miniature version of the mast.
 
-{% picture 2014/04/exl.jpg alt="EXL mast" %}
+{% asset 2014/04/exl.jpg alt="EXL mast" %}
 
 <blockquote>
 
@@ -95,7 +95,7 @@ Our new sergeants win my respect quickly by being honest, fair, patient, authori
 
 I passed the DMV CE driving exam. Done with the driving school, ready to drive a NODE and it's cart.
 
-{% picture 2014/04/ce_truck.jpg alt="CE truck" %}
+{% asset 2014/04/ce_truck.jpg alt="CE truck" %}
 
 <h2>On duty as the aide of the dispatch officer</h2>
 
@@ -118,8 +118,8 @@ The following day - more practice, more snow. Got to drive a big truck in the ci
 
 More tactics training, more snow. We fire blanks as the instructors drill us on what to do when an enemy fires upon a moving squad transport. Imagine: around twelve guys sit in the crate while the truck slowly moves in a narrow, wintry forest road. Shots are fired at us and suddenly, six of the guys  send fire back towards the shooter from right next to you, from the crate, as the car skids to a stop and men spring to action.
 
-{% picture 2014/04/assault.jpg alt="Assault" %}
-{% picture 2014/04/Winter.jpg alt="Winter" %}
+{% asset 2014/04/assault.jpg alt="Assault" %}
+{% asset 2014/04/Winter.jpg alt="Winter" %}
 
 The drivers get to teach classes to the SBC at the end of the day: how to put on snow chains, how to show hand signals. I slowly <span class="st">maneuver</span> a truck between tight, tight trees without mirrors (the makers of the course made it too difficult) while soldiers of the SBC try to guide me safely to the finish line.
 
@@ -148,7 +148,7 @@ I made a dangerous mistake by reversing while pvt Tm was behind the car. The pro
 
 Pvt Sk wrote a JavaScript page and started counting the days until freedom.
 
-{% picture 2014/04/Reserviprognoos.png alt="Reserv" %}
+{% asset 2014/04/Reserviprognoos.png alt="Reserv" %}
 
 I'm on duty as the mess driver again. The evening route took four hours to drive, over a hundred kilometers and one rush-hour traffic jam.
 
@@ -162,7 +162,7 @@ NODE computers contain LAN chat logs of previous soldiers. The stuff and mostly 
 
 It's time to assemble the 35m EXL mast for the first time on the field. We're in a team of six and get it up slowly. The mast seems incredibly high and wobbly, almost fell down twice. Pvt Tm is sloppy and has an accident with his generator trailer. Several men have to go and help. Cold feet and hands are more than an annoyance.
 
-{% picture 2014/04/exl2.jpg alt="Raising the mast" %}
+{% asset 2014/04/exl2.jpg alt="Raising the mast" %}
 
 I met a female officer from another unit, I think they were training the winter intake of SBC. Our brief conversation went something like this:
 
@@ -178,14 +178,14 @@ I walked away. The next time, I'll start with something along the lines of "Show
 
 Broadly speaking, there are three kinds of days for the drivers: days where we do nothing (the holidays, weekends, the whole of Drivers Specialty Course) [rare], days when training takes place (lectures or forest camps) [most of the time] and days where we follow our Master, SFC Ps and do his bidding (wash, refuel, repair, park, drive, check, double-check, triple-check, document, report, replace) [often]. A full day of working in the car park is not anyone’s (well, not mine) idea of having fun.
 
-{% picture 2014/04/despicable_car.jpg alt="Minions" %}
+{% asset 2014/04/despicable_car.jpg alt="Minions" %}
 
 The results of the last years survey about compulsory military service before and after the service are in and although they are (as of yet) not available to the public we already know that our battalion got low, low scores from its previous inhabitants. One key statistic: when given a choice as to where to serve, 0% of participants chose our battalion. The effects are immediate: the Major allows new freedoms like organizing movie and shop trips during the weekends, but most importantly, the old order of getting out twice a month is abolished. Now, each unit gets out three weeks in a row and stays in to help with cleaning and security only once. Three out, one in. This is such a vast improvement it seems unbelievable. At the same time, I'm bitter that the change came at the half point of my service. Still, a cause for joy.
 
 I get a weekend pass soon after. Forced to stay at <a href="http://www.themonksbunk.com">a hostel</a>, but it's a good one and I have a nice evening. Played BSG with friends, had lunch with nice people from overseas and got familiar with Wacom tablet. <a href="https://www.youtube.com/watch?v=moSFlvxnbgk">Disney's Frozen</a> brought out the kid in me.
 
-{% picture 2014/04/boardgames.jpg alt="Boardgames" %}
-{% picture 2014/04/hubbard.png alt="Quote" %}
+{% asset 2014/04/boardgames.jpg alt="Boardgames" %}
+{% asset 2014/04/hubbard.png alt="Quote" %}
 
 Those who've served in the armed forces have a unique... experience... to bind them. I was at a PC store, asking for something and acknowledged the shopkeepers reply with an automatic army-vocublary "Sain" [<em>understood</em>]. The shopkeeper replied with "Kõik" [<em>Over and Out</em>] and we smirked over the private joke.
 

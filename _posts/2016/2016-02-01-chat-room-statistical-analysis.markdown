@@ -16,7 +16,7 @@ Long story short, I wanted answers to some specific statistical questions:
 - At what times of day do people usually chat the most?
 - ...
 
-{% picture 2016/02/fleep-stats/summary.png alt="Summary" %}
+{% asset 2016/02/fleep-stats/summary.png alt="Summary" %}
 
 ## Gathering The Data
 
@@ -55,31 +55,31 @@ Next, I wrote a series of analysis classes. Each class tried to answer a specifi
 
 Count the number of messages sent to each conversation, then divide by the number of working days (in a year). Sort in descending order to get the conversations with the most activity per day.
 
-{% picture 2016/02/fleep-stats/activity.png alt="Overall activity" %}
+{% asset 2016/02/fleep-stats/activity.png alt="Overall activity" %}
 
 ### Are People Sending More Positive Or Negative Emoticons?
 
 Categorize each Fleep emoticon into "positive", "negative" or "neutral" category. Scan through all sent messages, count the occurrence of each emoticon. Sum the occurrences of positive and negative emoticons to get the percentage of "good" vs "bad".
 
-{% picture 2016/02/fleep-stats/emoticons.png alt="Emoticons" %}
+{% asset 2016/02/fleep-stats/emoticons.png alt="Emoticons" %}
 
 ### How Has Employee Count Changed Over The Year?
 
 Take a general conversations that all employees participate in. Monitor "join" and "left/kicked" events during the year. Given the current count of participants at the end of the year, we can work backwards to calculate the number of participants on a particular date. Display the result as a line graph.
 
-{% picture 2016/02/fleep-stats/employment.png alt="Employee count" %}
+{% asset 2016/02/fleep-stats/employment.png alt="Employee count" %}
 
 ### How Are Users Distributed Geographically?
 
 Inspect the contacts table. As the company has e-mail addresses based on the employee's country (`.fi`, `.ee`,...), we can assume the user is from that country. Group the contacts based on the TLD of the e-mail, display the count as a heat-map of countries.
 
-{% picture 2016/02/fleep-stats/geo.png alt="Geographical distribution" %}
+{% asset 2016/02/fleep-stats/geo.png alt="Geographical distribution" %}
 
 ### Are People Speaking More English or Estonian?
 
 The "official" language of the company is English yet many of us are Estonian. Are we sticking to the "official" language?
 
-{% picture 2016/02/fleep-stats/language.png alt="Spoken language" %}
+{% asset 2016/02/fleep-stats/language.png alt="Spoken language" %}
 
 Go over all sent messages, [identify the language](https://github.com/crodas/LanguageDetector) of each message. Display the results as a pie chart.
 
@@ -87,7 +87,7 @@ Go over all sent messages, [identify the language](https://github.com/crodas/Lan
 
 Kristo likes to write really epic, several-paragraph messages. Is he of the top 5 who do this? Who are his co-conspirators?
 
-{% picture 2016/02/fleep-stats/length.png alt="Message length" %}
+{% asset 2016/02/fleep-stats/length.png alt="Message length" %}
 
 Go over all contacts. Go over all messages sent by that contact. Sum the number of characters in each of his messages, divide by the number of messages to get an average message length for that contact.
 
@@ -95,7 +95,7 @@ Go over all contacts. Go over all messages sent by that contact. Sum the number 
 
 Per chat room, go over all the messages sent in that room. Give a "[sentiment score](https://github.com/anroots/docker-sentiment)" to each message, sum the scores per conversation. The result is the total "sentiment score" for that conversation.
 
-{% picture 2016/02/fleep-stats/sentiment.png alt="Sentiment" %}
+{% asset 2016/02/fleep-stats/sentiment.png alt="Sentiment" %}
 
 There are natural language processing algorithms that grade text as positive or negative. For example, the sentence "I like cheese" might get a score of 1 (positive) while "I feel miserable and unhappy" might be graded as -2 (very negative).
 
@@ -103,7 +103,7 @@ There are natural language processing algorithms that grade text as positive or 
 
 Per conversation, inspect the sending time of each message. Group this information by hours.
 
-{% picture 2016/02/fleep-stats/time.png alt="Time of day" %}
+{% asset 2016/02/fleep-stats/time.png alt="Time of day" %}
 
 This gives insight into related questions like "at what time to people go to lunch" or "when does the work day start for team B" or "when do people close their laptops for the day".
 
@@ -111,7 +111,7 @@ This gives insight into related questions like "at what time to people go to lun
 
 Go over all sent messages, count the occurrence of each emoticon.
 
-{% picture 2016/02/fleep-stats/top-emoticons.png alt="Top emoticons" %}
+{% asset 2016/02/fleep-stats/top-emoticons.png alt="Top emoticons" %}
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/fleepio">@fleepio</a>, what are the usage statistics for each of your smileys? Which ones are the most popular?</p>&mdash; Ando David Roots (@SQrooted) <a href="https://twitter.com/SQrooted/status/691725875713277952">January 25, 2016</a></blockquote>
 
@@ -119,7 +119,7 @@ Go over all sent messages, count the occurrence of each emoticon.
 
 Go over all sent messages per conversation, split them into [unigrams](https://en.wikipedia.org/wiki/N-gram), add 1 to the count of that word. Display the top X words in a word cloud with the number of occurrences as weight.
 
-{% picture 2016/02/fleep-stats/words.png alt="Word cloud" %}
+{% asset 2016/02/fleep-stats/words.png alt="Word cloud" %}
 
 This gives insight into the most popular themes in a conversation.
 
@@ -127,7 +127,7 @@ This gives insight into the most popular themes in a conversation.
 
 Per contact, look at the "sent" time of all messages. Count the number of messages sent outside of working hours (before 9, after 6, weekends). You workaholics!
 
-{% picture 2016/02/fleep-stats/workaholic.png alt="Workaholics" %}
+{% asset 2016/02/fleep-stats/workaholic.png alt="Workaholics" %}
 
 ## Results
 

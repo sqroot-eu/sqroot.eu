@@ -40,9 +40,9 @@ The total cost for those was around 14€, cheap low-quality parts from China su
 
 Samy's tutorial taught me the basics of how wireless doorbells operate: the button, once pressed, sends out a repeating radio signal. The doorbell "hears" this signal and activates. The signal has a specific frequency and pattern that my remote must match in order to activate the doorbell.
 
-{% picture gallery 2015/09/doorbell/doorbell_back.jpg alt="Doorbell from behind" %}
-{% picture gallery 2015/09/doorbell/doorbell_front.jpg alt="Doorbell from the front" %}
-{% picture gallery 2015/09/doorbell/doorbell_button.jpg alt="Doorbell button" %}
+{% asset 2015/09/doorbell/doorbell_back.jpg alt="Doorbell from behind" %}
+{% asset 2015/09/doorbell/doorbell_front.jpg alt="Doorbell from the front" %}
+{% asset 2015/09/doorbell/doorbell_button.jpg alt="Doorbell button" %}
 
 The frequency range of the doorbell was easy enough to identify.
 
@@ -51,7 +51,7 @@ The frequency range of the doorbell was easy enough to identify.
 
 ## Record the doorbell activation signal
 
-{% picture 2015/09/doorbell/recording.png alt="Recording the signal" %}
+{% asset 2015/09/doorbell/recording.png alt="Recording the signal" %}
 
 ### How can we record radio signals?
 
@@ -69,8 +69,8 @@ Once I knew the frequency, I could connect my SDR dongle to my laptop and run [a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f-EamgiVk58" frameborder="0" allowfullscreen></iframe>
 
-{% picture 2015/09/doorbell/recording_signal.jpg alt="Recording the signal with a laptop" %}
-{% picture 2015/09/doorbell/original_signal1.png alt="The original signal from the doorbell" %}
+{% asset 2015/09/doorbell/recording_signal.jpg alt="Recording the signal with a laptop" %}
+{% asset 2015/09/doorbell/original_signal1.png alt="The original signal from the doorbell" %}
 
 ## Build an Arduino prototype for playing back the signal
 
@@ -78,7 +78,7 @@ I had my signal recording, now I needed a way to play it back: a low-power AM tr
 
 Solution: Arduino Uno + a cheap RF transmitter module.
 
-{% picture 2015/09/doorbell/arduino_prototype.jpg alt="Arduino prototype" %}
+{% asset 2015/09/doorbell/arduino_prototype.jpg alt="Arduino prototype" %}
 
 Connecting the module with the Arduino was easy enough: connect power, ground and the data pin and you're done. I used Samy's code as an example and adjusted it to fit my needs.
 
@@ -123,9 +123,9 @@ Repeat:
 - Compare the result against the original
 - Adjust timing offsets and delays of the replicated signal until it matches the original
 
-{% picture 2015/09/doorbell/replicating_signal1.png alt="Various attempts at replicating the signal" %}
-{% picture 2015/09/doorbell/replicating_signal2.png alt="Zoomed in view of replication attempts" %}
-{% picture 2015/09/doorbell/signal_comparison.png alt="Comparison between the original signal and replication" %}
+{% asset 2015/09/doorbell/replicating_signal1.png alt="Various attempts at replicating the signal" %}
+{% asset 2015/09/doorbell/replicating_signal2.png alt="Zoomed in view of replication attempts" %}
+{% asset 2015/09/doorbell/signal_comparison.png alt="Comparison between the original signal and replication" %}
 
 The signal for doorbell activation was
 
@@ -158,7 +158,7 @@ The plan: Use an ATtiny85 microcontroller to build a battery-powered version of 
 
 Building the module from scratch was done over the weekend. I started by drawing up the circuit I wanted to build in [Fritzing](http://fritzing.org/home).
 
-{% picture 2015/09/doorbell/schematic.png alt="Schematic of the module" %}
+{% asset 2015/09/doorbell/schematic.png alt="Schematic of the module" %}
 
 The circuit is quite minimal, but with some added bazang:
 
@@ -171,23 +171,23 @@ The circuit is quite minimal, but with some added bazang:
 
 Next, prototyping on a breadboard. I got Attiny85 to run on a clock speed of 8MHz, to read the trigger pin and to send the correct signal when activated.
 
-{% picture 2015/09/doorbell/breadboard_prototype.jpg alt="Prototype on a breadboard" %}
+{% asset 2015/09/doorbell/breadboard_prototype.jpg alt="Prototype on a breadboard" %}
 
 When I was certain the prototype worked, I took a spare piece of solder-able breadboard and soldered the components onto it. Everything fit very neatly and looked quite good.
 
-{% picture gallery 2015/09/doorbell/module_back.jpg alt="Back view of PCB" %}
-{% picture gallery 2015/09/doorbell/module_front1.jpg alt="Front view 1" %}
-{% picture gallery 2015/09/doorbell/module_front3.jpg alt="Front view 3" %}
-{% picture gallery 2015/09/doorbell/working_desk.jpg alt="Workbench" %}
+{% asset 2015/09/doorbell/module_back.jpg alt="Back view of PCB" %}
+{% asset 2015/09/doorbell/module_front1.jpg alt="Front view 1" %}
+{% asset 2015/09/doorbell/module_front3.jpg alt="Front view 3" %}
+{% asset 2015/09/doorbell/working_desk.jpg alt="Workbench" %}
 
-{% picture 2015/09/doorbell/module_front2.jpg alt="Front view 2" %}
+{% asset 2015/09/doorbell/module_front2.jpg alt="Front view 2" %}
 
 I tested the connections during and after soldering for shorts and discovered a major fault: the resistance between various IC pins (ATtiny85 I/O pins) was ~20kΩ! This would mean that the board was unusable because of shortages between various signal lines.
 
 I could discover no solder bridges or shorts so I concluded the problem was in the solder flux I had used liberally during assembly. I took a toothbrush and some rubbing alcohol and gave the module a cleaning bath in the sink. After drying, the problem was solved.
 
-{% picture gallery 2015/09/doorbell/module_brushing.jpg alt="Brushing off flux" %}
-{% picture gallery 2015/09/doorbell/module_programming.jpg alt="Programming the board" %}
+{% asset 2015/09/doorbell/module_brushing.jpg alt="Brushing off flux" %}
+{% asset 2015/09/doorbell/module_programming.jpg alt="Programming the board" %}
 
 ## Build a software trigger
 
@@ -213,14 +213,14 @@ Some comments from the people who went to open the door:
 
 Finally (I'm not [Dr. Horrible](http://drhorrible.com) to keep this up for weeks), I told a colleague about this and he told Hubot to ring the doorbell in the floor chatroom, for everyone to see what's happening.
 
-{% picture 2015/09/doorbell/fleep.png alt="Activating the doorbell from Fleep" %}
+{% asset 2015/09/doorbell/fleep.png alt="Activating the doorbell from Fleep" %}
 
 * "So it is Moonica [Hubot]!"
 * "Enough of this nonsense, you people aren't the ones who normally open the door"
 * "So this month' fun prize goes to Ando - I guess :)"
 * "((Y)) impressive prank and implementation, nerdy stuff"
 
-{% picture 2015/09/doorbell/meme.png alt="Meme" %}
+{% asset 2015/09/doorbell/meme.png alt="Meme" %}
 
 **Muahahaaa!**
 

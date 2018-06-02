@@ -12,10 +12,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: "/:year/:title"
 paginate: 15
-exclude: ["Gemfile","Gemfile.lock", "nginx.conf", "Dockerfile", "package.json", "LICENSE","README.md",".travis.yml", "vendor", "node_modules"]
+exclude: ["Gemfile", ".idea", "Gemfile.lock", "nginx.conf", "Dockerfile", "package.json", "LICENSE","README.md",".travis.yml", "vendor", "node_modules"]
 include: [".well-known"]
 
-gems:
+plugins:
   - jekyll-paginate
 
 assets:
@@ -23,6 +23,7 @@ assets:
     - _assets/js
     - _assets/css
     - _assets/lib
+    - content
   js_compressor: uglifier
   css_compressor: sass
 
@@ -45,36 +46,3 @@ defaults:
       type: "pages"
     values:
       visible: true
-picture:
-  source: "content"
-  output: "content/generated"
-  markup: "picture"
-  presets:
-    gallery:
-      attr:
-        class: "gallery img-thumbnail"
-      source_default:
-        width: 300
-      ppi: [1, 1.5]
-      source_large:
-        media: "(min-width: 60em)"
-        width: 1200
-      source_medium:
-        media: "(min-width: 40em) and (max-width: 60em)"
-        width: 960
-      source_small:
-        media: "(min-width: 20em) and (max-width: 40em)"
-        width: 600
-    default:
-      ppi: [1, 1.5]
-      source_large:
-        media: "(min-width: 60em)"
-        width: 1200
-      source_medium:
-        media: "(min-width: 40em) and (max-width: 60em)"
-        width: 960
-      source_small:
-        media: "(min-width: 20em) and (max-width: 40em)"
-        width: 600
-      source_default: 
-        width: 300

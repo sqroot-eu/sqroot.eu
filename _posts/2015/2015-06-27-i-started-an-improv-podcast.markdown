@@ -11,6 +11,6 @@ It kind of just happened: I borrowed a quality recording device, got a few impro
 
 The podcast is called "Improv Half-hour With Ando" and can be [listened from Soundcloud](https://soundcloud.com/ando-david/sets/impropooltund-andoga) and [liked on Facebook](https://www.facebook.com/impropooltund).
 
-{% picture 2015/06/audacity.png alt="Editing audio" %}
+{% asset 2015/06/audacity.png alt="Editing audio" %}
 
 Doing a podcast requires time, but I feel like the investment is worth it: I get to have fun (improv is funny), participate in social situations and learn the technical aspects of editing (audio) and publishing.

@@ -53,7 +53,7 @@ I found this amusing, annoying and well, pointless: how will my "promise" stop m
 
 So, just in case, I signed my reply with [Estonian digital signature](http://id.ee/?lang=en).
 
-{% picture 2016/07/signed-email.png alt="Signed e-mail" %}
+{% asset 2016/07/signed-email.png alt="Signed e-mail" %}
 
 What an odd world to be a maker in.
 

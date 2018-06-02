@@ -104,7 +104,7 @@ It was decided that we should have one final, "fun" hike, to remind ourselves th
 
 We head out at 0910 from the battalion towards the edge of the city in full battle gear. The length of the track is around ten kilometers. I'm the only driver in the squad, the rest are SBC who set a running pace. I want to enjoy the walk, but they keep pushing up the pace, urging me to get sweaty and spent. Why? I want to have good memories of this, not just another I-pushed-myself-to-exhaustion experience. But no, one can not resist seven people swearing at you to go along with the social pressure. A lot of resentment during the day. I lost all respect for pvt Hn who's supposed to be a leader but knows nothing about psychology or group dynamics nor positive feedback to motivate people.
 
-{% picture 2014/06/trek.jpg alt="Hike" %}
+{% asset 2014/06/trek.jpg alt="Hike" %}
 
 The first checkpoint has us assembling a RJ45 Ethernet cable. Two try and use up nearly all of the allocated time, then ask whether anyone has actually done this before. I'm still resentful and petty and had kept quiet, but give it a try now. Unfortunately, the time runs out and we fail before I finish the cable.
 
@@ -198,7 +198,7 @@ We're briefed on operational security and social media (don't post those photos 
 
 </blockquote>
 
-{% picture gallery 2014/06/mast.jpg alt="Mast" %}
-{% picture gallery 2014/06/reading.jpg alt="Reading" %}
-{% picture gallery 2014/06/sunset.jpg alt="Sunset" %}
-{% picture gallery 2014/06/sunset2.jpg alt="Sunset" %}
+{% asset 2014/06/mast.jpg alt="Mast" %}
+{% asset 2014/06/reading.jpg alt="Reading" %}
+{% asset 2014/06/sunset.jpg alt="Sunset" %}
+{% asset 2014/06/sunset2.jpg alt="Sunset" %}

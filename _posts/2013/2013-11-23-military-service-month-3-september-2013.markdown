@@ -271,7 +271,7 @@ Theory lessons seem to be the only thing we do. Some are in the classroom, some 
 <li>We need to choose a new marching song, but all seem too lazy to learn it.</li>
 <li>Pvt Mk fixes the broken hot water dispenser with his pocket knife.</li>
 <li>I troll my bunkmate out of boredom. His name sign now reads Konstantin.<br />
-{% picture 2013/11/aek_new_room.jpg alt="AEK new room" %}
+{% asset 2013/11/aek_new_room.jpg alt="AEK new room" %}
 </li>
 <li>Pvt Mk climbs on top of the closets and makes loud noises at unsuspecting victims who enter the room.</li>
 <li>Went through medical and was declared healthy enough to drive a truck.</li>

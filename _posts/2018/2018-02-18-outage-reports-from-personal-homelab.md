@@ -23,15 +23,15 @@ Here are some examples on how things can go wrong.
 
 During the night, at `12:36`, the primary WAN dropped due to excessive packet loss. The WAN connection had been experiencing various degrees of packet loss most of the late evening (11pm...1am, reasons unknown).
 
-{% picture 2018/outages/starman-down.png alt="Primary WAN down" %}
+{% asset 2018/outages/starman-down.png alt="Primary WAN down" %}
 
 Shortly after that, a scheduled backup job from a Synology NAS ran. The backup archive was about `107 GB` and was destined to upload to Amazon S3.
 
-{% picture 2018/outages/backup-config.png alt="Synology backup config" %}
+{% asset 2018/outages/backup-config.png alt="Synology backup config" %}
 
 When the primary WAN (Starman) goes down, a fail-over 4G WAN (Tele2) connection automatically takes over. Even though the primary WAN recovered a while later (`01:02`), the backup had already started and used the secondary WAN connection, which is bandwidth-capped to `30GB`.
 
-{% picture 2018/outages/starman-recovery.png alt="Primary WAN recovers" %}
+{% asset 2018/outages/starman-recovery.png alt="Primary WAN recovers" %}
 
 It is unclear why the backup did not switch back to the primary WAN connection, once it recovered. Leading theory: a persistent TCP connection to
 S3 had already been established over the backup WAN and the firewall / Synology did not want to break the TCP state, so it kept using it.
@@ -39,13 +39,13 @@ S3 had already been established over the backup WAN and the firewall / Synology 
 Result - the `30GB` data cap was eaten up very quickly, the backup failed and the secondary WAN was now effectively offline until the next month,
 when the cap reset.
 
-{% picture 2018/outages/traffic-graph.png alt="Traffic graph of secondary WAN" %}
-{% picture 2018/outages/data-cap.png alt="Data cap full" %}
+{% asset 2018/outages/traffic-graph.png alt="Traffic graph of secondary WAN" %}
+{% asset 2018/outages/data-cap.png alt="Data cap full" %}
 
 An additional alert was thrown about the failure of the secondary WAN by Prometheus monitoring as soon as the cap was breached
 and the ISP blocked service.
 
-{% picture 2018/outages/haproxy-alert.png alt="HAProxy back-end down alert" %}
+{% asset 2018/outages/haproxy-alert.png alt="HAProxy back-end down alert" %}
 
 The alert reported that a cloud-based HAProxy load-balancer was no longer able to reach my firewall
 via the secondary WAN connection. This meant that when the primary WAN goes down again, all of my self-hosted webpages will become
@@ -59,7 +59,7 @@ proceed with the backups.
 
 A sensible solution is to apply mitigation from the firewall: only route NAS traffic to WAN through the primary WAN interface (previously: WAN fail-over interface).
 
-{% picture 2018/outages/nas-firewall-rule.png alt="NAS firewall rule" %}
+{% asset 2018/outages/nas-firewall-rule.png alt="NAS firewall rule" %}
 
 The NAS will not reach the Interwebs when the primary WAN is down (a downside), but it will also not eat up data-capped secondary WAN bandwidth again (a win).
 
@@ -80,7 +80,7 @@ The main firewall was set up to use primary and secondary [Quad9](https://quad9.
 fast and also blocks malicious sites at the DNS level, "for free". Adding a tertiary DNS (`8.8.8.8`) to the firewall's pool of
 configured DNS servers hotfixed the issue and the customer was happily using the Internet again.
 
-{% picture 2018/outages/dns-servers.png alt="DNS servers" %}
+{% asset 2018/outages/dns-servers.png alt="DNS servers" %}
 
 Some minutes later, the Quad9 DNS service was working again and the hotfix could be removed.
 
@@ -96,7 +96,7 @@ No similar outage has happened to date and Quad9 does not have a service status 
 
 I was working in the office, when, suddenly, the green emergency exit sign on the ceiling flashed to ~300% regular brightness, then back again. Seconds later, I received an alert on my phone that my homelab had gone to battery power - the UPS had taken over. Five seconds later, the UPS was back on mains power.
 
-{% picture 2018/outages/ups-battery.png alt="Kibana logs, showing UPS switching into battery mode" %}
+{% asset 2018/outages/ups-battery.png alt="Kibana logs, showing UPS switching into battery mode" %}
 
 Theory: an unexpected power spike occured in central Tallinn, my office and home were affected. The spike lasted a second or two.
 

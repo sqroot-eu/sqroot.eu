@@ -10,7 +10,6 @@ gem 'kramdown', '~>1.16'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
-  gem 'jekyll-picture-tag', '~> 0.3'
   gem 'jekyll-sitemap'
-  gem 'jekyll-assets'
+  gem 'jekyll-assets', '~> 3.0'
 end

@@ -12,7 +12,7 @@ with a snarky voice comment in the style of "Ooo, this must be the pizza we orde
 "The developer who gets up and opens the door is immune from the next team meeting invite!"
 or "Another victim arrives....muahahahaha!".
 
-{% picture 2017/snarky/mugshot.jpg alt="Snarky doorbell" %}
+{% asset 2017/snarky/mugshot.jpg @pic alt="Snarky doorbell" %}
 
 ## How it Operates
 
@@ -34,14 +34,14 @@ I had [previously messed around with our wireless doorbell](https://sqroot.eu/20
 
 The build process took over two years of intermittent tinkering.
 
-{% picture 2017/snarky/1.jpg alt="Build photo" %}
-{% picture 2017/snarky/2.jpg alt="Build photo" %}
-{% picture 2017/snarky/3.jpg alt="Build photo" %}
-{% picture 2017/snarky/4.jpg alt="Build photo" %}
-{% picture 2017/snarky/5.jpg alt="Build photo" %}
-{% picture 2017/snarky/6.jpg alt="Build photo" %}
-{% picture 2017/snarky/7.jpg alt="Build photo" %}
-{% picture 2017/snarky/8.jpg alt="Build photo" %}
+{% asset 2017/snarky/1.jpg alt="Build photo" %}
+{% asset 2017/snarky/2.jpg alt="Build photo" %}
+{% asset 2017/snarky/3.jpg alt="Build photo" %}
+{% asset 2017/snarky/4.jpg alt="Build photo" %}
+{% asset 2017/snarky/5.jpg alt="Build photo" %}
+{% asset 2017/snarky/6.jpg alt="Build photo" %}
+{% asset 2017/snarky/7.jpg alt="Build photo" %}
+{% asset 2017/snarky/8.jpg alt="Build photo" %}
 
 ## Features
 

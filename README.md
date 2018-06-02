@@ -32,7 +32,3 @@ $ docker-compose build
 Code under Apache2 for learning purposes.
 
 Content (images and text) (c) to Ando Roots - do not re-publish without written permission!
-
-Theme: [Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog), customized, licenced under Apache2 license.
-
-Please do not host a mirror of my blog. :)

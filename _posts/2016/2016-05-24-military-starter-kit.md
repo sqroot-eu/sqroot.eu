@@ -53,7 +53,7 @@ Below is a list of items included in the backpack and a brief explanation for th
 - **Good wristwatch**
 - **Multi-tool**
 
-{% picture 2016/05/mil-bag-1.jpg alt="Items included in the bag" %}
-{% picture 2016/05/mil-bag-2.jpg alt="Items included in the bag" %}
+{% asset 2016/05/mil-bag-1.jpg alt="Items included in the bag" %}
+{% asset 2016/05/mil-bag-2.jpg alt="Items included in the bag" %}
 
 Also see: [Shopping List to New Recruits](https://sqroot.eu/2015/military-service-a-year-later).

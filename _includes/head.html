@@ -53,13 +53,13 @@
     <link type="text/plain" rel="author" href="{{ site.url }}/humans.txt" />
  
     <!-- Twitter bootstrap + blog stylesheet -->
-    {% stylesheet style %}
+    {% asset style.css %}
     
     <!-- Loadcss script for async CSS loading -->
     <script id="script-loadcss" type="text/javascript">{% asset loadcss/src/loadCSS.js %}</script>
 
     <script>
-        loadCSS("{% asset_path optional.css %}", document.getElementById("script-loadcss"));
+        loadCSS("{% asset optional.css @path %}", document.getElementById("script-loadcss"));
         loadCSS("https://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800", document.getElementById("script-loadcss"));
     </script>
 

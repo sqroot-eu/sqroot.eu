@@ -42,7 +42,7 @@ I downloaded and installed [VeraCrypt](https://veracrypt.codeplex.com). It's a s
 
 Creating an encrypted USB drive with VeraCrypt is relatively straightforward - instructions (with pictures) can be [found here](https://www.deepdotweb.com/2015/02/09/veracrypt-tutorial-how-to-encrypt-usb-drive).
 
-{% picture 2016/04/ssh/create-volume.png alt="Creating the volume" %}
+{% asset 2016/04/ssh/create-volume.png alt="Creating the volume" %}
 
 I also needed a new password for the USB encryption - something easy to remember, but difficult enough to brute force. Techniques like `CatRanOverRoad` (concatenating dictionary words together) or using [Leet](https://en.wikipedia.org/wiki/Leet)-speak (`p@$$word`) are not secure.
 
@@ -120,19 +120,19 @@ The new rule configures `udev` to run the `load-ssh-keys` program every time I i
 
 The `load-ssh-keys` program works as follows. First, it prompts me for a password to decrypt the USB drive.
 
-{% picture 2016/04/ssh/unlock-volume.png alt="Decrypting the volume" %}
+{% asset 2016/04/ssh/unlock-volume.png alt="Decrypting the volume" %}
 
 If the password is correct, the volume is mounted in read-only mode. Next, the script tries to load the SSH key from the USB into `ssh-agent` (and prompts for the SSH key password).
 
-{% picture 2016/04/ssh/unlock-key.png alt="Unlocking the SSH key" %}
+{% asset 2016/04/ssh/unlock-key.png alt="Unlocking the SSH key" %}
 
 When this succeeds, a success notification is displayed and the drive will be unmounted.
 
-{% picture 2016/04/ssh/ok-notification.png alt="OK notification" %}
+{% asset 2016/04/ssh/ok-notification.png alt="OK notification" %}
 
 I use the `-c` flag with `ssh-add`. This prompts me for confirmation every time `ssh-agent` wants to use my key. It's an additional manual step, but avoids issues where some other actor tries to access the agent without my knowledge.
 
-{% picture 2016/04/ssh/key-use-prompt.png alt="Key use confirmation" %}
+{% asset 2016/04/ssh/key-use-prompt.png alt="Key use confirmation" %}
 
 The script can be seen below (and on [GitHub](https://gist.github.com/anroots/25c82171f49aa09390f3a22cf29254db)).
 

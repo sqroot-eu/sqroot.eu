@@ -7,7 +7,7 @@ header-img: content/2017/girlfriend-puzzle/puzzle.jpg
 
 Knowing that my girlfriend likes brainy games and it being a while since I last built something, I decided to make her a custom puzzle: a 7x7cm mystery box that, when solved, reveals a secret message.
 
-{% picture 2017/girlfriend-puzzle/box-4.jpg alt="Completed puzzle" %}
+{% asset 2017/girlfriend-puzzle/box-4.jpg alt="Completed puzzle" %}
 
 ## Design
 
@@ -39,26 +39,26 @@ Bill of materials:
 The build was straightforward and took only a couple of hours. First, I arranged all the components on
 a breadboard and connected the [SparkFun Pocket AVR Programmer](https://www.sparkfun.com/products/9825) to the IC, which enabled me to write and test code for it.
 
-{% picture 2017/girlfriend-puzzle/bread-1.jpg alt="Project on Breadboard" %}
-{% picture 2017/girlfriend-puzzle/bread-2.jpg alt="Project on Breadboard" %}
+{% asset 2017/girlfriend-puzzle/bread-1.jpg alt="Project on Breadboard" %}
+{% asset 2017/girlfriend-puzzle/bread-2.jpg alt="Project on Breadboard" %}
 
 With the code complete and the project working on the breadboard, I transferred everything to a PCB, programmed the chip one final time and connected it to the independent, battery-powered unit.
 
-{% picture 2017/girlfriend-puzzle/pcb-1.jpg alt="Project on Breadboard" %}
-{% picture 2017/girlfriend-puzzle/pcb-2.jpg alt="Project on Breadboard" %}
-{% picture 2017/girlfriend-puzzle/pcb-3.jpg alt="Project on Breadboard" %}
+{% asset 2017/girlfriend-puzzle/pcb-1.jpg alt="Project on Breadboard" %}
+{% asset 2017/girlfriend-puzzle/pcb-2.jpg alt="Project on Breadboard" %}
+{% asset 2017/girlfriend-puzzle/pcb-3.jpg alt="Project on Breadboard" %}
 
 I mounted the PCB into the box with glue and covered it all with semi-transparent paper: the box was complete.
 
-{% picture 2017/girlfriend-puzzle/box-1.jpg alt="PCB in the box" %}
-{% picture 2017/girlfriend-puzzle/box-2.jpg alt="PCB in the box" %}
-{% picture 2017/girlfriend-puzzle/box-3.jpg alt="PCB in the box" %}
+{% asset 2017/girlfriend-puzzle/box-1.jpg alt="PCB in the box" %}
+{% asset 2017/girlfriend-puzzle/box-2.jpg alt="PCB in the box" %}
+{% asset 2017/girlfriend-puzzle/box-3.jpg alt="PCB in the box" %}
 
 ## Reception
 
 She was exited and puzzled by the box and with some pointed clues, did manage to crack it up to Pig Latin, at which point frustration set in. Looking back, I realize that the design of the puzzle was too complex and unfair: I'm a developer; binary, ASCII and Pig Latin are obvious for me; however it is unfair to expect the same from others.
 
-{% picture 2017/girlfriend-puzzle/decoding.jpg alt="Decoding the puzzle" %}
+{% asset 2017/girlfriend-puzzle/decoding.jpg alt="Decoding the puzzle" %}
 
 All in all, it was a fun project to make, but not super fair to solve.
 
@@ -66,4 +66,4 @@ All in all, it was a fun project to make, but not super fair to solve.
 
 Project schematics and code are available [from GitHub](https://github.com/anroots/girlfriend-puzzle).
 
-{% picture 2017/girlfriend-puzzle/puzzle.jpg alt="Completed puzzle" %}
+{% asset 2017/girlfriend-puzzle/puzzle.jpg alt="Completed puzzle" %}

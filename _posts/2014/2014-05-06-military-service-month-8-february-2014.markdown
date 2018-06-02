@@ -63,7 +63,7 @@ Väga ei nõustu selle jutuga. Vabatahtlikult on siin vähe mehi (käe tõstis u
 
 We go to a nearby forest to practice with the mast. I'm crossed that my team doesn't work efficiently together, we're just not motivated.
 
-{% picture 2014/05/mast_snow.jpg alt="Mast" %}
+{% asset 2014/05/mast_snow.jpg alt="Mast" %}
 
 The Independence Day military parade is coming up. At first, only twenty people had to go, now they say it's mandatory for everyone. I asked to be relieved from this duty for I know myself well enough to realize that all the practice, "excitement" and marching would tire and depress me greatly. Lately, I can't find the energy to do even the simplest of things, including moving, which is tiresome and requires effort.
 
@@ -87,7 +87,7 @@ This time, there's no hurry with the trip to yet another forest camp. Our positi
 
 This camp is about raising the mast, we do it three times, two of which are in the dark. It always snows when we're doing it. Pvt Jä broke his antenna and had to tow a long line of cable, instead. I got a total of seven hours of sleep, split between three days. My team was so tired that at one point, we all fell into a slumber during a small break. I was supposed to be on patrol, but fell asleep in the car only to wake up to SSGT Vs's face who had snuck up while I was dozing. The mast froze overnight and didn't want to come back down, the ropes were frozen and unbending. Shaking and cursing yielded success. Pvt Ša woke me up only to refuel the generator, he hadn't done it before, a mistake I'll soon fix.
 
-{% picture 2014/05/at_night.jpg alt="At night" %}
+{% asset 2014/05/at_night.jpg alt="At night" %}
 
 Most of the guys have named their trucks.
 

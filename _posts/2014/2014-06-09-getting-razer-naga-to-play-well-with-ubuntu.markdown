@@ -13,7 +13,7 @@ I have a <a href="http://www.razerzone.com/gaming-mice/razer-naga/">Razer Naga</
 
 Install <a href="http://bues.ch/cms/hacking/razercfg.html">Razer device configuration tool</a>. The instructions are on the project page, the install is not overly difficult. This gives you the power to tinker with various mouse settings, most importantly the scan resolution (mouse cursor movement speed).
 
-{% picture 2014/06/razer.png alt="Razer" %}
+{% asset 2014/06/razer.png alt="Razer" %}
 
 I also ran into a problem where the scan resolution would reset itself to 1000 each time I disconnected the mouse (including putting the system to sleep). The default udev rule installed by razercfg did not work, so I modified it to use a custom script. If you're new to udev, read <a href="http://hackaday.com/2009/09/18/how-to-write-udev-rules/">How To Write udev Rules</a>.
 

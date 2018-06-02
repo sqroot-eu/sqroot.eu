@@ -31,7 +31,7 @@ Another weekend, another weekend pass. My hands still smell of weapon oil when I
 
 A package from <a href="https://www.sparkfun.com/">Sparkfun Electronics</a> arrived, containing my first Arduino and other DIY/MAKE goodies I can't get from Estonia. NO99's play "[Kolmapäev](http://no99.ee/lavastused/no54-kolmapaev)" with a lovely long-lost friend makes the evening come alight.
 
-{% picture 2014/01/electronics.jpg alt="Electronics from Sparkfun" %}
+{% asset 2014/01/electronics.jpg alt="Electronics from Sparkfun" %}
 
 Going back to the battalion is scary: I lost a part of my uniform... luckily, pvt Tm confessed of having accidentally put it into his bag.
 
@@ -46,7 +46,7 @@ The guys blow me off when I need someone to help me, that offends greatly. I don
 
 I got 2 extra driving lessons, but still fail with parking - and the exam is close.
 
-{% picture 2014/01/driving1.jpg alt="Driving failures" %}
+{% asset 2014/01/driving1.jpg alt="Driving failures" %}
 
 <ul>
 <li>Pvt Rk had to wash his hat and report to the duty officer.</li>
@@ -55,7 +55,7 @@ I got 2 extra driving lessons, but still fail with parking - and the exam is clo
 
 I'm at the driving lot from 0800 on the day of the C-category driving exam. Much to my surprise, I did well and didn't fuck up; the instructor was neutral and I passed. Time to continue learning, the next milestone is CE - a truck with a trailer.
 
-{% picture 2014/01/driving2.jpg alt="My truck" %}
+{% asset 2014/01/driving2.jpg alt="My truck" %}
 
 I'm on duty as the "janitor". The rooms are being renovated, the workers use machines and the smoke alarm goes off. The duty officer runs upstairs to turn it off. Pvt Kr manages to jam a cloth in the middle of the barrel of his gun that refuses to come out with no amount of force nor trickery. We laughed so hard... A corporal from the NCO course left his hat unguarded and we made him do 66 push-ups (which he did) to get it back. I'm allowed to sleep the whole night while on duty (instead of the usual four hours) since everyone from our floor are in the woods.
 
@@ -116,12 +116,12 @@ The units take turns to go on stage while everyone - soldiers, high officers in 
 
 We go to the stage, I introduce improv, get a suggestion and we perform a five minute improvised sketch of Slideshow. There are laughs, but overall, we're not the winners. I think it unfair, since my team put in the most effort, but hey... that's life for you. I get many compliments for pulling this off afterwards. I'm proud of the men for sticking with me and trusting.
 
-{% picture gallery 2014/01/improv1.jpg alt="Improv" %}
-{% picture gallery 2014/01/improv2.jpg alt="Improv" %}
-{% picture gallery 2014/01/improv3.jpg alt="Improv" %}
-{% picture gallery 2014/01/improv4.jpg alt="Improv" %}
-{% picture gallery 2014/01/improv5.jpg alt="Improv" %}
-{% picture gallery 2014/01/improv6.jpg alt="Improv" %}
+{% asset 2014/01/improv1.jpg alt="Improv" %}
+{% asset 2014/01/improv2.jpg alt="Improv" %}
+{% asset 2014/01/improv3.jpg alt="Improv" %}
+{% asset 2014/01/improv4.jpg alt="Improv" %}
+{% asset 2014/01/improv5.jpg alt="Improv" %}
+{% asset 2014/01/improv6.jpg alt="Improv" %}
 
 See also: <a href="{{ site.url }}/2014/improvisational-theater-in-the-estonian-army">Improvisational Theater in the Estonian Army</a>
 

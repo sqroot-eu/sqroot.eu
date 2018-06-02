@@ -138,13 +138,13 @@ I learned a lot through the project. Here are the things I found most challengin
 
 Portable projects need a power source. I decided to use 4xAA batteries. They're cheap (compared to Li-ion or power banks), offer larger capacity than a 9V battery and output just the right voltage (6V). An article on [Let's Make Robots](http://letsmakerobots.com) taught me how to regulate that voltage to a stable 5.0 volts using the Lm2940ct-5 low-dropout voltage regulator. I soldered my first power regulation circuitry.
 
-{% picture 2014/06/breadboard.jpg alt="On breadboard" %}
+{% asset 2014/06/breadboard.jpg alt="On breadboard" %}
 
 <h2>Reading files from an SD card</h2>
 
 The main menu should let users choose between txt word files on the SD card. Initially, I planned to just read the contents of a directory and list all the found files on the LCD. After over six hours of hacking with the SD library I was unable to get a file listing into a workable array of strings so I abandoned the idea and decided to use preset file names: <code>WORDS_00.TXT</code>, <code>WORDS_01.TXT</code> and so forth.
 
-{% picture 2014/06/lcd_on.jpg alt="LCD" %}
+{% asset 2014/06/lcd_on.jpg alt="LCD" %}
 
 This put some limits to the project and I settled on having exactly eight files to choose from (this is an artificial limit, I could as well have chosen to have sixteen). That way, I would know exactly which files are present on the card.
 
@@ -171,9 +171,9 @@ Soldering the PCB was a challenge on its own. I've tried to make a PCB before, f
 
 I spent a whole day with preparing the wires (instead of soldering ribbon cable directly to the board I opted for a more modular, but complex solution and used headers) and soldering the parts together. At the end of the day, I was spent but victorious: all of the connections worked, there were no shorts and I had my spiders-nest of a PCB, ready for action.
 
-{% picture gallery 2014/06/pcb.jpg alt="PCB" %}
-{% picture gallery 2014/06/pcb_back.jpg alt="PCB backside" %}
-{% picture gallery 2014/06/handheld.jpg alt="PCB on hand" %}
+{% asset 2014/06/pcb.jpg alt="PCB" %}
+{% asset 2014/06/pcb_back.jpg alt="PCB backside" %}
+{% asset 2014/06/handheld.jpg alt="PCB on hand" %}
 
 <h2>Physical enclosure</h2>
 
@@ -183,10 +183,10 @@ The first attempt of creating the enclosure was with a thick paper pencil holder
 
 The local electronics supply store stocked the perfect plastic box with thick walls, the right size and sleek look. It took some work and creative use of tools to create the openings for the LCD, SD and switches, but the result was satisfactory.
 
-{% picture gallery 2014/06/enclosure1.jpg alt="Enclosure" %}
-{% picture gallery 2014/06/enclosure2.jpg alt="Enclosure" %}
-{% picture gallery 2014/06/enclosure3.jpg alt="Enclosure" %}
-{% picture gallery 2014/06/enclosure4.jpg alt="Enclosure" %}
+{% asset 2014/06/enclosure1.jpg alt="Enclosure" %}
+{% asset 2014/06/enclosure2.jpg alt="Enclosure" %}
+{% asset 2014/06/enclosure3.jpg alt="Enclosure" %}
+{% asset 2014/06/enclosure4.jpg alt="Enclosure" %}
 
 <h2>Fixing the parts in place</h2>
 
@@ -198,7 +198,7 @@ Inspired, I thought to glue the power switch to the enclosure - but it turns out
 
 A lot of 3mm screws, bolts, nuts and washers were used to secure various elements. I used a combination of screws and velcro to secure the battery pack.
 
-{% picture 2014/06/legs.jpg alt="Enclosure legs" %}
+{% asset 2014/06/legs.jpg alt="Enclosure legs" %}
 
 <h2>Long text on the 16char LCD</h2>
 
@@ -266,7 +266,7 @@ Overall, I am very satisfied with the result. I stared the project during the wi
 
 I'm satisfied with the amount of knowledge I got from this project. The code and schematics are open source, hopefully it's of help or inspiration to someone somewhere.
 
-{% picture 2014/06/finished_small.jpg alt="Finished product" %}
+{% asset 2014/06/finished_small.jpg alt="Finished product" %}
 
 <h2>Links</h2>
 <ul>
