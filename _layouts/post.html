@@ -7,7 +7,7 @@ layout: default
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                 <div class="post-heading">
                     <h1 itemprop="headline">{{ page.title }}</h1>
                     {% if page.subtitle %}
@@ -24,7 +24,7 @@ layout: default
 <article >
     <div class="container content-container">
         <div class="row">
-            <div class="col-md-10 col-md-offset-1 col-lg-12 col-lg-offset-0">
+            <div class="col-md-10 offset-md-1 col-lg-12 offset-lg-0">
 
                 <div itemprop="articleBody">
 				    {{ content }}

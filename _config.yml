@@ -24,9 +24,14 @@ assets:
     - _assets/css
     - _assets/lib
     - content
+    - node_modules
   js_compressor: uglifier
   css_compressor: sass
 
+compress_html:
+  ignore:
+    envs:
+      - development
 kramdown:
   input: GFM
   syntax_highlighter: rouge

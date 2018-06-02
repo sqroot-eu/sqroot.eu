@@ -7,11 +7,13 @@ rvm:
 node_js:
   - 4.1
 
+env:
+  - JEKYLL_ENV=production
+
 before_install:
   - bundle install
   - npm install
   - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
-  - cd _assets && ../node_modules/bower/bin/bower install && cd ..
 
 script:
   - bundle exec jekyll build

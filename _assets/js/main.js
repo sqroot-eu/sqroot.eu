@@ -1,4 +1,3 @@
-//=require jquery/dist/jquery.min
-//=require bootstrap/dist/js/bootstrap.min
+//=require jquery/dist/jquery.slim
+//=require bootstrap/dist/js/bootstrap
 //=require clean-blog
-//=require picturefill/dist/picturefill.min

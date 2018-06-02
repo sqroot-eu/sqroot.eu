@@ -42,44 +42,42 @@ hr.small {
 }
 .navbar-custom {
   background: white;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
-.navbar-custom .nav li a {
+.navbar-custom li a {
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
   text-decoration: none;
 }
+
+.navbar-custom li a:hover,
+.navbar-custom li a:focus {
+  color: $black;
+  border: 2px solid $black;
+  padding: 18px;
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: $black;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
     color: $white-faded;
   }
-  .navbar-custom .nav li a {
+  .navbar-custom li a {
     color: white;
     padding: 20px;
-  }
-  .navbar-custom .nav li a:hover,
-  .navbar-custom .nav li a:focus {
-    color: $white;
-    border: 2px solid $white;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -96,38 +94,7 @@ hr.small {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .navbar-custom.is-fixed {
-    /* when the user scrolls down, we hide the header right above the viewport */
-    position: fixed;
-    top: -61px;
-    background-color: rgba(255, 255, 255, 0.9);
-    border-bottom: 1px solid #f2f2f2;
-    -webkit-transition: -webkit-transform 0.3s;
-    -moz-transition: -moz-transform 0.3s;
-    transition: transform 0.3s;
-  }
-  .navbar-custom.is-fixed .navbar-brand {
-    color: $gray-dark;
-  }
-  .navbar-custom.is-fixed .navbar-brand:hover,
-  .navbar-custom.is-fixed .navbar-brand:focus {
-    color: $brand-primary;
-  }
-  .navbar-custom.is-fixed .nav li a {
-    color: $gray-dark;
-  }
-  .navbar-custom.is-fixed .nav li a:hover,
-  .navbar-custom.is-fixed .nav li a:focus {
-    color: $brand-primary;
-  }
-  .navbar-custom.is-visible {
-    /* if the user changes the scrolling direction, we show the header */
-    -webkit-transform: translate3d(0, 100%, 0);
-    -moz-transform: translate3d(0, 100%, 0);
-    -ms-transform: translate3d(0, 100%, 0);
-    -o-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
-  }
+
 }
 .intro-header {
   background: no-repeat center center;
@@ -349,11 +316,12 @@ form .row:first-child .floating-label-form-group {
   border: 1px solid $brand-primary;
   color: white;
 }
-.pager {
+
+.pagination {
   margin: 20px 0 0;
 }
-.pager li > a,
-.pager li > span {
+.pagination li > a,
+.pagination li > span {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
@@ -365,22 +333,22 @@ form .row:first-child .floating-label-form-group {
   text-decoration: none;
 }
 @media only screen and (min-width: 768px) {
-  .pager li > a,
-  .pager li > span {
+  .pagination li > a,
+  .pagination li > span {
     font-size: 14px;
     padding: 15px 25px;
   }
 }
-.pager li > a:hover,
-.pager li > a:focus {
+.pagination li > a:hover,
+.pagination li > a:focus {
   color: white;
   background-color: $brand-primary;
   border: 1px solid $brand-primary;
 }
-.pager .disabled > a,
-.pager .disabled > a:hover,
-.pager .disabled > a:focus,
-.pager .disabled > span {
+.pagination .disabled > a,
+.pagination .disabled > a:hover,
+.pagination .disabled > a:focus,
+.pagination .disabled > span {
   color: $gray;
   background-color: $gray-dark;
   cursor: not-allowed;
