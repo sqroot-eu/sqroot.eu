@@ -1,0 +1,45 @@
+- name: Impropooltund
+  website: https://pooltund.improv.ee
+  github: https://github.com/anroots/impropooltund
+  image: impropooltund.png
+  description: >
+    Impropooltund is a podcast about improvised theatre.
+    It's been running since 2015 and features talk shows, improvised audio
+    plays and musical improv with some of the best improvisers in Estonia.
+
+- name: Tilt Improv Festival
+  website: https://improfestival.ee
+  github: https://github.com/tilt-festival
+  image: tilt.png
+  description: >
+    Tilt is the first international improv festival of Estonia, started by
+    <a href="https://rahelotsa.ee/" target="_blank">Rahel Otsa</a>.
+
+- name: Snarky Doorbell
+  website: https://sqroot.eu/2017/snarky-doorbell
+  github: https://github.com/anroots/snarky-doorbell
+  image: snarky.jpg
+  description: >
+    Snarky Doorbell is an IoT doorbell with an attitude.
+    Instead of a monotonic "ding-dong", it responds with a snarky voice comment whenever our office doorbell is rung.
+
+- name: Home Automation
+  github: https://github.com/anroots/mysensors
+  image: openhab.jpg
+  description: >
+    I am building my own smart home! The home contains MySensors - custom-build IoT sensors.
+
+- name: improv.ee
+  website: https://improv.ee
+  image: improv.png
+  description: >
+    improv.ee is a site that aggregates information about performances and improv groups in Estonia.
+
+- name: Box of Words
+  website: https://sqroot.eu/2014/boxofwords-arduino-based-suggestion-generator-for-improvisers
+  github: https://github.com/anroots/box-of-words
+  image: boxofwords.jpg
+  description: >
+    BoxOfWords is a handheld, cigarette-box sized electronics project for improvisational theater practitioners.
+    The purpose of the project is to offer randomized word suggestions during an improv workshop or a training session.
+

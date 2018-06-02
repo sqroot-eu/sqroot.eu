@@ -19,9 +19,7 @@ h6 {
   font-family: 'Roboto Slab', 'Helvetica Neue', sans-serif;
   font-weight: 800;
 }
-a {
-  color: $gray-dark;
-}
+
 a:hover,
 a:focus {
   color: $brand-primary;
@@ -41,7 +39,7 @@ hr.small {
   border-color: white;
 }
 .navbar-custom {
-  background: white;
+  background: $gray-light;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
@@ -77,7 +75,8 @@ hr.small {
   }
   .navbar-custom li a {
     color: white;
-    padding: 20px;
+    padding: 20px 30px;
+    min-width: 4em;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -377,4 +376,10 @@ body {
 
 .content-container {
   margin-top: 50px;
+}
+
+
+.card-projects {
+  margin-top: 4em;
+  margin-bottom: 1em;
 }

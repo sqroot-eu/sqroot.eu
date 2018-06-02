@@ -20,6 +20,8 @@ script:
   - node_modules/jshint/bin/jshint _assets/js/
   - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH | tr / - ; fi`
   - docker build -t sqroot/sqroot.eu:$TAG .
+
+after_success:
   - docker push sqroot/sqroot.eu:$TAG
   - docker rmi sqroot/sqroot.eu:$TAG
 
