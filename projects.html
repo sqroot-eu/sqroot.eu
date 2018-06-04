@@ -4,15 +4,21 @@ title: Projects
 description: "Here are the projects I've done of my own free will and am most proud of."
 ---
 
-<div class="row">
+<div class="row row-projects">
   <div class="col-sm-12">
 <div class="card-deck card-projects">
   
   {% for project in site.data.projects %}
   <div class="card">
-    <a href="{{ project.website }}" target="_blank">
-    {% asset "site/projects/{{ project.image }}" @pic alt="{{ project.name }}" class="card-img-top" %}
-    </a>
+    {% if project.image %}
+      <a href="{{ project.website }}" target="_blank">
+      {% asset "site/projects/{{ project.image }}" @pic alt="{{ project.name }}" class="card-img-top" %}
+      </a>
+    {% else %}
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="{{ project.video }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+    {% endif %}
     <div class="card-body">
       <h5 class="card-title">{{ project.name }}</h5>
       <p class="card-text">{{ project.description }}</p>
@@ -47,7 +53,7 @@ description: "Here are the projects I've done of my own free will and am most pr
     </div>
     </div>
     </div>
-<div class="row">
+<div class="row row-projects">
   <div class="col-sm-12">
     <div class="card-deck">
   {% endif %}

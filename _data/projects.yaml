@@ -1,3 +1,11 @@
+- name: Home Lab
+  image: rack.jpg
+  description: >
+    I run a 42u server rack at home, complete with enterprise-grade features,
+    such as UPS, PDU, pfSense, managed networking, centralized logging with ELK,
+    PaaS with Openshift 3 (Kubernetes), monitoring with Prometheus and Grana,
+    OpenVPN for remote access and a 24-bay FreeNAS for storage.
+
 - name: Impropooltund
   website: https://pooltund.improv.ee
   github: https://github.com/anroots/impropooltund
@@ -13,12 +21,14 @@
   image: tilt.png
   description: >
     Tilt is the first international improv festival of Estonia, started by
-    <a href="https://rahelotsa.ee/" target="_blank">Rahel Otsa</a>.
+    <a href="https://rahelotsa.ee/" target="_blank">Rahel Otsa</a>. It has run for
+    six years, and offers visitors a variety of improvised theatre performances and
+    workshops from home and abroad.
 
 - name: Snarky Doorbell
   website: https://sqroot.eu/2017/snarky-doorbell
   github: https://github.com/anroots/snarky-doorbell
-  image: snarky.jpg
+  video: https://www.youtube.com/embed/ut_KckcVxW0
   description: >
     Snarky Doorbell is an IoT doorbell with an attitude.
     Instead of a monotonic "ding-dong", it responds with a snarky voice comment whenever our office doorbell is rung.
@@ -34,6 +44,14 @@
   image: improv.png
   description: >
     improv.ee is a site that aggregates information about performances and improv groups in Estonia.
+
+- name: Screen
+  website: https://screen.sqroot.eu
+  image: screen.png
+  github: https://github.com/sqroot-eu/screen-frontend
+  description: >
+    Screen is a wallboard app, to be displayed in a tablet. It shows relevant information for (my) home,
+    such as current weather, transportation schedules and investments.
 
 - name: Box of Words
   website: https://sqroot.eu/2014/boxofwords-arduino-based-suggestion-generator-for-improvisers

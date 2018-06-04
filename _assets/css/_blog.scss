@@ -378,8 +378,17 @@ body {
   margin-top: 50px;
 }
 
+.row-projects {
+  margin-bottom: 4em;
+}
 
 .card-projects {
   margin-top: 4em;
   margin-bottom: 1em;
+
+  a {
+    img:hover {
+     cursor: pointer;
+    }
+  }
 }
