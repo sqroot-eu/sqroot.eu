@@ -7,3 +7,4 @@ _assets/lib/
 vendor/
 .bundle/
 .jekyll-cache
+content/resized
