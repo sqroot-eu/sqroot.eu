@@ -17,6 +17,7 @@ include: [".well-known"]
 
 plugins:
   - jekyll-paginate
+  - jekyll-responsive-image  
 
 assets:
   sources:
@@ -27,6 +28,19 @@ assets:
     - node_modules
   js_compressor: uglifier
   css_compressor: sass
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 576  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 768
+    - width: 992
+      quality: 90
+    - width: 1200
+  base_path: content
+  output_path_format: content/resized/%{width}/%{basename}
+
 
 compress_html:
   ignore:
