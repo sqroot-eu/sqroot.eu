@@ -20,6 +20,10 @@ h6 {
   font-weight: 800;
 }
 
+article picture img {
+  width: 100%;
+}
+
 a:hover,
 a:focus {
   color: $brand-primary;
