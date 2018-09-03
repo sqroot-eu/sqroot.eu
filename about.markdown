@@ -6,7 +6,8 @@ description: "Ando \"David\" Roots"
 
 I've been around and fascinated by technology computers from my early teens. What started out as a fun hobby has turned into an exciting and challenging career.
 
-I currently work as an information security engineer at Bigbank, helping to both hack into and secure the bank from malicious actors.
+I currently work as an Security Engineer at [Transferwise](https://transferwise.com), helping to move money without borders and keep our customers safe. My thoughts are my own.
+
 In my previous life, I have been a Site Reliability Engineer and a Full Stack Software Developer.
 
 I love to learn new technologies, frameworks and better ways of doing things. I also love sharing what I know with others.
