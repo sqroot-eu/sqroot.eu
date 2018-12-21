@@ -8,7 +8,7 @@ header-img: content/2018/secure-christmas/header.jpg
 I received solstice greetings via snail-mail from fellow security engineers in [Bigbank](https://bigbank.eu), guys I used to work with.
 Only, when ethical hackers send messages, they send them... securely.
 
-The outer envilope was marked as registrered mail. Inside:
+The outer envelope was marked as registered mail. Inside:
 
 - Security stickers, because, obviously
 - A merry fir tree card
@@ -106,7 +106,7 @@ The resulting `.PDF` can be opened in Gimp.
 
 {% responsive_image path: content/2018/secure-christmas/gimp.png alt="Card scan in Gimp" %}
 
-Using he color Channels dialog, we'll hide the Red and Green color channels, leaving only the blue.
+Using the color Channels dialog, we'll hide the Red and Green color channels, leaving only the blue.
 And zoom in.
 
 {% responsive_image path: content/2018/secure-christmas/gimp2.png alt="Card scan in Gimp" %}
