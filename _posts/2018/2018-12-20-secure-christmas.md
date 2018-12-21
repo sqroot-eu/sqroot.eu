@@ -87,6 +87,8 @@ Have you ever thought how to hide your hacking distros? An image* will do.
 The printed-out card they sent had two sides: one Word document, directing the user to
 enable content, the other wishing merry Christmas.
 
+{% responsive_image path: content/2018/secure-christmas/macros.jpg alt="Enable macros" %}
+
 {% responsive_image path: content/2018/secure-christmas/card.jpg alt="Solstice card" %}
 
 Most people don't know this, but whenever you print something with a color printer, the printer
