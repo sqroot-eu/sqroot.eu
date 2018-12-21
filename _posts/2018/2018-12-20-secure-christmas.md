@@ -123,4 +123,4 @@ So, if you ever receive printouts with the same fingerprint, you know it came fr
 All-in-all, an excellent hackish solstice wish. Thanks, guys!
 
 Bigbank Information Security Team (ISEC) is a blue team of hackers, who tries to keep the bank safe from
-exploitation and data breaches. They might be hiring - see [jobs.bigbank.eu](https://jobs.bigbank.eu).
+exploitation and data breaches.
