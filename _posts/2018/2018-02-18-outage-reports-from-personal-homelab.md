@@ -102,6 +102,43 @@ Theory: an unexpected power spike occured in central Tallinn, my office and home
 
 The homelab was protected by the UPS.
 
+
+## Remote Filebeat log shipments failing due to changed remote IP-s
+
+- **Start**: `2019-06-08 19:11:13`
+- **End**: `2019-06-09 16:20:00`
+- **Detected at**: `2019-06-09 10:05:00`
+- **Root Cause**: Changed remote node IP, which wasn't in a whitelist
+- **Discovered By**: User, who needed logs and went looking
+
+I am running a [managed Kubernetes cluster](https://www.digitalocean.com/products/kubernetes/) on DigitalOcean. I run a DaemonSet of Filebeat containers on the nodes, which ship pod and node logs to my on-prem ELK for storage and search. The on-prem firewall has whitelisted the IP-s of DigitalOcean nodes, that are allowed to ship logs to me.
+
+As part of the managed service, DigitalOcean performs automatic Kubernetes cluster updates. As details about Intel's MDS vulnerability emerged recently, DigitalOcean [needed to patch](https://blog.digitalocean.com/may-2019-intel-vulnerability/) their infrastructure. This meant a redeploy of Kubernetes nodes.
+
+Every time the nodes are redeployed, they are replaced with new droplets, having new IP-s. As you might guess, this breaks IP whitelisting - and I didn't have any detection or automatic remediation in place.
+
+So, when I went looking for pod logs from ELK to debug a unrelated problem, I found no logs at all - my Kubernetes node IP-s had changed and incoming log shipments were rejected by my firewall.
+
+{% asset 2018/outages/blocked-log-shipments.png alt="Firewall blocking logs" %}
+
+### Remediation
+
+The solution was easy enough - update the whitelist with new IP-s.
+
+### Monitoring improvements
+
+As this was bound to happen again, I decided to deploy monitoring and alerting to detect this.
+[Elastalert](https://elastalert.readthedocs.io) fit this use-case (alerting from firewall logs) nicely,
+and I'd been meaning to deploy it anyway.
+
+I deployed it to my Openshift 3 cluster and added the first rule, which will monitor firewall logs for log shipment blocks.
+
+{% asset 2018/outages/elastalert-rule.png alt="Elastalert rule" %}
+
+{% asset 2018/outages/elastalert-fleep.png alt="Elastalert alert" %}
+
+A better solution would be to hook into DigitalOcean API-s and automatically update the whitelist.
+
 ----
 
 (This post will be updated when more interesting incidents occur)

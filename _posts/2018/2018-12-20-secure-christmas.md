@@ -104,7 +104,7 @@ The resulting `.PDF` can be opened in Gimp.
 
 {% responsive_image path: content/2018/secure-christmas/gimp.png alt="Card scan in Gimp" %}
 
-Using he color Channels dialog, we'll hide the Red and Green color channels, leaving only the blue.
+Using the color Channels dialog, we'll hide the Red and Green color channels, leaving only the blue.
 And zoom in.
 
 {% responsive_image path: content/2018/secure-christmas/gimp2.png alt="Card scan in Gimp" %}
