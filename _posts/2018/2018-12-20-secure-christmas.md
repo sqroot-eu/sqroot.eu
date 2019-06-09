@@ -8,7 +8,7 @@ header-img: content/2018/secure-christmas/header.jpg
 I received solstice greetings via snail-mail from fellow security engineers in [Bigbank](https://bigbank.eu), guys I used to work with.
 Only, when ethical hackers send messages, they send them... securely.
 
-The outer envilope was marked as registrered mail. Inside:
+The outer envelope was marked as registered mail. Inside:
 
 - Security stickers, because, obviously
 - A merry fir tree card
@@ -87,6 +87,8 @@ Have you ever thought how to hide your hacking distros? An image* will do.
 The printed-out card they sent had two sides: one Word document, directing the user to
 enable content, the other wishing merry Christmas.
 
+{% responsive_image path: content/2018/secure-christmas/macros.jpg alt="Enable macros" %}
+
 {% responsive_image path: content/2018/secure-christmas/card.jpg alt="Solstice card" %}
 
 Most people don't know this, but whenever you print something with a color printer, the printer
@@ -121,4 +123,4 @@ So, if you ever receive printouts with the same fingerprint, you know it came fr
 All-in-all, an excellent hackish solstice wish. Thanks, guys!
 
 Bigbank Information Security Team (ISEC) is a blue team of hackers, who tries to keep the bank safe from
-exploitation and data breaches. They might be hiring - see [jobs.bigbank.eu](https://jobs.bigbank.eu).
+exploitation and data breaches.
