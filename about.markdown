@@ -4,9 +4,11 @@ title: "About"
 description: "Ando \"David\" Roots"
 ---
 
+<img src="/content/site/ando.jpg" alt="Ando Roots" />
+
 I've been around and fascinated by technology computers from my early teens. What started out as a fun hobby has turned into an exciting and challenging career.
 
-I currently work as an Security Engineer at [Transferwise](https://transferwise.com), helping to move money without borders and keep our customers safe. My thoughts are my own.
+I currently work as an Security Engineer at [Transferwise](https://transferwise.com), helping to move money without borders and keep our customers safe. My thoughts are my own and do not reflect the views of my employer.
 
 In my previous life, I have been a Site Reliability Engineer and a Full Stack Software Developer.
 
