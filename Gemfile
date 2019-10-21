@@ -7,7 +7,7 @@ gem 'uglifier'
 gem 'sass'
 gem 'scss-lint'
 gem 'kramdown', '~>1.16'
-
+gem "sprockets", "~> 3.7"
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
