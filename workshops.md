@@ -65,7 +65,10 @@ The training consists of 90 minutes of theory and 150 minutes of hands on lab wo
 	</div>
 </div>
 
-<hr />
+Would you benefit from this workshop? [Test your website](https://observatory.mozilla.org/)
+to see how well you are doing with implementing HTTP Security Headers. Ideally, your site would get an "A" rating.
+
+-----------------
 
 ## Workshop audience
 
