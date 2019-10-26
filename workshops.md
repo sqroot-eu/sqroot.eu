@@ -4,7 +4,8 @@ title: "Workshops"
 description: "I run practical workshops that teach engineers new technology skills"
 ---
 
-The following workshops are available. Get in touch to discuss possibilities, if you need a workshop on a particular topic.
+The following workshops are available. Get in touch to discuss possibilities,
+if you need a custom workshop on a particular topic not yet listed.
 
 
 ## HTTP security headers

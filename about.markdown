@@ -4,11 +4,9 @@ title: "About"
 description: "Ando \"David\" Roots"
 ---
 
-<img src="/content/site/ando.jpg" alt="Ando Roots" />
-
 I've been around and fascinated by technology computers from my early teens. What started out as a fun hobby has turned into an exciting and challenging career.
 
-I currently work as an Security Engineer at [Transferwise](https://transferwise.com), helping to move money without borders and keep our customers safe. My thoughts are my own and do not reflect the views of my employer.
+I currently work as an Security Engineer. My thoughts are my own and do not reflect the views of my employer.
 
 In my previous life, I have been a Site Reliability Engineer and a Full Stack Software Developer.
 
@@ -18,6 +16,6 @@ On my free time I'm a somewhat experienced improviser. I perform, teach and trav
 
 My favorite past-time for Fridays and weekends is to work on a private software or hardware project. Most of it is open sourced [at GitHub](https://github.com/anroots). I enjoy running, orchestral music and coffee that's done just right.
 
-Contact: ando&#64;sqroot.eu.
+Contact: ando&#64;sqroot.eu. | [LinkedIn](https://linkedin.com/in/anroots).
 
-For job opportunities, please contact me through [LinkedIn](https://linkedin.com/in/anroots).
+<img src="/content/site/ando.jpg" alt="Ando Roots" />
