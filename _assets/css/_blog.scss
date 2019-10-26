@@ -55,13 +55,13 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
   text-decoration: none;
+  border: 2px solid transparent;
 }
 
 .navbar-custom li a:hover,
 .navbar-custom li a:focus {
   color: $black;
   border: 2px solid $black;
-  padding: 18px;
 }
 
 @media only screen and (min-width: 768px) {
