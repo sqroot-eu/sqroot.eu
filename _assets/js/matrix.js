@@ -46,7 +46,7 @@ function initMatrix() {
     for (var x = 0; x < columns; x++) {
         drops[x] = 1;
     }
-console.log('init');
+
     drawMatrixHandler = setInterval(drawMatrix,100);
 }
 

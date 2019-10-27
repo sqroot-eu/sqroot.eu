@@ -8,11 +8,11 @@
   },
   "author": "Ando Roots",
   "license": "Apache-2.0",
-  "dependencies": {
-    "jshint": "~2.10",
-    "jquery": "^3.3",
-    "popper.js": "^1.14.3",
+  "devDependencies": {
     "bootstrap": "^4.3",
-    "fg-loadcss": "^2.1"
+    "jquery": "^3.3",
+    "jshint": "~2.10",
+    "popper.js": "^1.14.3",
+    "typeface-montserrat": "0.0.75"
   }
 }

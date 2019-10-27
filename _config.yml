@@ -23,6 +23,7 @@ assets:
   sources:
     - _assets/js
     - _assets/css
+    - node_modules/typeface-montserrat/files
     - _assets/lib
     - content
     - node_modules
