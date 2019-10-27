@@ -11,20 +11,20 @@ var c = document.getElementById('matrix-header');
 var cxt = c.getContext("2d");
 
 
-function drawMatrix(){
-    cxt.fillStyle="rgba(0,0,0,0.05)";
-    cxt.fillRect(0,0,c.width,c.height);
+function drawMatrix() {
+    cxt.fillStyle = "rgba(0,0,0,0.05)";
+    cxt.fillRect(0, 0, c.width, c.height);
 
     cxt.fillStyle = "#0F0";
-    cxt.font = font_size+'px arial';
+    cxt.font = font_size + 'px arial';
 
 
-    for(var i=0;i<drops.length;i++){
-        var text = hexChars[Math.floor(Math.random()*hexChars.length)];
-        cxt.fillText(text,i*font_size,drops[i]*font_size);
+    for (var i = 0; i < drops.length; i++) {
+        var text = hexChars[Math.floor(Math.random() * hexChars.length)];
+        cxt.fillText(text, i * font_size, drops[i] * font_size);
 
-        if(drops[i]*font_size>c.height && Math.random() >0.975)
-            drops[i]=0;
+        if (drops[i] * font_size > c.height && Math.random() > 0.975)
+            drops[i] = 0;
 
         //increment y coordinate
         drops[i]++;
@@ -34,11 +34,11 @@ function drawMatrix(){
 
 function initMatrix() {
 
-    if (drawMatrixHandler !== null){
+    if (drawMatrixHandler !== null) {
         clearInterval(drawMatrixHandler);
     }
 
-    c.width = window.innerWidth - 20;
+    c.width = c.parentElement.offsetWidth;
     c.height = 350;
 
     columns = c.width / font_size;
@@ -47,11 +47,11 @@ function initMatrix() {
         drops[x] = 1;
     }
 
-    drawMatrixHandler = setInterval(drawMatrix,100);
+    drawMatrixHandler = setInterval(drawMatrix, 100);
 }
 
 initMatrix();
 
-window.onresize = function() {
+window.onresize = function () {
     initMatrix();
 };
