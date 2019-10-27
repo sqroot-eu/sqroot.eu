@@ -5,7 +5,7 @@ $(function() {
 	// Set background image on post pages
 	let headerImgContainer = $('.intro-header');
 	let headerBackgroundUrl = headerImgContainer.data('background-img');
-	if (headerBackgroundUrl !== null && headerBackgroundUrl.length > 0) {
+	if (typeof headerBackgroundUrl !== "undefined" && headerBackgroundUrl.length > 0) {
 	  headerImgContainer.css('background-image', 'url(' + headerBackgroundUrl + ')').css('padding', '200px 0');
     }
 });
