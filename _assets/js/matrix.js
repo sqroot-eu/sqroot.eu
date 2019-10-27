@@ -8,10 +8,10 @@ var drops = [];
 var font_size = 24;
 var columns = 0;
 var c = document.getElementById('matrix-header');
-var cxt = c.getContext("2d");
-
 
 function drawMatrix() {
+    var cxt = c.getContext("2d");
+
     cxt.fillStyle = "rgba(0,0,0,0.05)";
     cxt.fillRect(0, 0, c.width, c.height);
 
@@ -33,6 +33,11 @@ function drawMatrix() {
 }
 
 function initMatrix() {
+
+    // Do not attempt to init matrix on pages where it's not displayed
+    if (c === null) {
+        return;
+    }
 
     if (drawMatrixHandler !== null) {
         clearInterval(drawMatrixHandler);
