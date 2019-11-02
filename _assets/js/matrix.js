@@ -12,7 +12,7 @@ var c = document.getElementById('matrix-header');
 function drawMatrix() {
     var cxt = c.getContext("2d");
 
-    cxt.fillStyle = "rgba(0,0,0,0.05)";
+    cxt.fillStyle = "rgba(0,0,0,0.2)";
     cxt.fillRect(0, 0, c.width, c.height);
 
     cxt.fillStyle = "#0F0";
