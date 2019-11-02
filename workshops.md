@@ -2,6 +2,8 @@
 layout: page
 title: "Workshops"
 description: "I run practical workshops that teach engineers new technology skills"
+excerpt: "Personal engineering blog of Ando Roots. I run practical workshops that teach engineers new technology skills."
+header-img: "content/site/workshops/header.jpg"
 ---
 
 The following workshops are available. Get in touch to discuss possibilities,
