@@ -6,11 +6,15 @@ excerpt: "Personal engineering blog of Ando Roots. I run practical workshops tha
 header-img: "content/site/workshops/header.jpg"
 ---
 
+I run practical workshops that teach engineers new technology skills.
+This service is directed towards companies: invite me to teach a classroom of
+your engineers, and level up their dev|sec|ops skills.
+
 The following workshops are available. Get in touch to discuss possibilities,
 if you need a custom workshop on a particular topic not yet listed.
 
 
-## HTTP security headers
+## 1 - HTTP security headers
 
 
 This is a 4-hour practical technical workshop for engineers on using [HTTP security headers](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project)
@@ -74,7 +78,7 @@ to see how well you are doing with implementing HTTP Security Headers. Ideally, 
 -----------------
 
 
-## TLS and HTTPS basics
+## 2 - TLS and HTTPS basics
 
 _This workshop is still in development._
 
@@ -115,20 +119,20 @@ The training consists of 90 minutes of theory and 150 minutes of hands on lab wo
 
 ## Workshop audience
 
-The workshops are directed towards technology professionals: programmers, devops engineers, full-stack engineers, frontend engineers, system
-administrators, security engineers and testers.
+The workshops are directed towards technology professionals: programmers, devops engineers,
+full-stack engineers, frontend engineers, system administrators, security engineers and testers.
 
-All workshops are for in-person sessions only, ie no remote video participants. This is to enable effective communication and support from the trainer
-during practical labs.
+All workshops are for in-person sessions only, ie no remote video participants.
+This is to facilitate effective communication and support from the trainer during practical labs.
 
 ## Price
 
 Price of the workshop is for the full training session and isn't affected by the number of participants (although workshops have minimum and maximum
-participant limits). The price of a single training is generally greatly smaller than sending the participants to a similar trainining individually.
+participant limits). The price of a single training is generally greatly smaller than sending the participants to a similar training individually.
 
 Price can be affected by availability, special requests and travel expenses (if any). Participants get training materials (slides and any extra supporting material, if any)
 after the training and are welcome to use it internally.
 
 ## Booking
 
-Get in touch via e-mail - `ando at sqroot dot eu`.
+Get in touch via e-mail - <code class="reverse-text">ue.toorqs@odna</code>.

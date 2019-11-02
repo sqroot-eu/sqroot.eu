@@ -412,3 +412,8 @@ body {
     }
   }
 }
+
+.reverse-text {
+  unicode-bidi:bidi-override;
+  direction:rtl;
+}

@@ -16,6 +16,6 @@ On my free time I'm a somewhat experienced improviser. I perform, teach and trav
 
 My favorite past-time for Fridays and weekends is to work on a private software or hardware project. Most of it is open sourced [at GitHub](https://github.com/anroots). I enjoy running, orchestral music and coffee that's done just right.
 
-Contact: ando&#64;sqroot.eu. | [LinkedIn](https://linkedin.com/in/anroots).
+Contact: <code class="reverse-text">ue.toorqs@odna</code>
 
 <img src="/content/site/ando.jpg" alt="Ando Roots" />
