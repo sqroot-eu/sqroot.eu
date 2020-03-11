@@ -2,7 +2,7 @@
 layout: page
 title: "Workshops"
 description: "I run practical workshops that teach engineers new technology skills"
-excerpt: "Personal engineering blog of Ando Roots. I run practical workshops that teach engineers new technology skills."
+excerpt: "Practical workshops that teach engineers new technology skills."
 header-img: "content/site/workshops/header.jpg"
 ---
 
@@ -21,14 +21,16 @@ This is a 4-hour practical technical workshop for engineers on using [HTTP secur
 to improve client side security on the web.
 
 
-- **Duration:** 4 hours (1.5h of theory / 2.5h of lab work)
+- **Duration:** 5 hours (1.5h of theory / 2.5h of lab work)
 - **Target audience:** web developers (backend, frontend); system administrators who work with web servers; web testers; security specialists
 - **Expected outcome:** Participants are aware on available client side HTTP security controls; what protections they provide; and how to configure them. Participants have needed basics to start implementing learnings in their production applications.
 
-The training consists of 90 minutes of theory and 150 minutes of hands on lab work, where participants have to apply learnings to secure a real website.
+The training consists of ~90 minutes of theory and ~150 minutes of hands on lab work, where participants have to apply learnings to secure a real website.
 
 #### Topics covered
 
+- What are security headers and how they protect browsers / customers
+- How security headers can be used to mitigate common front-end attacks
 - CSP (Content Security Policy)
 - Cookie security
 - HSTS (HTTP Strict Transport Security)
@@ -39,6 +41,7 @@ The training consists of 90 minutes of theory and 150 minutes of hands on lab wo
 - Expect-CT; Certificate Transparency
 - Deprecated security headers
 - XSS and browser-based protection against it
+- CORS
 
 
 <div class="row text-center text-lg-left">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Ando \"David\" Roots"
+description: "Ando David Roots"
 ---
 
 I've been around and fascinated by technology computers from my early teens. What started out as a fun hobby has turned into an exciting and challenging career.
