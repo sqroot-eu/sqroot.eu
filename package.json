@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "bootstrap": "^4.3",
-    "jquery": "^3.3",
+    "jquery": "^3.5",
     "jshint": "~2.10",
     "popper.js": "^1.14.3",
     "typeface-montserrat": "0.0.75"
