@@ -417,3 +417,8 @@ body {
   unicode-bidi:bidi-override;
   direction:rtl;
 }
+
+
+.content-container picture {
+  cursor: pointer;
+}

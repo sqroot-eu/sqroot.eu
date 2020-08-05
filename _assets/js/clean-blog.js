@@ -2,6 +2,10 @@ $(function() {
 
 	$("img:not(.gallery)").addClass("img-responsive");
 
+  $(".content-container picture").click(function(e){
+    window.location.href = e.target.src;
+  });
+
 	// Set background image on post pages
 	let headerImgContainer = $('.intro-header');
 	let headerBackgroundUrl = headerImgContainer.data('background-img');
