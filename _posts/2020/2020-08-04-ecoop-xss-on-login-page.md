@@ -113,7 +113,7 @@ The fix appears effective, as both PoC-s now fail.
 - 2020-03-12 ISO replies: acknowledgment that issue was known internally since initial report; remediation plan had been made (switch to a new technical e-store platform), but implementation delayed
 - 2020-08-04 ISO notifies that the issue has been fixed in the current production system
 - 2020-08-05 Verified fix (a whitelist validator had been added; protects against both PoC-s), can see no obvious bypass - issue fixed
-- 2020-08-06 Public disclosure
+- 2020-08-05 Public disclosure
 
 # Appendix: Disclosure e-mail
 
@@ -129,7 +129,7 @@ Leitud haavatavused on järgnevad.
 
 ## Open redirect
 
-Rakenduse aksepteerib sisselogimisel URL parameetrit "next". Näiteks, kui sisselogimata külastaja vajutab peamenüü lingile "Ostunimekirjad", suunatakse ta edasi "Sisene eCoopi" lehele, kusjuures lehe URL on `https://ecoop.ee/et/logisisse/?next=%2Fet%2Fostunimekirjad%2F`.
+Rakenduse aktsepteerib sisselogimisel URL parameetrit "next". Näiteks, kui sisselogimata külastaja vajutab peamenüü lingile "Ostunimekirjad", suunatakse ta edasi "Sisene eCoopi" lehele, kusjuures lehe URL on `https://ecoop.ee/et/logisisse/?next=%2Fet%2Fostunimekirjad%2F`.
 
 Aadressi vaadates märgati, et `next` parameeter sisaldab URI segmenti ja on ilmselt haavatav [open redirect](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md) turvaveale: `next` parameetri väärtus on muudetav ning võib näidata suvalisele URL-ile - mispeale rakendus ka peale sisselogimist sinna suunab.
 
