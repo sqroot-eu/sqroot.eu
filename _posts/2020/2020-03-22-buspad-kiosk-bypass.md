@@ -1,6 +1,6 @@
 ---
 title: Buspad kiosk breakout
-subtitle: Buspad tablets are installed to buses in kiosk mode - but it's possible to break out of it; and get user-level control of the Android tablet
+subtitle: Evading kiosk mode in Android tablets in bus entertainment system
 category: Security
 header-img: content/2020/buspad/header.jpg
 ---

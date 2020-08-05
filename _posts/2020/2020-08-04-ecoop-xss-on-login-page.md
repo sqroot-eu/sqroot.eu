@@ -1,6 +1,6 @@
 ---
-title: eCoop open redirect and XSS on login
-subtitle: eCoop (groceries website) had a XSS/open redirect vulnerability on their login page
+title: eCoop open redirect and XSS on login page
+subtitle: Accepting unvalidated user-input in redirect URL-s can result in security issues
 category: Security
 header-img: content/2020/ecoop/header-inverse.png
 ---
