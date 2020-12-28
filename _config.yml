@@ -40,7 +40,7 @@ responsive_image:
       quality: 90
     - width: 1200
   base_path: content
-  output_path_format: content/resized/%{width}/%{basename}
+  output_path_format: content/resized/%{width}/%{dirname}/%{basename}
 
 
 compress_html:

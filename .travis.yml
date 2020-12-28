@@ -3,7 +3,7 @@ services:
   - docker
 language: ruby
 rvm:
-  - 2.5
+  - 2.6
 node_js:
   - 8
 

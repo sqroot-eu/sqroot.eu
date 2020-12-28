@@ -70,6 +70,13 @@ $gray-light: #eee;
   }
 }
 
+.content-container {
+  img {
+    margin-top: .5em;
+
+  }
+}
+
 
 @media only screen and (max-width: 800px) {
   .blog-header {
