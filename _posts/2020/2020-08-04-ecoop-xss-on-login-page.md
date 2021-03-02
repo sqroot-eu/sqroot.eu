@@ -115,6 +115,10 @@ The fix appears effective, as both PoC-s now fail.
 - 2020-08-05 Verified fix (a whitelist validator had been added; protects against both PoC-s), can see no obvious bypass - issue fixed
 - 2020-08-05 Public disclosure
 
+# Appendix: developer view
+
+solutional.ee wrote a blog on this: [Tackling Security Issues](https://solutional.ee/blog/2020-10-20-Tackling-Security-Issues.html).
+
 # Appendix: Disclosure e-mail
 
 Tere
