@@ -11,7 +11,7 @@
   "devDependencies": {
     "bootstrap": "^4.3",
     "jquery": "^3.5",
-    "jshint": "~2.10",
+    "jshint": "~2.13",
     "popper.js": "^1.14.3",
     "typeface-montserrat": "0.0.75"
   }
