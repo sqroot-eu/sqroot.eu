@@ -27,6 +27,15 @@ $ cd _assets && ../node_modules/bower/bin/bower install && cd ..
 $ docker-compose build
 ```
 
+### MacOS building
+
+```bash
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+export LDFLAGS="-L/opt/homebrew/opt/ruby/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/ruby/include"
+export PKG_CONFIG_PATH="/opt/homebrew/opt/ruby/lib/pkgconfig"
+```
+
 ## License
 
 Code under Apache2 for learning purposes.
